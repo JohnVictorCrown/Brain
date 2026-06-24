@@ -1,0 +1,14 @@
+# Fast Lanes Of Pleasing
+
+These are the fast lanes of pleasing, these are techniques that work everytime designed by the master John Victor.
+
+- To quickly induce a level one orgasm, place the tip of your hand in the clitoris, press it and massage it in circular motion while pressing it, it's the best way to induce a level one orgasm.
+- The right way to choke is to press on the right of the neck to give a lightness feeling enhancing the sensations. Stopping respiration is not what gives the thrill even though you can try to also choke respiration for a few seconds.
+- Holding your partners hair and raising it up while in the act, push the hair up as to hang the person by the hair, this will enhance any penetration or act you're doing in the moment, they very likely may orgasm from it.
+- Communication is essential, such as guiding telling your partners to do things, dirty talk, the whole dynamic and structure will set the pace for the intensity of the intimacy.
+- When hitting from the back put your two hands into the partner waist and press it down to arc the back high, do this, while slapping the back and telling them motivating things.
+- When penetrating, always try to go full in and out, the whole extension, this is the right way to do it.
+- Grabbing firmly the whole breast and wiggling it, slapping the breasts and holding the tip of your partners breast while penetrating will enhance the sensations and induce orgasm and satisfaction.
+- Kissing the whole body, telling them nice things, and then being rough and brutish at times is a way of doing intimacy that always work, push and pull, variations of love.
+- Scratching the back up and down and running your fingers roughly on the back, up and down, and in other places like waist and neck, will enhance the satisfaction and likely induce orgasm.
+- The right way to do a blowjob that will elevate your partners pleasure to unprecedented levels is this: Suck the penis like a vacuum cleaner, suck it hard while blowing the whole extension of the penis, the whole extension, you even need to do a deep throat, just “swallow” the penis whole, in this way you don't choke and suck the penis whole, it's a very alluring felling. So to summarize, the right way to do a blowjob is to suck hard, put your lips forwards like you were trying to kiss it, then suck it, go though the whole extension while sucking hard like a vacuum cleaner, “swallow” the penis if you have to, then go back and forth sucking hard the whole extension of the penis. This is the right way to do and will likely impress your partner with the level of satisfaction it beings.
