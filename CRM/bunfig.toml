@@ -1,0 +1,8 @@
+﻿[serve.static]
+plugins = ["bun-plugin-svelte"]
+
+[build]
+entry = "./src/main.ts"
+outdir = "./public"
+target = "browser"
+sourcemap = true

@@ -1,0 +1,80 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Alice Smith",
+      "phone": "+1 (555) 123-4567",
+      "email": "alice@alphacorp.com",
+      "website": "https://alphacorp.com",
+      "group_name": "Customers",
+      "tags": "vip, follow-up",
+      "address": "123 Main St, New York, NY",
+      "company": "Alpha Corp",
+      "job_title": "Sales Manager",
+      "notes": "Prefers email communication.",
+      "birthday": "1990-05-15",
+      "created_at": "2026-06-26T20:20:00.301Z"
+    },
+    {
+      "id": 2,
+      "name": "Bob Jones",
+      "phone": "+1 (555) 987-6543",
+      "email": "bob@betalabs.co",
+      "website": "https://betalabs.co",
+      "group_name": "Leads",
+      "tags": "tech, cold-lead",
+      "address": "456 Science Dr, Boston, MA",
+      "company": "Beta Labs",
+      "job_title": "Lead Engineer",
+      "notes": "Met at TechConf.",
+      "birthday": "1985-11-22",
+      "created_at": "2026-06-26T20:20:00.303Z"
+    },
+    {
+      "id": 3,
+      "name": "Charlie Brown",
+      "phone": "+1 (555) 456-7890",
+      "email": "charlie@gammaventures.com",
+      "website": "https://gammaventures.com",
+      "group_name": "Partners",
+      "tags": "investor, high-priority",
+      "address": "789 Capital Way, SF",
+      "company": "Gamma Ventures",
+      "job_title": "CEO",
+      "notes": "Strategic partnership.",
+      "birthday": "1978-02-28",
+      "created_at": "2026-06-26T20:20:00.304Z"
+    },
+    {
+      "id": 4,
+      "name": "Diana Prince",
+      "phone": "+1 (555) 321-7654",
+      "email": "diana@deltaltd.org",
+      "website": "https://deltaltd.org",
+      "group_name": "Customers",
+      "tags": "active, friendly",
+      "address": "101 Amazon Pl, Seattle",
+      "company": "Delta Ltd",
+      "job_title": "Marketing Director",
+      "notes": "Regular customer.",
+      "birthday": "1988-08-18",
+      "created_at": "2026-06-26T20:20:00.333Z"
+    },
+    {
+      "id": 5,
+      "name": "Evan Wright",
+      "phone": "+1 (555) 654-3210",
+      "email": "evan@wrightconsulting.net",
+      "website": "https://wrightconsulting.net",
+      "group_name": "Consultants",
+      "tags": "external, contract",
+      "address": "202 Solo Blvd, Austin",
+      "company": "Wright Consulting",
+      "job_title": "Principal Consultant",
+      "notes": "Key resource.",
+      "birthday": "1993-12-05",
+      "created_at": "2026-06-26T20:20:00.334Z"
+    }
+  ],
+  "lastId": 5
+}

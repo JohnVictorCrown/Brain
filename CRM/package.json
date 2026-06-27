@@ -1,0 +1,32 @@
+{
+  "name": "brain-crm",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "bun run --watch server.ts",
+    "build": "bun run build-css.ts && bun run build.ts && bun build ./server.ts --outfile=./dist/server.js --target=node",
+    "start": "bun ./dist/server.js",
+    "clean": "rm -rf dist public/index.js crm.db crm_fallback.json"
+  },
+  "dependencies": {
+    "@google/genai": "^2.4.0",
+    "dotenv": "^17.2.3",
+    "hono": "^4.0.0",
+    "lucide-svelte": "^1.0.1",
+    "papaparse": "^5.5.4",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^6.0.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.1",
+    "@types/bun": "latest",
+    "@types/node": "^22.14.0",
+    "@types/papaparse": "^5.5.2",
+    "bun-plugin-svelte": "^0.0.6",
+    "postcss": "^8.0.0",
+    "tailwindcss": "^4.1.14",
+    "typescript": "~5.8.2"
+  }
+}
+}

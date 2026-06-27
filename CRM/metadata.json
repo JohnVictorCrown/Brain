@@ -1,0 +1,8 @@
+{
+  "name": "Brain CRM",
+  "description": "An offline-first, state-of-the-art CRM dashboard featuring fluid animations, contact management, CSV/vCard import, smart bulk actions, and deep local synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
