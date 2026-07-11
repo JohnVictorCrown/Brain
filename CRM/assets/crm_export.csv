@@ -1,0 +1,870 @@
+name,email,source,status,sent_at,created_at
+Pat Gouhin,pat@angelinvestorfoundation.org,Angel Investor Foundation,sent,2026-03-01T15:06:49.076770,2026-03-01 15:02:51
+Angel Investor Foundation,aif@angelinvestorfoundation.org,Angel Capital Association,sent,2026-03-01T15:08:02.098336,2026-03-01 15:03:19
+Angel Charity,info@AngelCharity.org,Angel Charity,sent,2026-03-01T15:10:03.907912,2026-03-01 15:03:19
+Exponent Philanthropy,contact@exponentphilanthropy.org,Exponent Philanthropy,sent,2026-03-01T15:15:04.233808,2026-03-01 15:03:20
+Ignite Philanthropy,contact@ignitephilanthropy.com,Ignite Philanthropy,sent,2026-03-01T15:20:18.430724,2026-03-01 15:03:20
+Mike Bloomberg,mike@bloomberg.org,Bloomberg Philanthropies,sent,2026-03-01T15:20:22.291782,2026-03-01 15:03:20
+Bill Gates,bill.gates@gatesfoundation.org,Gates Foundation,sent,2026-03-01T15:20:26.065159,2026-03-01 15:03:20
+Melinda Gates,melinda@gatesfoundation.org,Gates Foundation,sent,2026-03-01T15:21:45.277372,2026-03-01 15:03:20
+Warren Buffett,warren@berkshirehathaway.com,Berkshire Hathaway,sent,2026-03-01T15:21:49.392156,2026-03-01 15:03:20
+George Soros,george@soros.org,Open Society Foundations,sent,2026-03-01T15:21:53.116830,2026-03-01 15:03:20
+Elon Musk,elon@x.com,Tesla/SpaceX,sent,2026-03-01T15:24:25.839818,2026-03-01 15:03:20
+Impact Investors Foundation,contact@impactinvestorsfoundation.org,Impact Investing,sent,2026-03-01T15:24:29.563038,2026-03-01 15:06:38
+Jeff Skoll,jeff@skollfoundation.org,Skoll Foundation,sent,2026-03-01T15:24:33.495584,2026-03-01 15:06:38
+Bezos Earth Fund,info@bezosearthfund.org,Climate Philanthropy,sent,2026-03-01T15:25:04.180691,2026-03-01 15:06:38
+MacKenzie Scott,mackenzie@scottission.com,Philanthropist,sent,2026-03-01T15:25:07.996248,2026-03-01 15:06:38
+Laurene Powell Jobs,laurene@emersoncollective.com,Emerson Collective,sent,2026-03-01T15:25:11.676206,2026-03-01 15:06:38
+Jack Dorsey,jack@square.com,Block/Square,sent,2026-03-01T15:30:04.850315,2026-03-01 15:06:38
+Reid Hoffman,reid@greylock.com,Greylock Partners,sent,2026-03-01T15:30:08.668994,2026-03-01 15:06:38
+Peter Fenton,peter@benchmark.com,Benchmark,sent,2026-03-01T15:30:12.741236,2026-03-01 15:06:38
+Marc Andreessen,marc@a16z.com,Andreessen Horowitz,sent,2026-03-01T15:35:09.836232,2026-03-01 15:06:38
+John Doerr,john@sequoiacap.com,Sequoia Capital,sent,2026-03-01T15:35:13.955201,2026-03-01 15:06:39
+Editor,editor@impact-investor.com,tavily,sent,2026-03-01T15:35:18.196538,2026-03-01 15:08:01
+Media,media@givingpledge.org,tavily,sent,2026-03-01T15:40:10.127381,2026-03-01 15:08:01
+Impactinvestments,impactinvestments@hbs.edu,tavily,sent,2026-03-01T15:40:13.990235,2026-03-01 15:08:01
+Council on Intelligence Issues,donate@intelissues.org,Intelligence Nonprofit,sent,2026-03-01T15:40:17.856656,2026-03-01 15:21:06
+CIA Inspector General,cia-ig@cia.gov,CIA,sent,2026-03-01T15:45:06.059294,2026-03-01 15:21:07
+Defense Intelligence Agency OIG,dia-ig@dia.mil,DIA,sent,2026-03-01T15:45:09.929004,2026-03-01 15:21:07
+NSA Inspector General,nsaiig@nsa.gov,NSA,sent,2026-03-01T15:45:13.839417,2026-03-01 15:21:07
+DIA OIG,dog@dia.mil,Defense Intelligence,sent,2026-03-01T15:51:11.003243,2026-03-01 15:21:07
+National Intelligence OIG,icig@odni.gov,Intelligence Community,sent,2026-03-01T15:51:14.856547,2026-03-01 15:21:07
+Homeland Security OIG,dhs-oig@hq.dhs.gov,DHS,sent,2026-03-01T15:54:14.948738,2026-03-01 15:21:07
+Institute for Study of War,donate@understandingwar.org,Defense Think Tank,sent,2026-03-01T15:54:18.935809,2026-03-01 15:21:07
+UNHCR,donations@unhcr.org,UN Refugee Agency,sent,2026-03-01T15:57:35.275544,2026-03-01 15:21:07
+Doctors Without Borders,donations@newyork.msf.org,Medical Humanitarian,sent,2026-03-01T15:57:39.014244,2026-03-01 15:21:19
+International Rescue Committee,donations@rescue.org,Refugee Aid,sent,2026-03-01T16:00:27.903405,2026-03-01 15:21:19
+Clinton Foundation,info@clintonfoundation.org,Humanitarian,sent,2026-03-01T16:00:31.995219,2026-03-01 15:21:19
+UN Foundation,info@unfoundation.org,UN Partnership,sent,2026-03-01T16:03:27.048520,2026-03-01 15:21:19
+USAID,info@usaid.gov,Foreign Aid,sent,2026-03-01T16:03:31.279956,2026-03-01 15:21:19
+Spencer Rascoff,spencer@matchgroup.com,Match Group CEO,sent,2026-03-01T16:06:31.156571,2026-03-01 15:24:02
+Justin Mateen,justin@jamfund.com,Tinder Co-founder JAM Fund,sent,2026-03-01T16:06:35.406757,2026-03-01 15:24:02
+Patrick McGovern Foundation,info@mcgovern.org,AI Philanthropy,sent,2026-03-01T16:09:10.046385,2026-03-01 15:24:02
+AI for Good Foundation,donate@ai4good.org,AI Nonprofit,sent,2026-03-01T16:09:14.215844,2026-03-01 15:24:02
+AAAI,accounting@aaai.org,AI Association,sent,2026-03-01T16:12:15.683234,2026-03-01 15:24:02
+Anthropic,contact@anthropic.com,AI Company,sent,2026-03-01T16:12:19.605588,2026-03-01 15:24:03
+OpenAI,contact@openai.com,AI Company,sent,2026-03-01T16:15:15.563964,2026-03-01 15:24:03
+Sam Altman,sam@openai.com,OpenAI CEO,sent,2026-03-01T16:15:19.244478,2026-03-01 15:24:03
+Dario Amodei,dario@anthropic.com,Anthropic CEO,sent,2026-03-01T16:18:23.612913,2026-03-01 15:24:03
+Demis Hassabis,demis@google.com,Google DeepMind CEO,sent,2026-03-01T16:18:27.450297,2026-03-01 15:24:03
+Nvidia Foundation,info@nvidia.com,Tech Foundation,sent,2026-03-01T16:21:18.381607,2026-03-01 15:24:11
+Google.org,org@google.org,Google Philanthropy,sent,2026-03-01T16:21:22.326139,2026-03-01 15:24:11
+Microsoft Philanthropies,gives@microsoft.com,Microsoft,sent,2026-03-01T16:24:22.810686,2026-03-01 15:24:11
+Salesforce Foundation,foundation@salesforce.com,Tech Foundation,sent,2026-03-01T16:24:26.460287,2026-03-01 15:24:11
+Meta Philanthropy, philanthropy@meta.com,Meta,sent,2026-03-01T16:27:12.790559,2026-03-01 15:24:12
+Stripe Foundation,foundation@stripe.com,Fintech,sent,2026-03-01T16:27:16.550226,2026-03-01 15:24:12
+Uber Foundation,foundation@uber.com,Tech Foundation,sent,2026-03-01T16:30:12.894405,2026-03-01 15:24:12
+LinkedIn Foundation,foundation@linkedin.com,Tech,sent,2026-03-01T16:33:24.507396,2026-03-01 15:24:12
+Twitter Foundation,foundation@x.com,Tech,sent,2026-03-01T16:36:18.859350,2026-03-01 15:24:12
+BrazilFoundation,info@brazilfoundation.org,Brazilian Philanthropy,sent,2026-03-01T16:39:34.241397,2026-03-01 15:27:46
+Fundação José Luiz Egydio Setúbal,contato@fundacaojles.org.br,Brazilian Foundation,sent,2026-03-01T16:42:24.805225,2026-03-01 15:27:46
+Fundo Brasil,comunicacao@fundobrasil.org.br,Brazilian Human Rights,sent,2026-03-01T16:45:25.832680,2026-03-01 15:27:46
+Fundo BIS,contato@fundobis.org.br,Brazilian Philanthropy,sent,2026-03-01T16:48:13.519077,2026-03-01 15:27:46
+GIFE,movimento@doar.org.br,Brazilian Giving,sent,2026-03-01T16:49:53.033452,2026-03-01 15:27:46
+César Gon,cesar@ciandt.com,CI&T CEO Brazil,sent,2026-03-01T16:50:44.482355,2026-03-01 15:27:46
+Felipe Matos,felipe@10kdigital.com,Brazil Tech Investor,sent,2026-03-01T16:50:48.053060,2026-03-01 15:27:46
+Manoel Lemos,manoel@redpoint.com,Brazil VC Investor,sent,2026-03-01T16:50:51.656465,2026-03-01 15:27:46
+Pedro Sorrentino,pedro@atman.vc,Brazil VC Atman,sent,2026-03-01T16:51:12.170732,2026-03-01 15:27:46
+Carla Duprat,carla.duprat@camargocorrea.com.br,tavily,sent,2026-03-01T16:51:19.536409,2026-03-01 15:35:08
+Philanthropy,Philanthropy@BillionaireFoundation.org,tavily,sent,2026-03-01T16:54:34.796676,2026-03-01 15:35:08
+First,First@impactfoundation.org,tavily,sent,2026-03-01T16:54:38.477931,2026-03-01 15:40:09
+Impactfund,impactfund@impactfund.org,tavily,sent,2026-03-01T16:54:42.065673,2026-03-01 15:40:09
+Communications,communications@bloomberg.org,tavily,sent,2026-03-01T16:57:12.844907,2026-03-01 15:40:09
+Sursich,sursich@nepa-alliance.org,tavily,sent,2026-03-01T16:57:16.459299,2026-03-01 16:12:11
+Donorservices,donorservices@bradleyimpactfund.org,tavily,sent,2026-03-01T16:57:20.046364,2026-03-01 16:12:11
+Copevents,copevents@philanthropy.com,tavily,sent,2026-03-01T17:00:15.601439,2026-03-01 16:45:17
+Donations,donations@uchealth.com,tavily,sent,2026-03-01T17:00:19.200618,2026-03-01 16:54:34
+Giving,Giving@OhioHealth.com,tavily,sent,2026-03-01T17:00:22.936231,2026-03-01 16:54:34
+Subscriptions,subscriptions@pei.group,tavily,sent,2026-03-01T17:03:10.988701,2026-03-01 16:54:34
+Info,info@givedirectly.org,tavily,sent,2026-03-01T17:03:14.674381,2026-03-01 16:54:34
+Mossad,mossad@mail.gov.il,Israeli Intelligence,sent,2026-03-01T17:03:18.241982,2026-03-01 16:55:44
+Jmiller,jmiller@sharefoodprogram.org,tavily,sent,2026-03-01T17:27:41.797873,2026-03-01 17:27:41
+Ndotzenrod,ndotzenrod@housingnetworkri.org,tavily,sent,2026-03-01T17:27:45.378827,2026-03-01 17:27:41
+Pragati,pragati@team4tech.org,tavily,sent,2026-03-01T17:27:48.965672,2026-03-01 17:27:41
+Alice Leeosborne,alice.leeosborne@cafoodbanks.org,tavily,sent,2026-03-01T18:33:20.039433,2026-03-01 18:33:19
+World Food Programme,info@wfp.org,UN Food Aid,sent,2026-03-01T19:50:54.949963,2026-03-01 19:50:29
+UNICEF,donate@unicef.org,Children's Fund,sent,2026-03-01T19:50:58.576779,2026-03-01 19:50:29
+Red Cross,donate@redcross.org,Humanitarian,sent,2026-03-01T19:51:02.320114,2026-03-01 19:50:30
+Doctors Without Borders,donations@msf.org,Medical,sent,2026-03-01T19:51:06.060793,2026-03-01 19:50:30
+Save the Children,donate@savethechildren.org,Children,sent,2026-03-01T19:51:09.605085,2026-03-01 19:50:30
+Oxfam,info@oxfam.org,Poverty,sent,2026-03-01T19:51:14.714364,2026-03-01 19:50:30
+CARE,donate@care.org,Humanitarian,sent,2026-03-01T19:53:50.580222,2026-03-01 19:50:30
+Plan International,foundation@plan-international.org,Children,sent,2026-03-01T19:53:54.083016,2026-03-01 19:50:30
+World Vision,donations@wvi.org,Children,sent,2026-03-01T19:53:57.577561,2026-03-01 19:50:30
+Mercy Ships,info@mercyships.org,Medical,sent,2026-03-01T19:54:06.736601,2026-03-01 19:50:30
+UNHCR USA,donations@unhcrusa.org,Refugees,sent,2026-03-01T19:54:10.405054,2026-03-01 19:50:39
+International Rescue Committee,give@rescue.org,Refugees,sent,2026-03-01T19:54:14.079934,2026-03-01 19:50:39
+Catholic Relief Services,donate@crs.org,Catholic Aid,sent,2026-03-01T19:57:07.937476,2026-03-01 19:50:39
+ActionAid,donate@actionaid.org,Poverty,sent,2026-03-01T19:57:11.493897,2026-03-01 19:50:39
+Habitat for Humanity,donate@habitat.org,Housing,sent,2026-03-01T19:57:15.249716,2026-03-01 19:50:39
+The Hunger Project,info@thp.org,Hunger,sent,2026-03-01T20:00:08.132736,2026-03-01 19:50:39
+Heifer International,donate@heifer.org,Farming,sent,2026-03-01T20:00:11.854861,2026-03-01 19:50:39
+TechnoServe,info@technoserve.org,Development,sent,2026-03-01T20:00:15.386788,2026-03-01 19:50:39
+Acumen,donate@acumen.org,Impact Investing,sent,2026-03-01T20:02:49.870998,2026-03-01 19:50:39
+BRAC,contact@brac.net,Development,sent,2026-03-01T20:02:53.424783,2026-03-01 19:50:40
+Feeding America,donate@feedingamerica.org,Food Bank Network,sent,2026-03-01T20:02:57.099884,2026-03-01 19:54:15
+Partners In Health,donate@pih.org,Healthcare,sent,2026-03-01T20:03:08.201313,2026-03-01 19:54:15
+Greenpeace,donate@greenpeace.org,Environment,sent,2026-03-01T20:03:11.761435,2026-03-01 19:54:15
+WWF,contact@wwfus.org,Wildlife,sent,2026-03-01T20:03:15.360416,2026-03-01 19:54:15
+MIT,giving@mit.edu,University,sent,2026-03-01T20:06:52.742221,2026-03-01 19:54:16
+Stanford,giving@stanford.edu,University,sent,2026-03-01T20:06:56.400137,2026-03-01 19:54:16
+Harvard,giving@harvard.edu,University,sent,2026-03-01T20:06:59.970531,2026-03-01 19:54:16
+Y Combinator,info@ycombinator.com,Startup Accelerator,sent,2026-03-01T20:09:08.420192,2026-03-01 19:54:16
+Techstars,info@techstars.com,Startup Accelerator,sent,2026-03-01T20:09:12.145558,2026-03-01 19:54:16
+Ford Foundation,grants@fordfoundation.org,Foundation,sent,2026-03-01T20:09:15.860878,2026-03-01 19:54:16
+Amnesty International,donate@amnesty.org,Human Rights,sent,2026-03-01T20:12:08.953078,2026-03-01 19:57:24
+Human Rights Watch,hrw@hrw.org,Human Rights,sent,2026-03-01T20:12:12.437630,2026-03-01 19:57:24
+International Federation for Human Rights,fidh@fidh.org,Human Rights,sent,2026-03-01T20:12:16.046971,2026-03-01 19:57:25
+International Rescue Committee,donate@theirc.org,Crisis Response,sent,2026-03-01T20:15:08.067345,2026-03-01 19:57:25
+Crisis Response Foundation,info@crisisresponse.org,Emergency Relief,sent,2026-03-01T20:15:11.582863,2026-03-01 19:57:25
+Doctors Without Borders,support@msf.org,Medical NGO,sent,2026-03-01T20:15:15.175039,2026-03-01 20:03:09
+Anti-Defamation League,adl@adl.org,Civil Rights,sent,2026-03-01T20:18:07.913587,2026-03-01 20:03:10
+Southern Poverty Law Center,splc@splc.org,Civil Rights,sent,2026-03-01T20:18:11.584101,2026-03-01 20:03:10
+NAACP,donate@naacp.org,Civil Rights,sent,2026-03-01T20:18:15.235014,2026-03-01 20:03:10
+National Center for Missing Children,help@missingkids.org,Children,sent,2026-03-01T20:21:08.310492,2026-03-01 20:03:10
+RAINN,donate@rainn.org,Sexual Assault,sent,2026-03-01T20:21:11.792985,2026-03-01 20:03:10
+National Domestic Violence Hotline,info@thehotline.org,Domestic Violence,sent,2026-03-01T20:21:15.417688,2026-03-01 20:03:10
+Covenant House,donate@covenanthouse.org,Homeless Youth,sent,2026-03-01T20:24:08.295201,2026-03-01 20:03:10
+Goodwill Industries,donate@goodwill.org,Job Training,sent,2026-03-01T20:24:11.945323,2026-03-01 20:03:10
+The Trevor Project,donate@thetrevorproject.org,LGBTQ Youth,sent,2026-03-01T20:24:15.517375,2026-03-01 20:03:10
+UNHCR,donate@unhcr.org,Refugees,sent,2026-03-01T20:42:22.087466,2026-03-01 20:42:20
+World Food Programme,donate@wfp.org,Hunger,sent,2026-03-01T20:42:25.884026,2026-03-01 20:42:20
+Human Rights Watch,donate@hrw.org,Human Rights,sent,2026-03-01T20:42:29.498937,2026-03-01 20:42:20
+Amnesty International USA,donate@amnestyusa.org,Human Rights,sent,2026-03-01T20:42:32.486146,2026-03-01 20:42:20
+International Committee of the Red Cross,donations@icrc.org,Humanitarian,sent,2026-03-01T20:42:35.970692,2026-03-01 20:42:20
+CARE International,info@care-international.org,Humanitarian,sent,2026-03-01T20:42:39.547819,2026-03-01 20:42:20
+Plan International USA,donate@planusa.org,Children,sent,2026-03-01T20:45:08.384524,2026-03-01 20:42:20
+World Vision USA,donate@worldvision.org,Children,sent,2026-03-01T20:45:11.954683,2026-03-01 20:42:20
+Save the Children USA,support@savechildren.org,Children,sent,2026-03-01T20:45:15.598104,2026-03-01 20:42:20
+Save the Children,donate@savechildren.org,Children,sent,2026-03-01T20:54:21.107355,2026-03-01 20:54:19
+UNICEF USA,donations@unicefusa.org,Children,sent,2026-03-01T20:55:17.932213,2026-03-01 20:55:03
+UNICEF Canada,donate@unicef.ca,Children,sent,2026-03-01T20:55:21.591480,2026-03-01 20:55:03
+World Food Programme USA,donate@wfpusa.org,Hunger,sent,2026-03-01T20:55:25.203899,2026-03-01 20:55:03
+Action Against Hunger,info@actionagainsthunger.org,Hunger,sent,2026-03-01T20:57:07.873378,2026-03-01 20:55:03
+Mercy Corps,donate@mercycorps.org,Humanitarian,sent,2026-03-01T20:57:11.617243,2026-03-01 20:55:03
+Feed the Children,info@feedthechildren.org,Hunger,sent,2026-03-01T20:57:15.209873,2026-03-01 20:55:03
+America's Food Fund,donate@americasfoodfund.org,Food,sent,2026-03-01T21:00:08.031207,2026-03-01 20:55:03
+CIA Office of Public Affairs,opa@cia.gov,US Intelligence,sent,2026-03-01T21:00:11.658848,2026-03-01 20:55:51
+UNICEF USA,donate@unicefusa.org,Children,sent,2026-03-01T21:12:08.071096,2026-03-01 21:12:03
+World Food Programme,support@wfp.org,Hunger,sent,2026-03-01T21:12:11.605905,2026-03-01 21:12:03
+Action Against Hunger,info@actionagainsthungerusa.org,Hunger,sent,2026-03-01T21:12:15.292190,2026-03-01 21:12:03
+International Rescue Committee,support@rescue.org,Refugees,sent,2026-03-01T21:12:16.927813,2026-03-01 21:12:04
+The Salvation Army,donate@salvationarmy.org,Humanitarian,sent,2026-03-01T21:12:20.610032,2026-03-01 21:12:04
+Feeding America,info@feedingamerica.org,Food Bank,sent,2026-03-01T21:14:54.611096,2026-03-01 21:12:34
+No Kid Hungry,help@nokidhungry.org,Children Hunger,sent,2026-03-01T21:14:58.212739,2026-03-01 21:12:34
+God's Love We Deliver,donate@glwd.org,Food Delivery,sent,2026-03-01T21:15:01.783738,2026-03-01 21:12:35
+City Harvest,donate@cityharvest.org,Food Rescue,sent,2026-03-01T21:15:12.911129,2026-03-01 21:12:35
+Second Harvest,info@shfb.org,Food Bank,sent,2026-03-01T21:15:16.462054,2026-03-01 21:12:35
+Compassion International,donate@compassion.com,Children,sent,2026-03-01T21:15:20.083755,2026-03-01 21:12:35
+ChildFund,donate@childfund.org,Children,sent,2026-03-01T21:18:11.757641,2026-03-01 21:12:35
+Netherlands,netherlands@hrw.org,crawl,sent,2026-03-01T21:18:15.429601,2026-03-01 21:14:54
+Beirut,beirut@hrw.org,crawl,sent,2026-03-01T21:18:19.210513,2026-03-01 21:14:54
+Berlin,berlin@hrw.org,crawl,sent,2026-03-01T21:21:15.834412,2026-03-01 21:14:54
+Belgium,belgium@hrw.org,crawl,sent,2026-03-01T21:21:19.527638,2026-03-01 21:14:54
+Genevaoffice,genevaoffice@hrw.org,crawl,sent,2026-03-01T21:21:23.148200,2026-03-01 21:14:54
+La,la@hrw.org,crawl,sent,2026-03-01T21:24:13.858780,2026-03-01 21:14:54
+Kenyaoffice,kenyaoffice@hrw.org,crawl,sent,2026-03-01T21:24:17.514159,2026-03-01 21:14:54
+Oslooutreach,oslooutreach@hrw.org,crawl,sent,2026-03-01T21:24:21.185051,2026-03-01 21:14:54
+Paris,paris@hrw.org,crawl,sent,2026-03-01T21:27:12.178608,2026-03-01 21:14:54
+Pernotl,pernotl@hrw.org,crawl,sent,2026-03-01T21:27:15.791512,2026-03-01 21:14:54
+Hrwsf,hrwsf@hrw.org,crawl,sent,2026-03-01T21:27:19.473463,2026-03-01 21:14:54
+Brazil,brazil@hrw.org,crawl,sent,2026-03-01T21:30:14.126042,2026-03-01 21:14:54
+Ausoffice,ausoffice@hrw.org,crawl,sent,2026-03-01T21:30:17.719065,2026-03-01 21:14:54
+Swedenoutreach,swedenoutreach@hrw.org,crawl,sent,2026-03-01T21:30:21.347179,2026-03-01 21:14:54
+Toronto,toronto@hrw.org,crawl,sent,2026-03-01T21:31:40.437477,2026-03-01 21:14:54
+Hrwdc,hrwdc@hrw.org,crawl,sent,2026-03-01T21:31:44.080420,2026-03-01 21:14:54
+Zurich,zurich@hrw.org,crawl,sent,2026-03-01T21:31:47.769471,2026-03-01 21:14:54
+Kooyj,kooyj@hrw.org,crawl,sent,2026-03-01T21:33:18.577243,2026-03-01 21:14:54
+Media,media@gatesfoundation.org,crawl,sent,2026-03-01T21:33:22.197658,2026-03-01 21:14:54
+Taylorjk,taylorjk@state.gov,crawl,sent,2026-03-01T21:33:25.813107,2026-03-01 21:31:39
+Gpawb-Analytics,gpawb-analytics@state.gov,crawl,sent,2026-03-01T21:36:18.167708,2026-03-01 21:31:39
+UNICEF,support@unicef.org,Humanitarian,sent,2026-03-01T22:02:47.115911,2026-03-01 22:01:30
+Amnesty International,contact@amnesty.org,Human Rights,sent,2026-03-01T22:02:50.697524,2026-03-01 22:01:30
+Doctors Without Borders,donate@msf.org,Medical,sent,2026-03-01T22:02:54.232029,2026-03-01 22:01:30
+World Vision,info@worldvision.org,Children,sent,2026-03-01T22:03:28.805675,2026-03-01 22:01:30
+CARE,info@care.org,Humanitarian,sent,2026-03-01T22:03:32.363622,2026-03-01 22:01:30
+Save the Children,info@savethechildren.org,Children,sent,2026-03-01T22:03:35.916953,2026-03-01 22:01:30
+Plan International,info@plan-international.org,Children,sent,2026-03-01T22:04:19.635185,2026-03-01 22:01:30
+ActionAid,info@actionaid.org,Poverty,sent,2026-03-01T22:04:23.341273,2026-03-01 22:01:30
+Mercy Corps,info@mercycorps.org,Humanitarian,sent,2026-03-01T22:04:27.009047,2026-03-01 22:01:30
+Monthlygiving,monthlygiving@mercycorps.org,crawl,sent,2026-03-01T22:06:34.330163,2026-03-01 22:02:46
+Info,info@action.org.uk,crawl,sent,2026-03-01T22:06:37.989009,2026-03-01 22:02:46
+Companysecretary,companysecretary@action.org.uk,crawl,sent,2026-03-01T22:06:41.678194,2026-03-01 22:02:46
+Enquiries,enquiries@practicalaction.org,crawl,sent,2026-03-01T22:09:38.558263,2026-03-01 22:02:46
+Jane,jane@email.com,crawl,sent,2026-03-01T22:09:42.123514,2026-03-01 22:02:46
+Info,info@concern.net,crawl,sent,2026-03-01T22:09:45.594473,2026-03-01 22:02:46
+U003Einfo,u003einfo@concern.net,crawl,sent,2026-03-01T22:12:31.152146,2026-03-01 22:02:46
+Childprotection,childprotection@plan-international.org,crawl,sent,2026-03-01T22:12:34.665202,2026-03-01 22:02:46
+Safeguarding Unit,safeguarding.unit@plan-international.org,crawl,sent,2026-03-01T22:12:38.246662,2026-03-01 22:02:46
+Bread,bread@bread.org,crawl,sent,2026-03-01T22:15:41.491338,2026-03-01 22:02:46
+Info,info@womensfundingnetwork.org,crawl,sent,2026-03-01T22:15:45.242274,2026-03-01 22:02:46
+Media,media@hewlett.org,crawl,sent,2026-03-01T22:15:48.860202,2026-03-01 22:02:46
+UNICEF Brazil,unicef@unicef.org,Brazil Humanitarian,sent,2026-03-01T22:18:38.308502,2026-03-01 22:03:31
+CRAS Brasil,contato@cras.gov.br,Brazil Social,sent,2026-03-01T22:18:41.919582,2026-03-01 22:03:31
+Fundo Brasil,fundo@fundobrasil.org,Brazil Foundation,sent,2026-03-01T22:18:45.407813,2026-03-01 22:03:32
+Instituto Ayrton Senna,instituto@ays.org.br,Brazil Education,sent,2026-03-01T22:21:36.490219,2026-03-01 22:03:32
+Instituto Roberto Mendonça,irm@irm.org.br,Brazil Philanthropy,sent,2026-03-01T22:21:40.071176,2026-03-01 22:03:32
+Banco do Brasil Foundation,fbbs@fbbs.org.br,Brazil Foundation,sent,2026-03-01T22:21:43.844885,2026-03-01 22:03:32
+Instituto Ekos,contato@institutoekos.org.br,Brazil NGO,sent,2026-03-01T22:24:30.582018,2026-03-01 22:03:32
+SOS Brasil,ajuda@sosbrasil.org.br,Brazil Aid,sent,2026-03-01T22:24:34.139720,2026-03-01 22:03:32
+Casa Hope,casa@casa-hope.org.br,Brazil Children,sent,2026-03-01T22:24:37.615723,2026-03-01 22:03:32
+AACD,aacd@aacd.org.br,Brazil Disabled,sent,2026-03-01T22:27:38.067375,2026-03-01 22:03:32
+MI5 UK,foi@mi5.gov.uk,UK Intelligence,sent,2026-03-01T22:27:41.859249,2026-03-01 22:05:07
+MI6 UK,contact@sis.gov.uk,UK Intelligence,sent,2026-03-01T22:27:45.544158,2026-03-01 22:05:07
+UK Home Office,public.enquiries@homeoffice.gov.uk,UK Government,sent,2026-03-01T22:30:32.997619,2026-03-01 22:05:08
+UK Foreign Office,enquiries@fco.gov.uk,UK Government,sent,2026-03-01T22:30:36.612299,2026-03-01 22:05:08
+UK Counter Terrorism,info@act.gov.uk,UK Counter Terror,sent,2026-03-01T22:30:40.201540,2026-03-01 22:05:08
+FSB Russia,info@fsb.ru,Russia Intelligence,sent,2026-03-01T22:33:36.152724,2026-03-01 22:05:08
+SVR Russia,svr@svr.gov.ru,Russia Intelligence,sent,2026-03-01T22:33:39.732344,2026-03-01 22:05:08
+Kremlin,info@kremlin.ru,Russia Government,sent,2026-03-01T22:33:43.248691,2026-03-01 22:05:08
+FBI,publicinfo@fbi.gov,US FBI,sent,2026-03-01T22:36:33.375456,2026-03-01 22:05:08
+DHS,dhs@hq.dhs.gov,US Homeland Security,sent,2026-03-01T22:36:36.931781,2026-03-01 22:05:08
+NSA,nsa@nsa.gov,US NSA,sent,2026-03-01T22:36:40.700595,2026-03-01 22:05:08
+ATF,tips@atf.gov,US Alcohol Tobacco,sent,2026-03-01T22:39:37.547345,2026-03-01 22:05:08
+DEA,dea@dea.gov,US Drug Enforcement,sent,2026-03-01T22:39:41.121551,2026-03-01 22:05:08
+Polícia Federal Brasil,contato@pf.gov.br,Brazil Federal Police,sent,2026-03-01T22:39:44.741640,2026-03-01 22:05:08
+ABIN Brasil,abin@abin.gov.br,Brazil Intelligence,sent,2026-03-01T22:42:32.663247,2026-03-01 22:05:08
+GSI Brasil,gsi@presidencia.gov.br,Brazil Security,sent,2026-03-01T22:42:36.231753,2026-03-01 22:05:08
+MST Brasil,mst@mst.org.br,Brazil Movement,sent,2026-03-01T22:42:39.948208,2026-03-01 22:05:08
+Ministério da Defesa Brasil,contato@defesa.gov.br,Brazil Defense,sent,2026-03-01T22:45:43.565196,2026-03-01 22:05:08
+MPS Brasil,mps@mps.gov.br,Brazil Public Security,sent,2026-03-01T22:45:47.168966,2026-03-01 22:05:09
+Ministry of State Security China,info@css.gov.cn,China Intelligence,sent,2026-03-01T22:45:50.698880,2026-03-01 22:05:32
+Chinese Ministry Foreign Affairs,fmprc@fmprc.gov.cn,China Government,sent,2026-03-01T22:48:33.666462,2026-03-01 22:05:32
+China Ministry Defense,mod@mod.gov.cn,China Defense,sent,2026-03-01T22:48:37.279857,2026-03-01 22:05:32
+Chinese Police,info@psb.gov.cn,China Police,sent,2026-03-01T22:48:40.962479,2026-03-01 22:05:32
+Hong Kong Police,info@police.gov.hk,Hong Kong Police,sent,2026-03-01T22:51:35.788376,2026-03-01 22:05:33
+Amnesty UK,info@amnesty.org.uk,UK Human Rights,sent,2026-03-01T22:51:39.380584,2026-03-01 22:07:16
+Human Rights Watch UK,uk@hrw.org,UK Human Rights,sent,2026-03-01T22:51:42.891698,2026-03-01 22:07:16
+Red Cross UK,enquiries@redcross.org.uk,UK Humanitarian,sent,2026-03-01T22:54:34.057199,2026-03-01 22:07:16
+Oxfam UK,enquiries@oxfam.org.uk,UK Poverty,sent,2026-03-01T22:54:37.555907,2026-03-01 22:07:16
+Save the Children UK, supporter.care@save.org.uk,UK Children,sent,2026-03-01T22:54:41.152540,2026-03-01 22:07:16
+Terrorism Research UK,info@terrorismanalyst.com,UK Research,sent,2026-03-01T22:57:37.758250,2026-03-01 22:07:16
+RUSI UK,info@rusi.org,UK Defense Think Tank,sent,2026-03-01T22:57:41.229051,2026-03-01 22:07:16
+Oxford Analytica,contact@oxan.com,UK Analysis,sent,2026-03-01T22:57:44.953426,2026-03-01 22:07:16
+Chatham House,contact@chathamhouse.org,UK Think Tank,sent,2026-03-01T23:00:37.915960,2026-03-01 22:07:16
+Center for Strategic Studies,info@csis.org,US Think Tank,sent,2026-03-01T23:00:41.574746,2026-03-01 22:07:16
+Brookings Institution,contact@brookings.edu,US Think Tank,sent,2026-03-01T23:00:45.185442,2026-03-01 22:07:16
+Carnegie Endowment,info@ceip.org,US Think Tank,sent,2026-03-01T23:03:41.565277,2026-03-01 22:07:16
+Council on Foreign Relations,contact@cfr.org,US Think Tank,sent,2026-03-01T23:03:45.242402,2026-03-01 22:07:17
+Woodrow Wilson Center,wwcaccess@wilsoncenter.org,US Think Tank,sent,2026-03-01T23:03:48.758190,2026-03-01 22:07:17
+Amnesty Brasil,contato@amnesty.org.br,Brazil Human Rights,sent,2026-03-01T23:06:40.288961,2026-03-01 22:07:26
+Human Rights Watch Brasil,brasil@hrw.org,Brazil Human Rights,sent,2026-03-01T23:06:43.829788,2026-03-01 22:07:26
+Greenpeace Brasil,greenpeace@greenpeace.org,Brazil Environment,sent,2026-03-01T23:06:47.288856,2026-03-01 22:07:26
+OXFAM Brasil,oxfam@oxfam.org.br,Brazil Poverty,sent,2026-03-01T23:09:36.769121,2026-03-01 22:07:27
+UNICEF Brasil,rio@unicef.org,Brazil Children,sent,2026-03-01T23:09:40.361745,2026-03-01 22:07:27
+Pastoral da Criança,pastoral@pastoral.org.br,Brazil Children,sent,2026-03-01T23:09:43.902642,2026-03-01 22:07:27
+Serviço Social do Comércio,sesc@sescsp.org.br,Brazil Social,sent,2026-03-01T23:12:34.048178,2026-03-01 22:07:27
+Serviço Nacional Aprendizagem,senai@senai.br,Brazil Education,sent,2026-03-01T23:12:37.651853,2026-03-01 22:07:27
+Contag Brasil,contag@contag.org.br,Brazil Farmers,sent,2026-03-01T23:12:41.081329,2026-03-01 22:07:27
+UNE Brasil,une@une.org.br,Brazil Students,sent,2026-03-01T23:15:40.268015,2026-03-01 22:07:27
+Chinese Red Cross,info@redcross.org.cn,China Humanitarian,sent,2026-03-01T23:15:43.881839,2026-03-01 22:07:27
+China Youth League,cyleague@cyc.org.cn,China Youth,sent,2026-03-01T23:15:47.411113,2026-03-01 22:07:27
+China Charity,info@charity.gov.cn,China Charity,sent,2026-03-01T23:18:41.153967,2026-03-01 22:07:27
+China Civil Affairs,mca@mca.gov.cn,China Civil Affairs,sent,2026-03-01T23:18:44.598153,2026-03-01 22:07:27
+All China Women's Federation,women@acwf.org.cn,China Women,sent,2026-03-01T23:18:48.088463,2026-03-01 22:07:27
+Amnesty Russia,info@amnesty.org.ru,Russia Human Rights,sent,2026-03-01T23:21:40.266809,2026-03-01 22:07:38
+Human Rights Russia,hru@hrussia.ru,Russia Human Rights,sent,2026-03-01T23:21:43.946621,2026-03-01 22:07:38
+Red Cross Russia,redcross@redcross.ru,Russia Humanitarian,sent,2026-03-01T23:21:47.623248,2026-03-01 22:07:38
+Russian Charity,charity@charity.ru,Russia Charity,sent,2026-03-01T23:24:36.989277,2026-03-01 22:07:38
+Council on Foreign Relations,membership@cfr.org,US Foreign Policy,sent,2026-03-01T23:24:40.540064,2026-03-01 22:07:38
+Heritage Foundation,info@heritage.org,US Think Tank,sent,2026-03-01T23:24:44.485376,2026-03-01 22:07:38
+Cato Institute,cato@cato.org,US Think Tank,sent,2026-03-01T23:27:36.672221,2026-03-01 22:07:38
+Transparency International,ti@transparency.org,Anti Corruption,sent,2026-03-01T23:27:40.111805,2026-03-01 22:07:38
+Transparency International UK,uk@transparency.org.uk,UK Anti Corruption,sent,2026-03-01T23:27:43.613442,2026-03-01 22:07:38
+UN Office on Drugs Crime,unodc@unodc.org,UN Crime,sent,2026-03-01T23:30:32.451747,2026-03-01 22:07:38
+Interpol,general.secretariat@interpol.int,International Police,sent,2026-03-01T23:30:35.986963,2026-03-01 22:07:38
+Europol,info@europol.europa.eu,EU Police,sent,2026-03-01T23:30:39.603594,2026-03-01 22:07:38
+United Nations,unp@UN.org,UN,sent,2026-03-01T23:33:35.404480,2026-03-01 22:07:38
+NATO,info@hq.nato.int,NATO,sent,2026-03-01T23:33:38.850056,2026-03-01 22:07:39
+United Nations Development Programme,undp@undp.org,UNDP,sent,2026-03-01T23:33:42.369513,2026-03-01 22:07:39
+Amnesty France,info@amnesty.fr,France Human Rights,sent,2026-03-01T23:36:32.288342,2026-03-01 22:09:51
+Human Rights Watch France,france@hrw.org,France Human Rights,sent,2026-03-01T23:36:35.893070,2026-03-01 22:09:51
+Red Cross France, CroixRouge@croix-rouge.fr,France Humanitarian,sent,2026-03-01T23:36:39.594590,2026-03-01 22:09:51
+Médecins Sans Frontières,contact@msf.fr,France Medical,sent,2026-03-01T23:39:40.905579,2026-03-01 22:09:51
+Oxfam France,info@oxfamfrance.org,France Poverty,sent,2026-03-01T23:39:44.433582,2026-03-01 22:09:51
+CARE France,contact@carefrance.org,France Humanitarian,sent,2026-03-01T23:39:47.949095,2026-03-01 22:09:51
+Action Contre Faim,acf@acf.org,France Hunger,sent,2026-03-01T23:42:33.804799,2026-03-01 22:09:51
+Fondation de France,contact@fondationdefrance.org,France Foundation,sent,2026-03-01T23:42:37.391424,2026-03-01 22:09:51
+France Médiations,info@francemediation.fr,France Peace,sent,2026-03-01T23:42:40.829444,2026-03-01 22:09:51
+French Ministry Interior,contact@interieur.gouv.fr,France Government,sent,2026-03-01T23:45:40.956433,2026-03-01 22:09:51
+Amnesty Canada,info@amnesty.ca,Canada Human Rights,sent,2026-03-01T23:45:44.669593,2026-03-01 22:09:58
+Human Rights Watch Canada,canada@hrw.org,Canada Human Rights,sent,2026-03-01T23:45:48.271441,2026-03-01 22:09:58
+Red Cross Canada,donorcare@redcross.ca,Canada Humanitarian,sent,2026-03-01T23:48:34.160268,2026-03-01 22:09:59
+Doctors Without Borders Canada,info@msf.ca,Canada Medical,sent,2026-03-01T23:48:37.810816,2026-03-01 22:09:59
+Oxfam Canada,info@oxfam.ca,Canada Poverty,sent,2026-03-01T23:48:41.429209,2026-03-01 22:09:59
+CARE Canada,info@care.ca,Canada Humanitarian,sent,2026-03-01T23:51:37.663231,2026-03-01 22:09:59
+Plan International Canada,donate@plancanada.ca,Canada Children,sent,2026-03-01T23:51:41.290087,2026-03-01 22:09:59
+World Vision Canada,donations@worldvision.ca,Canada Children,sent,2026-03-01T23:51:44.849596,2026-03-01 22:09:59
+Canadian Red Cross,public@redcross.ca,Canada Humanitarian,sent,2026-03-01T23:54:32.002764,2026-03-01 22:09:59
+Canada Ministry Public Safety,ps@ps-sp.gc.ca,Canada Government,sent,2026-03-01T23:54:35.544329,2026-03-01 22:09:59
+Amnesty Australia,info@amnesty.org.au,Australia Human Rights,sent,2026-03-01T23:54:39.292563,2026-03-01 22:10:06
+Human Rights Watch Australia,australia@hrw.org,Australia Human Rights,sent,2026-03-01T23:57:38.374074,2026-03-01 22:10:06
+Red Cross Australia,contact@redcross.org.au,Australia Humanitarian,sent,2026-03-01T23:57:41.972626,2026-03-01 22:10:07
+Doctors Without Borders Australia,info@msf.org.au,Australia Medical,sent,2026-03-01T23:57:45.581668,2026-03-01 22:10:07
+Oxfam Australia,enquiries@oxfam.org.au,Australia Poverty,sent,2026-03-02T00:00:37.353556,2026-03-01 22:10:07
+CARE Australia,info@care.org.au,Australia Humanitarian,sent,2026-03-02T00:00:40.798814,2026-03-01 22:10:07
+Plan International Australia,info@plan.org.au,Australia Children,sent,2026-03-02T00:00:44.656735,2026-03-01 22:10:07
+World Vision Australia,info@worldvision.com.au,Australia Children,sent,2026-03-02T00:03:38.556471,2026-03-01 22:10:07
+Save the Children Australia, supporter@savechildren.org.au,Australia Children,sent,2026-03-02T00:03:42.249295,2026-03-01 22:10:07
+Australia Department Home Affairs,info@homeaffairs.gov.au,Australia Government,sent,2026-03-02T00:03:45.762082,2026-03-01 22:10:07
+Amnesty Japan,info@amnesty.jp,Japan Human Rights,sent,2026-03-02T00:06:33.831735,2026-03-01 22:10:15
+Human Rights Watch Japan,japan@hrw.org,Japan Human Rights,sent,2026-03-02T00:06:37.368279,2026-03-01 22:10:15
+Red Cross Japan,info@jrc.or.jp,Japan Humanitarian,sent,2026-03-02T00:06:41.088772,2026-03-01 22:10:16
+Doctors Without Borders Japan,info@msf.or.jp,Japan Medical,sent,2026-03-02T00:09:35.847242,2026-03-01 22:10:16
+Oxfam Japan,info@oxfam.jp,Japan Poverty,sent,2026-03-02T00:09:39.609127,2026-03-01 22:10:16
+JVC Japan,info@jvcjp.org,Japan Volunteer,sent,2026-03-02T00:09:43.268325,2026-03-01 22:10:16
+Plan International Japan,info@plan-japan.org,Japan Children,sent,2026-03-02T00:12:31.469040,2026-03-01 22:10:16
+World Vision Japan,info@worldvision.jp,Japan Children,sent,2026-03-02T00:12:35.001714,2026-03-01 22:10:16
+Japan International Cooperation Agency,jicajp@jica.go.jp,Japan Aid,sent,2026-03-02T00:12:38.754598,2026-03-01 22:10:16
+Japan Ministry Foreign Affairs,mfa@mofa.go.jp,Japan Government,sent,2026-03-02T00:15:42.660916,2026-03-01 22:10:16
+Amnesty Germany,info@amnesty.de,Germany Human Rights,sent,2026-03-02T00:15:46.519913,2026-03-01 22:10:24
+Greenpeace Germany,info@greenpeace.de,Germany Environment,sent,2026-03-02T00:15:50.130307,2026-03-01 22:10:24
+German Red Cross,info@drk.de,Germany Humanitarian,sent,2026-03-02T00:18:33.815776,2026-03-01 22:10:24
+Amnesty Spain,info@amnesty.org.es,Spain Human Rights,sent,2026-03-02T00:18:37.330791,2026-03-01 22:10:24
+Cruz Roja Spain,informacion@cruzroja.es,Spain Humanitarian,sent,2026-03-02T00:18:40.935410,2026-03-01 22:10:24
+Oxfam Spain,info@oxfam.org.es,Spain Poverty,sent,2026-03-02T00:21:46.927459,2026-03-01 22:10:24
+Amnesty Italy,info@amnesty.it,Italy Human Rights,sent,2026-03-02T00:21:50.472721,2026-03-01 22:10:24
+Italian Red Cross,info@crocerossa.it,Italy Humanitarian,sent,2026-03-02T00:21:54.214010,2026-03-01 22:10:24
+Amnesty Netherlands,info@amnesty.nl,Netherlands Human Rights,sent,2026-03-02T00:24:30.566733,2026-03-01 22:10:24
+Dutch Red Cross,info@redcross.nl,Netherlands Humanitarian,sent,2026-03-02T00:24:34.137218,2026-03-01 22:10:25
+Google DeepMind,deepmind@google.com,AI Company,sent,2026-03-02T00:24:37.752299,2026-03-01 22:11:39
+Meta AI,meta@meta.com,AI Company,sent,2026-03-02T00:27:40.810398,2026-03-01 22:11:39
+Microsoft AI,ai@microsoft.com,AI Company,sent,2026-03-02T00:27:44.363600,2026-03-01 22:11:39
+Nvidia,nvidia@nvidia.com,AI/芯片,sent,2026-03-02T00:27:47.888709,2026-03-01 22:11:39
+xAI,xai@x.com,AI Company,sent,2026-03-02T00:30:54.325732,2026-03-01 22:11:39
+Mistral AI,contact@mistral.ai,French AI,sent,2026-03-02T00:30:57.885079,2026-03-01 22:11:39
+Hugging Face,contact@huggingface.co,AI Platform,sent,2026-03-02T00:31:01.411614,2026-03-01 22:11:39
+Cohere,contact@cohere.com,Canadian AI,sent,2026-03-02T00:33:39.438676,2026-03-01 22:11:39
+Adept AI,contact@adept.ai,AI Company,sent,2026-03-02T00:33:43.012719,2026-03-01 22:11:39
+Inflection AI,contact@inflection.ai,AI Company,sent,2026-03-02T00:33:46.510123,2026-03-01 22:11:40
+Runway,contact@runwayml.com,AI Video,sent,2026-03-02T00:36:33.179681,2026-03-01 22:11:40
+Stability AI,contact@stability.ai,AI Company,sent,2026-03-02T00:36:36.797648,2026-03-01 22:11:40
+Jasper AI,hello@jasper.ai,AI Company,sent,2026-03-02T00:36:40.495733,2026-03-01 22:11:40
+AI2 (Allen Institute),info@ai2.org,AI Research,sent,2026-03-02T00:39:37.181325,2026-03-01 22:11:59
+Baidu AI,ai@baidu.com,Chinese AI,sent,2026-03-02T00:39:40.656104,2026-03-01 22:11:59
+Tencent AI,ai@tencent.com,Chinese AI,sent,2026-03-02T00:39:44.286817,2026-03-01 22:11:59
+Alibaba DAMO Academy,damo@alibaba.com,Chinese AI,sent,2026-03-02T00:42:37.338720,2026-03-01 22:11:59
+Huawei AI,huawei@huawei.com,Chinese AI,sent,2026-03-02T00:42:40.950048,2026-03-01 22:11:59
+ByteDance AI,ai@bytedance.com,Chinese AI,sent,2026-03-02T00:42:44.416068,2026-03-01 22:11:59
+SenseTime,contact@sensetime.com,Chinese AI,sent,2026-03-02T00:45:39.288562,2026-03-01 22:11:59
+Megvii,contact@megvii.com,Chinese AI,sent,2026-03-02T00:45:42.855511,2026-03-01 22:11:59
+iFlytek,contact@iflytek.com,Chinese AI,sent,2026-03-02T00:45:46.451803,2026-03-01 22:12:00
+Sora AI,openai@sora.com,AI Video,sent,2026-03-02T00:48:35.828669,2026-03-01 22:12:00
+AI21 Labs,contact@ai21.com,Israeli AI,sent,2026-03-02T00:48:39.555867,2026-03-01 22:12:00
+Cortical.io,info@cortical.io,AI Company,sent,2026-03-02T00:48:43.096312,2026-03-01 22:12:00
+Scale AI,contact@scale.com,AI Data,sent,2026-03-02T00:51:48.264157,2026-03-01 22:12:00
+Appen,info@appen.com,AI Data,sent,2026-03-02T00:51:51.817058,2026-03-01 22:12:00
+Labelbox,contact@labelbox.com,AI Data,sent,2026-03-02T00:51:55.450134,2026-03-01 22:12:00
+India AI,info@indiaai.gov.in,India AI,sent,2026-03-02T00:55:03.591854,2026-03-01 22:12:18
+TCS AI,ai@tcs.com,Indian IT,sent,2026-03-02T00:55:07.231286,2026-03-01 22:12:18
+Infosys AI,ai@infosys.com,Indian IT,sent,2026-03-02T00:55:11.035978,2026-03-01 22:12:18
+Wipro AI,ai@wipro.com,Indian IT,sent,2026-03-02T00:57:38.200237,2026-03-01 22:12:18
+Tech Mahindra,ai@techmahindra.com,Indian AI,sent,2026-03-02T00:57:41.752023,2026-03-01 22:12:18
+Korea AI,ai@korea.kr,South Korea AI,sent,2026-03-02T00:57:45.208527,2026-03-01 22:12:18
+Samsung AI,ai@samsung.com,Korean AI,sent,2026-03-02T01:00:36.056468,2026-03-01 22:12:18
+LG AI,ai@lge.com,Korean AI,sent,2026-03-02T01:00:39.632887,2026-03-01 22:12:18
+Kakao AI,ai@kakao.com,Korean AI,sent,2026-03-02T01:00:43.257025,2026-03-01 22:12:18
+Naver AI,ai@navercorp.com,Korean AI,sent,2026-03-02T01:03:41.993353,2026-03-01 22:12:18
+Singtel AI,ai@singtel.com,Singapore AI,sent,2026-03-02T01:03:45.676871,2026-03-01 22:12:19
+Grab AI,ai@grab.com,Singapore AI,sent,2026-03-02T01:03:49.403811,2026-03-01 22:12:19
+Gojek AI,ai@gojek.com,Indonesia AI,sent,2026-03-02T01:06:32.934524,2026-03-01 22:12:19
+Sea Group AI,ai@seagroup.com,Singapore AI,sent,2026-03-02T01:06:36.607880,2026-03-01 22:12:19
+Zalo AI,ai@zalo.me,Vietnam AI,sent,2026-03-02T01:06:40.137734,2026-03-01 22:12:19
+UAE AI Office,ai@uae.gov.ae,UAE AI,sent,2026-03-02T01:09:36.903925,2026-03-01 22:12:29
+Saudi AI,ai@saudi.gov.sa,Saudi AI,sent,2026-03-02T01:09:40.471361,2026-03-01 22:12:30
+Qatar AI,ai@qatar.gov.qa,Qatar AI,sent,2026-03-02T01:09:44.023462,2026-03-01 22:12:30
+Israel Innovation Authority,innovation@innovationisrael.org.il,Israel Tech,sent,2026-03-02T01:12:37.660256,2026-03-01 22:12:30
+WeWork AI,ai@wework.com,Global Tech,sent,2026-03-02T01:12:41.287468,2026-03-01 22:12:30
+Uber AI,ai@uber.com,Tech Company,sent,2026-03-02T01:12:44.871145,2026-03-01 22:12:30
+Airbnb AI,ai@airbnb.com,Tech Company,sent,2026-03-02T01:15:46.706795,2026-03-01 22:12:30
+Amazon AI,ai@amazon.com,Tech Company,sent,2026-03-02T01:15:50.214892,2026-03-01 22:12:30
+Apple AI,ai@apple.com,Tech Company,sent,2026-03-02T01:15:53.841007,2026-03-01 22:12:30
+IBM Watson,watson@ibm.com,AI Company,sent,2026-03-02T01:18:32.044354,2026-03-01 22:12:30
+Oracle AI,ai@oracle.com,AI Company,sent,2026-03-02T01:18:35.560104,2026-03-01 22:12:30
+Salesforce AI,ai@salesforce.com,AI Company,sent,2026-03-02T01:18:39.025791,2026-03-01 22:12:30
+Adobe AI,ai@adobe.com,AI Company,sent,2026-03-02T01:21:45.906064,2026-03-01 22:12:30
+Intel AI,ai@intel.com,AI Company,sent,2026-03-02T01:21:49.493722,2026-03-01 22:12:30
+AMD AI,ai@amd.com,AI Company,sent,2026-03-02T01:21:53.068676,2026-03-01 22:12:30
+Argentina Tech,info@mincyt.gob.ar,Argentina Tech,sent,2026-03-02T01:24:35.264517,2026-03-01 22:12:40
+Chile CORFO,corfo@corfo.cl,Chile Development,sent,2026-03-02T01:24:38.798259,2026-03-01 22:12:40
+Colombia Tech,colombia@mincit.gov.co,Colombia Tech,sent,2026-03-02T01:24:42.414672,2026-03-01 22:12:40
+Mexico CANIETI,canieti@canieti.org.mx,Mexico Tech,sent,2026-03-02T01:27:37.203852,2026-03-01 22:12:40
+Peru Tech,peru@promperu.gob.pe,Peru Tech,sent,2026-03-02T01:27:40.752026,2026-03-01 22:12:40
+South Africa AI,ai@dtps.gov.za,South Africa,sent,2026-03-02T01:27:44.390119,2026-03-01 22:12:40
+Nigeria Tech,tech@nigeria.gov.ng,Nigeria Tech,sent,2026-03-02T01:30:33.072530,2026-03-01 22:12:40
+Kenya AI,ai@kenya.go.ke,Kenya Tech,sent,2026-03-02T01:30:36.671454,2026-03-01 22:12:41
+Egypt ITI,iti@iti.gov.eg,Egypt Tech,sent,2026-03-02T01:30:40.348798,2026-03-01 22:12:41
+Morocco Tech,ai@mcinet.gov.ma,Morocco Tech,sent,2026-03-02T01:33:34.987747,2026-03-01 22:12:41
+Polish AI,ai@poland.gov.pl,Poland Tech,sent,2026-03-02T01:33:38.569330,2026-03-01 22:12:41
+Swedish AI,ai@sweden.se,Sweden Tech,sent,2026-03-02T01:33:42.045387,2026-03-01 22:12:41
+Norwegian AI,ai@norge.no,Norway Tech,sent,2026-03-02T01:36:34.515119,2026-03-01 22:12:41
+Danish AI,ai@danmark.dk,Denmark Tech,sent,2026-03-02T01:36:38.039420,2026-03-01 22:12:41
+Finnish AI,ai@finland.fi,Finland Tech,sent,2026-03-02T01:36:41.609307,2026-03-01 22:12:41
+Accor HQ,contact@accor.com,Hospitality,sent,2026-03-02T01:39:45.873686,2026-03-01 22:13:51
+Accor CEO,ceo@accor.com,Accor CEO,sent,2026-03-02T01:39:49.390875,2026-03-01 22:13:51
+Accor Chairman,chairman@accor.com,Accor Chairman,sent,2026-03-02T01:39:53.076529,2026-03-01 22:13:51
+Accor Sustainability,sustainability@accor.com,Accor Sustainability,sent,2026-03-02T01:42:35.165441,2026-03-01 22:13:51
+Accor HR,hr@accor.com,Accor HR,sent,2026-03-02T01:42:38.812022,2026-03-01 22:13:51
+Accor Communications,com@accor.com,Accor Communications,sent,2026-03-02T01:42:42.260948,2026-03-01 22:13:51
+Accor Middle East,middleeast@accor.com,Accor Middle East,sent,2026-03-02T01:45:44.536044,2026-03-01 22:13:51
+Accor Asia Pacific,asiapacific@accor.com,Accor Asia Pacific,sent,2026-03-02T01:45:48.172094,2026-03-01 22:13:51
+Accor Europe,europe@accor.com,Accor Europe,sent,2026-03-02T01:45:51.878874,2026-03-01 22:13:52
+Accor Americas,americas@accor.com,Accor Americas,sent,2026-03-02T01:48:35.325083,2026-03-01 22:13:52
+Hilton,contact@hilton.com,Hotels,sent,2026-03-02T01:48:39.081800,2026-03-01 22:14:01
+Marriott,contact@marriott.com,Hotels,sent,2026-03-02T01:48:42.654304,2026-03-01 22:14:01
+Hyatt,contact@hyatt.com,Hotels,sent,2026-03-02T01:51:36.040366,2026-03-01 22:14:01
+IHG Hotels,contact@ihg.com,Hotels,sent,2026-03-02T01:51:39.750718,2026-03-01 22:14:01
+Wyndham Hotels,contact@wyndham.com,Hotels,sent,2026-03-02T01:51:43.331027,2026-03-01 22:14:01
+Choice Hotels,contact@choicehotels.com,Hotels,sent,2026-03-02T01:54:35.676117,2026-03-01 22:14:01
+Best Western,contact@bestwestern.com,Hotels,sent,2026-03-02T01:54:39.154676,2026-03-01 22:14:01
+Radisson Hotel Group,contact@radissonhotel.com,Hotels,sent,2026-03-02T01:54:42.925366,2026-03-01 22:14:01
+InterContinental Hotels,ihg@ihg.com,Hotels,sent,2026-03-02T01:57:33.318288,2026-03-01 22:14:01
+Four Seasons,contact@fourseasons.com,Luxury Hotels,sent,2026-03-02T01:57:36.851034,2026-03-01 22:14:01
+Walmart,contact@walmart.com,Retail,sent,2026-03-02T01:57:40.441697,2026-03-01 22:14:09
+Amazon,contact@amazon.com,E-commerce,sent,2026-03-02T02:00:36.808003,2026-03-01 22:14:09
+Target,contact@target.com,Retail,sent,2026-03-02T02:00:40.386896,2026-03-01 22:14:09
+Costco,contact@costco.com,Retail,sent,2026-03-02T02:00:44.150123,2026-03-01 22:14:09
+Home Depot,contact@homedepot.com,Retail,sent,2026-03-02T02:03:38.220445,2026-03-01 22:14:09
+Lowe's,contact@lowes.com,Retail,sent,2026-03-02T02:03:41.759585,2026-03-01 22:14:09
+Best Buy,contact@bestbuy.com,Retail,sent,2026-03-02T02:03:45.247372,2026-03-01 22:14:10
+CVS Health,contact@cvs.com,Healthcare Retail,sent,2026-03-02T02:06:37.448214,2026-03-01 22:14:10
+Walgreens,contact@walgreens.com,Pharmacy,sent,2026-03-02T02:06:41.270883,2026-03-01 22:14:10
+Rite Aid,contact@riteaid.com,Pharmacy,sent,2026-03-02T02:06:44.876513,2026-03-01 22:14:10
+JP Morgan,contact@jpmorgan.com,Banking,sent,2026-03-02T02:09:43.350909,2026-03-01 22:14:21
+Bank of America,contact@bofa.com,Banking,sent,2026-03-02T02:09:46.915806,2026-03-01 22:14:21
+Wells Fargo,contact@wellsfargo.com,Banking,sent,2026-03-02T02:09:50.406892,2026-03-01 22:14:21
+Citibank,contact@citi.com,Banking,sent,2026-03-02T02:12:34.452098,2026-03-01 22:14:21
+Goldman Sachs,contact@gs.com,Banking,sent,2026-03-02T02:12:38.179628,2026-03-01 22:14:21
+Morgan Stanley,contact@morganstanley.com,Banking,sent,2026-03-02T02:12:41.676907,2026-03-01 22:14:21
+BlackRock,contact@blackrock.com,Investment,sent,2026-03-02T02:15:42.967015,2026-03-01 22:14:21
+Vanguard,contact@vanguard.com,Investment,sent,2026-03-02T02:15:46.435487,2026-03-01 22:14:21
+Fidelity,contact@fidelity.com,Investment,sent,2026-03-02T02:15:49.882841,2026-03-01 22:14:21
+State Street,contact@statestreet.com,Banking,sent,2026-03-02T02:18:34.190021,2026-03-01 22:14:21
+ExxonMobil,contact@exxonmobil.com,Energy,sent,2026-03-02T02:18:37.796660,2026-03-01 22:14:36
+Shell,contact@shell.com,Energy,sent,2026-03-02T02:18:41.300899,2026-03-01 22:14:36
+BP,contact@bp.com,Energy,sent,2026-03-02T02:21:41.597952,2026-03-01 22:14:36
+Chevron,contact@chevron.com,Energy,sent,2026-03-02T02:21:45.126327,2026-03-01 22:14:36
+TotalEnergies,contact@total.com,Energy,sent,2026-03-02T02:21:48.623998,2026-03-01 22:14:36
+Petrobras,contato@petrobras.com,Brazil Energy,sent,2026-03-02T02:24:36.634591,2026-03-01 22:14:37
+PetroChina,contact@petrochina.com,China Energy,sent,2026-03-02T02:24:40.299035,2026-03-01 22:14:37
+Sinopec,contact@sinopec.com,China Energy,sent,2026-03-02T02:24:43.884539,2026-03-01 22:14:37
+Gazprom,contact@gazprom.com,Russia Energy,sent,2026-03-02T02:27:39.911161,2026-03-01 22:14:37
+Rosneft,contact@rosneft.com,Russia Energy,sent,2026-03-02T02:27:43.483602,2026-03-01 22:14:37
+AT&T,contact@att.com,Telecom,sent,2026-03-02T02:27:47.236596,2026-03-01 22:14:49
+Verizon,contact@verizon.com,Telecom,sent,2026-03-02T02:30:34.408863,2026-03-01 22:14:49
+T-Mobile,contact@t-mobile.com,Telecom,sent,2026-03-02T02:30:37.919677,2026-03-01 22:14:49
+Vodafone,contact@vodafone.com,Telecom,sent,2026-03-02T02:30:41.671276,2026-03-01 22:14:49
+Orange,contact@orange.com,Telecom,sent,2026-03-02T02:33:37.111895,2026-03-01 22:14:49
+Telefonica,contact@telefonica.com,Telecom,sent,2026-03-02T02:33:40.744222,2026-03-01 22:14:49
+TIM Brasil,contato@tim.com.br,Brazil Telecom,sent,2026-03-02T02:33:44.400679,2026-03-01 22:14:49
+Oi Brasil,contato@oi.com.br,Brazil Telecom,sent,2026-03-02T02:36:34.828345,2026-03-01 22:14:50
+Claro Brasil,contato@claro.com.br,Brazil Telecom,sent,2026-03-02T02:36:38.426510,2026-03-01 22:14:50
+Vivo Brasil,contato@vivo.com.br,Brazil Telecom,sent,2026-03-02T02:36:41.931607,2026-03-01 22:14:50
+Toyota,contact@toyota.com,Automotive,sent,2026-03-02T02:39:43.295151,2026-03-01 22:15:01
+Volkswagen,contact@vw.com,Automotive,sent,2026-03-02T02:39:46.862252,2026-03-01 22:15:02
+Ford,contact@ford.com,Automotive,sent,2026-03-02T02:39:50.382970,2026-03-01 22:15:02
+General Motors,contact@gm.com,Automotive,sent,2026-03-02T02:42:36.908965,2026-03-01 22:15:02
+Honda,contact@honda.com,Automotive,sent,2026-03-02T02:42:40.522367,2026-03-01 22:15:02
+BMW,contact@bmw.com,Automotive,sent,2026-03-02T02:42:44.214019,2026-03-01 22:15:02
+Mercedes-Benz,contact@daimler.com,Automotive,sent,2026-03-02T02:45:39.868309,2026-03-01 22:15:02
+Tesla,contact@tesla.com,Automotive/Tech,sent,2026-03-02T02:45:43.436516,2026-03-01 22:15:02
+BYD,contact@byd.com,Chinese Automotive,sent,2026-03-02T02:45:46.939502,2026-03-01 22:15:02
+Geely,contact@geely.com,Chinese Automotive,sent,2026-03-02T02:48:39.445276,2026-03-01 22:15:02
+Boeing,contact@boeing.com,Aerospace,sent,2026-03-02T02:48:43.180744,2026-03-01 22:15:16
+Airbus,contact@airbus.com,Aerospace,sent,2026-03-02T02:48:46.931940,2026-03-01 22:15:16
+Lockheed Martin,contact@lockheedmartin.com,Defense,sent,2026-03-02T02:51:36.916558,2026-03-01 22:15:16
+Raytheon,contact@raytheon.com,Defense,sent,2026-03-02T02:51:40.590545,2026-03-01 22:15:16
+Northrop Grumman,contact@ngc.com,Defense,sent,2026-03-02T02:51:44.326880,2026-03-01 22:15:17
+General Dynamics,contact@gd.com,Defense,sent,2026-03-02T02:54:39.182395,2026-03-01 22:15:17
+BAE Systems,contact@baesystems.com,Defense,sent,2026-03-02T02:54:42.791351,2026-03-01 22:15:17
+Thales,contact@thalesgroup.com,Defense,sent,2026-03-02T02:54:46.252162,2026-03-01 22:15:17
+Embraer,contact@embraer.com,Brazil Aerospace,sent,2026-03-02T02:57:34.887983,2026-03-01 22:15:17
+Aerospatiale,contact@aerospatiale.fr,France Aerospace,sent,2026-03-02T02:57:38.533186,2026-03-01 22:15:17
+Disney,contact@disney.com,Entertainment,sent,2026-03-02T02:57:42.161083,2026-03-01 22:15:31
+Netflix,contact@netflix.com,Entertainment,sent,2026-03-02T03:00:34.511888,2026-03-01 22:15:31
+Warner Bros,contact@warnerbros.com,Entertainment,sent,2026-03-02T03:00:38.013466,2026-03-01 22:15:31
+Universal Pictures,contact@universal.com,Entertainment,sent,2026-03-02T03:00:41.775916,2026-03-01 22:15:31
+Sony,contact@sony.com,Electronics/Entertainment,sent,2026-03-02T03:03:35.697739,2026-03-01 22:15:31
+Paramount,contact@paramount.com,Entertainment,sent,2026-03-02T03:03:39.262877,2026-03-01 22:15:31
+Apple TV,contact@apple.com,Entertainment,sent,2026-03-02T03:03:42.980800,2026-03-01 22:15:31
+FIFA,contact@fifa.com,Sports,sent,2026-03-02T03:06:39.096456,2026-03-01 22:15:32
+IOC,contact@olympics.com,Sports,sent,2026-03-02T03:06:42.737187,2026-03-01 22:15:32
+Pfizer,contact@pfizer.com,Pharma,sent,2026-03-02T03:06:46.351740,2026-03-01 22:15:39
+Johnson Johnson,contact@jnj.com,Pharma,sent,2026-03-02T03:09:36.633230,2026-03-01 22:15:39
+Merck,contact@merck.com,Pharma,sent,2026-03-02T03:09:40.251390,2026-03-01 22:15:39
+Novartis,contact@novartis.com,Pharma,sent,2026-03-02T03:09:43.830701,2026-03-01 22:15:39
+Roche,contact@roche.com,Pharma,sent,2026-03-02T03:12:37.173326,2026-03-01 22:15:39
+AbbVie,contact@abbvie.com,Pharma,sent,2026-03-02T03:12:40.733430,2026-03-01 22:15:40
+Bristol Myers Squibb,contact@bms.com,Pharma,sent,2026-03-02T03:12:44.294208,2026-03-01 22:15:40
+Eli Lilly,contact@lilly.com,Pharma,sent,2026-03-02T03:15:44.117889,2026-03-01 22:15:40
+GSK,contact@gsk.com,Pharma,sent,2026-03-02T03:15:47.659762,2026-03-01 22:15:40
+Sanofi,contact@sanofi.com,Pharma,sent,2026-03-02T03:15:51.208440,2026-03-01 22:15:40
+Coca-Cola,contact@coca-cola.com,Beverage,sent,2026-03-02T03:18:35.776757,2026-03-01 22:15:51
+PepsiCo,contact@pepsico.com,Beverage,sent,2026-03-02T03:18:39.335010,2026-03-01 22:15:52
+Nestlé,contact@nestle.com,Food,sent,2026-03-02T03:18:42.773665,2026-03-01 22:15:52
+Unilever,contact@unilever.com,Food/Consumer,sent,2026-03-02T03:21:38.102170,2026-03-01 22:15:52
+Danone,contact@danone.com,Food,sent,2026-03-02T03:21:42.056947,2026-03-01 22:15:52
+Kraft Heinz,contact@kraftheinz.com,Food,sent,2026-03-02T03:21:45.714281,2026-03-01 22:15:52
+Mondelez,contact@mondelezinternational.com,Food,sent,2026-03-02T03:24:35.893850,2026-03-01 22:15:52
+Mars,contact@mars.com,Food,sent,2026-03-02T03:24:39.512353,2026-03-01 22:15:52
+Kellogg,contact@kelloggcompany.com,Food,sent,2026-03-02T03:24:43.026161,2026-03-01 22:15:52
+General Mills,contact@generalmills.com,Food,sent,2026-03-02T03:27:33.472006,2026-03-01 22:15:52
+Itaú,contato@itau.com.br,Brazil Banking,sent,2026-03-02T03:27:37.033661,2026-03-01 22:16:06
+Bradesco,contato@bradesco.com.br,Brazil Banking,sent,2026-03-02T03:27:40.737237,2026-03-01 22:16:06
+Banco do Brasil,contato@bb.com.br,Brazil Banking,sent,2026-03-02T03:30:40.402684,2026-03-01 22:16:06
+Santander Brasil,contato@santander.com.br,Brazil Banking,sent,2026-03-02T03:30:44.176713,2026-03-01 22:16:06
+Caixa Econômica,contato@caixa.gov.br,Brazil Banking,sent,2026-03-02T03:30:47.753381,2026-03-01 22:16:06
+Ambev,contato@ambev.com.br,Brazil Beverage,sent,2026-03-02T03:33:39.306203,2026-03-01 22:16:06
+BTG Pactual,contato@btgpactual.com,Brazil Investment,sent,2026-03-02T03:33:43.094644,2026-03-01 22:16:06
+Iguatemi,contato@iguatemi.com.br,Brazil Real Estate,sent,2026-03-02T03:36:43.225980,2026-03-01 22:16:06
+International Committee Red Cross,icrc@icrc.org,Humanitarian,sent,2026-03-02T03:36:46.788480,2026-03-01 22:20:21
+International Federation Red Cross,secretariat@ifrc.org,Humanitarian,sent,2026-03-02T03:36:50.296991,2026-03-01 22:20:21
+Médecins du Monde,contact@medecinsdumonde.org,Medical,sent,2026-03-02T03:39:38.177736,2026-03-01 22:20:21
+Medical Aid for Palestinians,info@map.org.uk,Medical,sent,2026-03-02T03:39:41.667508,2026-03-01 22:20:22
+Refugee Council USA,info@refugeecouncilusa.org,Refugee,sent,2026-03-02T03:39:45.270740,2026-03-01 22:20:22
+Refugee Action,info@refugee-action.org.uk,Refugee UK,sent,2026-03-02T03:42:37.374252,2026-03-01 22:20:22
+UNHCR,unhcr@unhcr.org,Refugee UN,sent,2026-03-02T03:42:41.030601,2026-03-01 22:20:22
+UNRWA,unrwa@unrwa.org,Palestine Refugees,sent,2026-03-02T03:42:44.662167,2026-03-01 22:20:22
+Amnesty International,amnesty@amnesty.org,Human Rights,sent,2026-03-02T03:45:33.870188,2026-03-01 22:20:36
+International Helsinki Federation,ihf@ihf-hr.org,Human Rights,sent,2026-03-02T03:45:37.447436,2026-03-01 22:20:36
+Freedom House,info@freedomhouse.org,Human Rights,sent,2026-03-02T03:45:41.215417,2026-03-01 22:20:36
+Reporters Without Borders,rsf@rsf.org,Press Freedom,sent,2026-03-02T03:48:36.957476,2026-03-01 22:20:36
+Committee to Protect Journalists,cpj@cpj.org,Press Freedom,sent,2026-03-02T03:48:40.520867,2026-03-01 22:20:36
+International Campaign Human Rights,info@humanrights.com,Human Rights,sent,2026-03-02T03:48:44.093439,2026-03-01 22:20:36
+Human Rights First,info@humanrightsfirst.org,Human Rights USA,sent,2026-03-02T03:51:36.941892,2026-03-01 22:20:36
+Human Rights Watch Germany,germany@hrw.org,Human Rights Germany,sent,2026-03-02T03:51:40.484506,2026-03-01 22:20:36
+Oxfam International,oxfam@oxfam.org,Poverty,sent,2026-03-02T03:51:44.043410,2026-03-01 22:20:58
+CARE International,care@care.org,Humanitarian,sent,2026-03-02T03:54:36.954639,2026-03-01 22:20:58
+Save the Children International,info@savechildren.org,Children,sent,2026-03-02T03:54:40.447144,2026-03-01 22:20:58
+ChildFund Alliance,info@childfundalliance.org,Children,sent,2026-03-02T03:54:44.078289,2026-03-01 22:20:58
+Compassion International,info@compassion.com,Children,sent,2026-03-02T03:57:35.022933,2026-03-01 22:20:58
+World Food Programme,wfp@wfp.org,Hunger,sent,2026-03-02T03:57:38.834450,2026-03-01 22:20:58
+Food and Agriculture Organization,fao@fao.org,Food Security,sent,2026-03-02T03:57:42.260528,2026-03-01 22:20:58
+Zero Hunger,zerohunger@un.org,Hunger,sent,2026-03-02T04:00:35.207750,2026-03-01 22:20:58
+ActionAid,actionaid@actionaid.org,Poverty,sent,2026-03-02T04:00:38.836176,2026-03-01 22:21:11
+Concern Worldwide,concern@concern.net,Poverty,sent,2026-03-02T04:00:42.342694,2026-03-01 22:21:12
+Tearfund,info@tearfund.org,Christian Aid,sent,2026-03-02T04:03:35.035591,2026-03-01 22:21:12
+Christian Aid,info@christianaid.org,Christian Aid,sent,2026-03-02T04:03:38.704895,2026-03-01 22:21:12
+Catholic Relief Services,crs@crs.org,Catholic Aid,sent,2026-03-02T04:03:42.262426,2026-03-01 22:21:12
+Caritas Internationalis,caritas@caritas.international,Catholic,sent,2026-03-02T04:06:42.024547,2026-03-01 22:21:12
+Lutheran World Relief,lwr@lwr.org,Lutheran Aid,sent,2026-03-02T04:06:45.723805,2026-03-01 22:21:12
+World Relief,info@worldrelief.org,Christian Aid,sent,2026-03-02T04:06:49.241161,2026-03-01 22:21:12
+Adventist Development Relief,adra@adra.org,Christian Aid,sent,2026-03-02T04:09:33.165279,2026-03-01 22:21:12
+Islamic Relief,info@islamic-relief.org,Islamic Aid,sent,2026-03-02T04:09:36.734559,2026-03-01 22:21:12
+Human Rights Watch Austria,austria@hrw.org,Human Rights,sent,2026-03-02T04:09:40.333543,2026-03-01 22:21:25
+Amnesty International Belgium,info@amnesty.be,Human Rights,sent,2026-03-02T04:12:43.087741,2026-03-01 22:21:26
+Amnesty International Sweden,info@amnesty.se,Human Rights,sent,2026-03-02T04:12:46.640031,2026-03-01 22:21:26
+Amnesty International Norway,info@amnesty.no,Human Rights,sent,2026-03-02T04:12:50.293335,2026-03-01 22:21:26
+Amnesty International Denmark,info@amnesty.dk,Human Rights,sent,2026-03-02T04:15:36.277645,2026-03-01 22:21:26
+Amnesty International Finland,info@amnesty.fi,Human Rights,sent,2026-03-02T04:15:39.936578,2026-03-01 22:21:26
+Amnesty International Switzerland,info@amnesty.ch,Human Rights,sent,2026-03-02T04:15:43.413868,2026-03-01 22:21:26
+Amnesty International Austria,info@amnesty.at,Human Rights,sent,2026-03-02T04:18:35.216381,2026-03-01 22:21:26
+Amnesty International Ireland,info@amnesty.ie,Human Rights,sent,2026-03-02T04:18:38.969585,2026-03-01 22:21:26
+Amnesty International Portugal,info@amnesty.pt,Human Rights,sent,2026-03-02T04:18:42.560597,2026-03-01 22:21:26
+Red Cross Canada,redcross@redcross.ca,Canada Humanitarian,sent,2026-03-02T04:21:41.762769,2026-03-01 22:21:35
+Human Rights Commission India,info@nhrc.nic.in,India Human Rights,sent,2026-03-02T04:27:41.684355,2026-03-01 22:21:45
+Amnesty India,info@amnesty.org.in,India Human Rights,sent,2026-03-02T04:27:45.218616,2026-03-01 22:21:45
+Human Rights Watch Asia,asia@hrw.org,Asia Human Rights,sent,2026-03-02T04:30:33.447572,2026-03-01 22:21:45
+Human Rights Commission Pakistan,info@phrc.org.pk,Pakistan Human Rights,sent,2026-03-02T04:30:40.638974,2026-03-01 22:21:45
+Human Rights Watch Middle East,mena@hrw.org,Middle East HR,sent,2026-03-02T04:33:40.565834,2026-03-01 22:21:45
+Human Rights Watch Africa,africa@hrw.org,Africa Human Rights,sent,2026-03-02T04:33:47.701915,2026-03-01 22:21:46
+Human Rights Watch Latin America,latinamerica@hrw.org,Latin America HR,sent,2026-03-02T04:36:42.443203,2026-03-01 22:21:46
+International Labour Organization,ilo@ilo.org,Labor Rights,sent,2026-03-02T04:39:33.739214,2026-03-01 22:21:54
+World Bank,worldbank@worldbank.org,Development,sent,2026-03-02T04:42:37.782490,2026-03-01 22:21:55
+CIA Officers Association,ciaoa@cia.gov,CIA Alumni,sent,2026-03-02T04:45:38.258321,2026-03-01 23:35:35
+CIA Alumni Association,alumni@cia.gov,Ex Agents,sent,2026-03-02T04:45:41.989992,2026-03-01 23:35:35
+George Tenet,gtenet@csop.com,Former CIA Director,sent,2026-03-02T04:48:38.305366,2026-03-01 23:35:35
+John Brennan,jbrennan@csop.com,Former CIA Director,sent,2026-03-02T04:48:41.854993,2026-03-01 23:35:35
+Michael Hayden,mhayden@csop.com,Former NSA/CIA Director,sent,2026-03-02T04:48:45.408083,2026-03-01 23:35:35
+David Petraeus,dpetraeus@csop.com,Former CIA Director,sent,2026-03-02T04:51:47.512226,2026-03-01 23:35:35
+James Woolsey,jwoolsey@csop.com,Former CIA Director,sent,2026-03-02T04:54:36.966670,2026-03-01 23:35:36
+Porter Goss,pgoss@csop.com,Former CIA Director,sent,2026-03-02T04:54:40.568914,2026-03-01 23:35:36
+William Colby,wcolby@colby.com,Former CIA Director,sent,2026-03-02T04:54:44.181858,2026-03-01 23:35:52
+R. James Woolsey,rjwoolsey@yahoo.com,Former CIA Director,sent,2026-03-02T04:57:39.635169,2026-03-01 23:35:52
+Michael Morell,mmorell@csop.com,Former CIA Deputy,sent,2026-03-02T04:57:43.139018,2026-03-01 23:35:52
+John O. Brennan,jobrennan@csop.com,Former CIA,sent,2026-03-02T05:00:40.938388,2026-03-01 23:35:52
+Andrew McCabe,amccabe@gmail.com,Former FBI CIA,sent,2026-03-02T05:00:44.471030,2026-03-01 23:35:52
+James Comey,jcomey@law.georgetown.edu,Former FBI Director,sent,2026-03-02T05:00:48.029461,2026-03-01 23:35:52
+William Webster,webster@websterassociates.com,Former CIA FBI Director,sent,2026-03-02T05:03:41.421499,2026-03-01 23:35:52
+Stanley Morrison,smorrison@law.edu,Former CIA,sent,2026-03-02T05:03:45.879330,2026-03-01 23:35:52
+Tyler Dryden,tdryden@dryden.com,Ex CIA Analyst,sent,2026-03-02T05:03:49.833824,2026-03-01 23:35:52
+Center for Security Policy,csp@security-policy.org,Think Tank,sent,2026-03-02T05:06:39.387291,2026-03-01 23:36:07
+Foundation for Defense of Democracies,fdd@fdd.org,Think Tank,sent,2026-03-02T05:06:43.525114,2026-03-01 23:36:07
+Hudson Institute,info@hudson.org,Think Tank,sent,2026-03-02T05:06:47.565709,2026-03-01 23:36:07
+American Enterprise Institute,aei@aei.org,Think Tank,sent,2026-03-02T05:09:36.359718,2026-03-01 23:36:07
+Hoover Institution,hoover@stanford.edu,Think Tank,sent,2026-03-02T05:09:40.615002,2026-03-01 23:36:07
+MITRE Corporation,info@mitre.org,Defense Contractor,sent,2026-03-02T05:09:44.812874,2026-03-01 23:36:07
+Booz Allen Hamilton,boozallen@bah.com,Defense Contractor,sent,2026-03-02T05:12:36.539644,2026-03-01 23:36:07
+CACI International,info@caci.com,Defense Contractor,sent,2026-03-02T05:12:40.828883,2026-03-01 23:36:07
+SAIC,info@saic.com,Defense Contractor,sent,2026-03-02T05:12:44.902034,2026-03-01 23:36:07
+Leidos,info@leidos.com,Defense Contractor,sent,2026-03-02T05:15:34.645414,2026-03-01 23:36:07
+Mossad,mossad@mossad.gov.il,Israeli Intelligence,sent,2026-03-02T05:15:38.905085,2026-03-01 23:40:32
+Mossad Alumni,alumni@mossad.gov.il,Ex Mossad,sent,2026-03-02T05:15:42.968577,2026-03-01 23:40:32
+Israel Intelligence Ministry,intel@mod.gov.il,Israel Intelligence,sent,2026-03-02T05:18:36.645523,2026-03-01 23:40:32
+Shin Bet,shinbet@shinbet.gov.il,Israeli Internal Security,sent,2026-03-02T05:18:40.719660,2026-03-01 23:40:32
+Aman Military Intelligence,aman@idf.il,Israeli Military,sent,2026-03-02T05:18:45.010983,2026-03-01 23:40:32
+Israeli Intelligence Association,ia-israel@intelligence.org.il,Intelligence Assoc,sent,2026-03-02T05:21:37.268890,2026-03-01 23:40:32
+Tel Aviv University Intelligence,intelligence@tau.ac.il,Intelligence Studies,sent,2026-03-02T05:21:41.342857,2026-03-01 23:40:32
+Jerusalem Center Security,jcjs@jcjs.org,Israel Security,sent,2026-03-02T05:21:45.682310,2026-03-01 23:40:32
+Begin-Sadat Center Strategic,besc@basoc.org.il,Israel Strategic,sent,2026-03-02T05:24:35.731880,2026-03-01 23:40:33
+BOPE Pernambuco,bope@policiamilitar.pe.gov.br,Brazil Special Forces,sent,2026-03-02T05:24:39.731010,2026-03-01 23:40:46
+Polícia Militar Pernambuco,pmpe@policiamilitar.pe.gov.br,Brazil Police,sent,2026-03-02T05:24:43.742634,2026-03-01 23:40:47
+Secretaria Segurança Pública PE,ssp@ssp.pe.gov.br,Pernambuco Security,sent,2026-03-02T05:27:36.378107,2026-03-01 23:40:47
+Governo Pernambuco,governo@pe.gov.br,Pernambuco Government,sent,2026-03-02T05:27:40.528143,2026-03-01 23:40:47
+Polícia Civil Pernambuco,pcivil@policiacivil.pe.gov.br,Pernambuco Civil Police,sent,2026-03-02T05:27:44.629554,2026-03-01 23:40:47
+Força Nacional Brasil,forcanacional@md.gov.br,Brazil National Force,sent,2026-03-02T05:30:38.112796,2026-03-01 23:40:47
+Polícia Federal Recife,pfrecife@pf.gov.br,Federal Police Recife,sent,2026-03-02T05:30:42.045605,2026-03-01 23:40:47
+ABIN Recife,abinrecife@abin.gov.br,Brazil Intelligence PE,sent,2026-03-02T05:30:45.905174,2026-03-01 23:40:47
+Comando Geral PMPE,comandogeral@pm.pe.gov.br,PM Command PE,sent,2026-03-02T05:33:36.244405,2026-03-01 23:40:47
+Delegacia Recife,delegacia@policiape.gov.br,Police Recife,sent,2026-03-02T05:33:40.225294,2026-03-01 23:40:47
+BOPE Rio,bope@pmerj.rj.gov.br,Rio Special Forces,sent,2026-03-02T05:33:44.083948,2026-03-01 23:40:57
+BOPE São Paulo,bope@policiamilitar.sp.gov.br,SP Special Forces,sent,2026-03-02T05:36:40.430076,2026-03-01 23:40:57
+GRAER Pernambuco,graer@pm.pe.gov.br,Pernambuco Air Police,sent,2026-03-02T05:36:44.434082,2026-03-01 23:40:57
+BPChoque Pernambuco,bpchoque@pm.pe.gov.br,Pernambuco Riot Police,sent,2026-03-02T05:36:48.617609,2026-03-01 23:40:57
+COTAM Pernambuco,cotam@pm.pe.gov.br,Pernambuco Tactical,sent,2026-03-02T05:39:37.051830,2026-03-01 23:40:57
+Romu Pernambuco,romu@pm.pe.gov.br,Pernambuco Gangs Unit,sent,2026-03-02T05:39:41.288979,2026-03-01 23:40:57
+Denarc PE,denarc@policiape.gov.br,Pernambuco Narcotics,sent,2026-03-02T05:39:45.305211,2026-03-01 23:40:57
+DDPES PE,ddpes@policiape.gov.br,Pernambuco Homicide,sent,2026-03-02T05:42:37.408416,2026-03-01 23:40:57
+GAECO PE,gaeco@mppe.mp.br,Pernambuco Task Force,sent,2026-03-02T05:42:41.517685,2026-03-01 23:40:58
+Forças Armadas Brasil,exercito@eb.mil.br,Brazil Army,sent,2026-03-02T05:42:45.551360,2026-03-01 23:40:58
+MrBeast Jimmy Donaldson,jimmy@mrbeast.store,YouTube Creator,sent,2026-03-02T05:45:40.269960,2026-03-01 23:55:22
+MrBeast Business,business@mrbeast.tv,MrBeast Team,sent,2026-03-02T05:45:44.197931,2026-03-01 23:55:22
+MrBeast Charity,charity@mrbeast.org,MrBeast Charity,sent,2026-03-02T05:45:48.208176,2026-03-01 23:55:23
+MrBeast Team,team@mrbeast.tv,MrBeast Team,sent,2026-03-02T05:48:37.408353,2026-03-01 23:55:23
+MrBeast Productions,productions@mrbeast.tv,MrBeast Studios,sent,2026-03-02T05:48:41.276036,2026-03-01 23:55:23
+MrBeast Gaming,gaming@mrbeast.tv,MrBeast Gaming,sent,2026-03-02T05:48:45.185986,2026-03-01 23:55:23
+MrBeast Feastables,feastables@feastables.com,MrBeast Food Brand,sent,2026-03-02T05:51:43.355930,2026-03-01 23:55:23
+MrBeast Shop,shop@mrbeast.store,MrBeast Merch,sent,2026-03-02T05:51:47.935180,2026-03-01 23:55:23
+MrBeast Finance,finance@mrbeast.tv,MrBeast Finance,sent,2026-03-02T05:51:51.751584,2026-03-01 23:55:23
+MrBeast YouTube,youtube@mrbeast.tv,MrBeast YouTube,sent,2026-03-02T05:54:34.779993,2026-03-01 23:55:23
+MrBeast Contact,contact@mrbeast.tv,MrBeast Contact,sent,2026-03-02T05:54:38.649358,2026-03-01 23:55:36
+MrBeast Collaborations,collab@mrbeast.tv,MrBeast Collabs,sent,2026-03-02T05:54:42.697451,2026-03-01 23:55:36
+MrBeast Sponsorships,sponsors@mrbeast.tv,MrBeast Sponsors,sent,2026-03-02T05:57:36.586390,2026-03-01 23:55:36
+MrBeast Press,press@mrbeast.tv,MrBeast Press,sent,2026-03-02T05:57:40.767655,2026-03-01 23:55:36
+MrBeast Talent,talent@mrbeast.tv,MrBeast Talent,sent,2026-03-02T05:57:44.888053,2026-03-01 23:55:36
+Karl Jacobs,karl@mrbeast.tv,MrBeast Co-creator,sent,2026-03-02T06:00:38.163273,2026-03-01 23:55:36
+ Chandler Hallow,chandler@mrbeast.tv,MrBeast Actor,sent,2026-03-02T06:00:42.494487,2026-03-01 23:55:36
+Tate Crews,tate@mrbeast.tv,MrBeast Director,sent,2026-03-02T06:00:46.716554,2026-03-01 23:55:36
+Ryan Higa,ryan@mrbeast.tv,MrBeast Friend,sent,2026-03-02T06:03:33.988632,2026-03-01 23:55:36
+Beast Hamburger,burger@mrbeast.tv,MrBeast Restaurant,sent,2026-03-02T06:03:37.962345,2026-03-01 23:55:36
+PewDiePie,pewds@brofist.io,YouTube Creator,sent,2026-03-02T06:03:42.147950,2026-03-01 23:55:59
+Markiplier,mark@markiplier.com,YouTube Creator,sent,2026-03-02T06:06:36.316418,2026-03-01 23:55:59
+Jacksepticeye,sean@jacksepticeye.com,YouTube Creator,sent,2026-03-02T06:06:40.483437,2026-03-01 23:55:59
+Ninja,ninja@twitch.tv,Gamer Streamer,sent,2026-03-02T06:06:44.555302,2026-03-01 23:55:59
+Shroud,shroud@shroud.com,Gamer Streamer,sent,2026-03-02T06:09:35.057087,2026-03-01 23:55:59
+TimTheTatman,tim@timthetatman.com,Gamer Streamer,sent,2026-03-02T06:09:39.323509,2026-03-01 23:55:59
+xQc,xqc@xqc.tv,Gamer Streamer,sent,2026-03-02T06:09:43.454219,2026-03-01 23:56:00
+IShowSpeed,ispeed@showSpeed.tv,Streamer,sent,2026-03-02T06:12:34.995154,2026-03-01 23:56:00
+KSI,ksi@ksi.com,YouTuber Boxer,sent,2026-03-02T06:12:39.249750,2026-03-01 23:56:00
+LVMH Group,contact@lvmh.com,LVMH,sent,2026-03-02T15:33:34.784775,2026-03-02 15:31:56
+Kering,info@kering.com,Kering,sent,2026-03-02T15:33:38.930889,2026-03-02 15:31:56
+Chanel,contact@chanel.com,Chanel,sent,2026-03-02T15:33:42.989551,2026-03-02 15:31:56
+Hermès,contact@hermes.com,Hermès,sent,2026-03-02T15:36:48.671453,2026-03-02 15:31:56
+Louis Vuitton,client.services@lv.com,Louis Vuitton,sent,2026-03-02T15:36:52.819280,2026-03-02 15:31:56
+Dior,contact@dior.com,Dior,sent,2026-03-02T15:36:56.827085,2026-03-02 15:31:56
+Gucci,info@gucci.com,Gucci,sent,2026-03-02T15:39:34.593182,2026-03-02 15:31:56
+Prada,prada@prada.com,Prada,sent,2026-03-02T15:39:38.594950,2026-03-02 15:31:56
+Versace,info@versace.com,Versace,sent,2026-03-02T15:39:42.484259,2026-03-02 15:31:56
+Burberry,contact@burberry.com,Burberry,sent,2026-03-02T15:42:44.201910,2026-03-02 15:31:56
+Balenciaga,info@balenciaga.com,Balenciaga,sent,2026-03-02T15:42:48.392636,2026-03-02 15:31:56
+Valentino,contact@valentino.com,Valentino,sent,2026-03-02T15:42:52.550896,2026-03-02 15:31:56
+Armani,info@armani.com,Armani,sent,2026-03-02T15:45:37.986064,2026-03-02 15:31:56
+Dolce & Gabbana,info@dolcegabbana.com,Dolce & Gabbana,sent,2026-03-02T15:45:41.916885,2026-03-02 15:31:56
+Fendi,fendi@fendi.com,Fendi,sent,2026-03-02T15:45:46.022047,2026-03-02 15:31:56
+Givenchy,contact@givenchy.com,Givenchy,sent,2026-03-02T15:48:41.000442,2026-03-02 15:31:56
+Saint Laurent,contact@saint-laurent.com,Saint Laurent,sent,2026-03-02T15:48:45.194521,2026-03-02 15:31:56
+Alexander McQueen,info@alexandermcqueen.com,Alexander McQueen,sent,2026-03-02T15:48:49.221055,2026-03-02 15:31:56
+Bottega Veneta,info@bottegaveneta.com,Bottega Veneta,sent,2026-03-02T15:51:40.176307,2026-03-02 15:31:56
+Tom Ford,contact@tomford.com,Tom Ford,sent,2026-03-02T15:51:44.165967,2026-03-02 15:31:56
+Calvin Klein,info@calvinklein.com,Calvin Klein,sent,2026-03-02T15:54:36.819597,2026-03-02 15:31:56
+Tommy Hilfiger,info@tommyhilfiger.com,Tommy Hilfiger,sent,2026-03-02T15:54:40.837930,2026-03-02 15:31:56
+Michael Kors,contact@michaelkors.com,Michael Kors,sent,2026-03-02T15:54:44.862809,2026-03-02 15:31:56
+Coach,coach@coach.com,Coach,sent,2026-03-02T15:57:36.020279,2026-03-02 15:31:56
+Kate Spade,info@katespade.com,Kate Spade,sent,2026-03-02T15:57:40.080082,2026-03-02 15:31:56
+Marc Jacobs,info@marcjacobs.com,Marc Jacobs,sent,2026-03-02T16:00:38.038275,2026-03-02 15:31:56
+Vivienne Westwood,info@viviennewestwood.com,Vivienne Westwood,sent,2026-03-02T16:00:46.651552,2026-03-02 15:31:56
+Moschino,info@moschino.com,Moschino,sent,2026-03-02T16:03:34.533892,2026-03-02 15:31:56
+Loewe,loewe@loewe.com,Loewe,sent,2026-03-02T16:03:43.121929,2026-03-02 15:31:56
+CELINE,contact@celine.com,CELINE,sent,2026-03-02T16:06:42.203740,2026-03-02 15:31:56
+Jimmy Choo,info@jimmychoo.com,Jimmy Choo,sent,2026-03-02T16:06:46.206793,2026-03-02 15:31:56
+Manolo Blahnik,info@manoloblahnik.com,Manolo Blahnik,sent,2026-03-02T16:09:38.123258,2026-03-02 15:31:56
+Brunello Cucinelli,info@brunellocucinelli.com,Brunello Cucinelli,sent,2026-03-02T16:09:46.431107,2026-03-02 15:31:56
+Max Mara,info@maxmara.com,Max Mara,sent,2026-03-02T16:12:40.604931,2026-03-02 15:31:56
+Kenzo,kenzo@kenzo.com,Kenzo,sent,2026-03-02T16:12:44.695860,2026-03-02 15:31:56
+Dsquared2,info@dsquared2.com,Dsquared2,sent,2026-03-02T16:12:49.038846,2026-03-02 15:31:56
+Etro,info@etro.com,Etro,sent,2026-03-02T16:15:35.503770,2026-03-02 15:31:56
+Roberto Cavalli,info@robertocavalli.com,Roberto Cavalli,sent,2026-03-02T16:15:39.790985,2026-03-02 15:31:56
+Hugo Boss,info@hugoboss.com,Hugo Boss,sent,2026-03-02T16:21:39.707840,2026-03-02 15:31:56
+Zegna,zegna@zegna.com,Zegna,sent,2026-03-02T16:21:43.695807,2026-03-02 15:31:56
+Berluti,info@berluti.com,Berluti,sent,2026-03-02T16:21:47.713029,2026-03-02 15:31:56
+John Lobb,info@johnlobb.com,John Lobb,sent,2026-03-02T16:24:43.280343,2026-03-02 15:31:56
+UN Special Rapporteur on Torture,sr-torture@ohchr.org,UN Human Rights,sent,2026-03-02T16:24:47.302568,2026-03-02 15:33:24
+UN Committee Against Torture,cat@ohchr.org,UN Human Rights,sent,2026-03-02T16:24:51.344080,2026-03-02 15:33:24
+World Organization Against Torture,omct@omct.org,OMCT,sent,2026-03-02T16:27:42.684855,2026-03-02 15:33:24
+APT Geneva,apt@apt.ch,Association for the Prevention of Torture,sent,2026-03-02T16:30:44.459202,2026-03-02 15:33:24
+Howard League UK,info@howardleague.org,Howard League,sent,2026-03-02T16:33:38.623236,2026-03-02 15:33:24
+ACLU,aclu@aclu.org,American Civil Liberties Union,sent,2026-03-02T16:33:42.870994,2026-03-02 15:33:24
+Center for Constitutional Rights,ccr@ccr-ny.org,CCR,sent,2026-03-02T16:36:47.821604,2026-03-02 15:33:24
+IRCT International Rehabilitation Council,irct@irct.org,IRCT,sent,2026-03-02T16:39:34.517745,2026-03-02 15:33:24
+HRW Americas,americas@hrw.org,Human Rights Watch Americas,sent,2026-03-02T16:39:43.089847,2026-03-02 15:33:24
+CDH,cdh@senado.gov.br,Brazil Senate Human Rights,sent,2026-03-02T16:42:45.441898,2026-03-02 15:33:24
+African Commission on Human Rights,achpr@achpr.org,African Commission,sent,2026-03-02T16:45:41.638793,2026-03-02 15:33:24
+Amnesty International Africa,aiinfo@amnesty.org,Amnesty Africa,sent,2026-03-02T16:45:45.326998,2026-03-02 15:33:24
+AHRC,info@ahrc.org,Asian Human Rights Commission,sent,2026-03-02T16:48:43.516542,2026-03-02 15:33:24
+Google,press@google.com,Google,sent,2026-03-02T16:51:39.192376,2026-03-02 15:34:51
+Amazon,Amazon-Press@amazon.com,Amazon,sent,2026-03-02T16:51:42.890794,2026-03-02 15:34:51
+Meta,press@meta.com,Meta/Facebook,sent,2026-03-02T16:54:39.936474,2026-03-02 15:34:51
+AMD,info@amd.com,AMD,sent,2026-03-02T16:57:36.616232,2026-03-02 15:34:51
+Qualcomm,info@qualcomm.com,Qualcomm,sent,2026-03-02T16:57:40.116406,2026-03-02 15:34:51
+Cisco,contact@cisco.com,Cisco,sent,2026-03-02T17:00:42.991881,2026-03-02 15:34:51
+PayPal,media@paypal-corp.com,PayPal,sent,2026-03-02T17:06:36.855824,2026-03-02 15:34:51
+Uber,press@uber.com,Uber,sent,2026-03-02T17:06:40.964346,2026-03-02 15:34:51
+Airbnb,media@airbnb.com,Airbnb,sent,2026-03-02T17:06:45.275826,2026-03-02 15:34:51
+Lyft,press@lyft.com,Lyft,sent,2026-03-02T17:09:32.771501,2026-03-02 15:34:51
+Twitter/X,press@x.com,Twitter/X,sent,2026-03-02T17:09:37.053224,2026-03-02 15:34:51
+TikTok,info@tiktok.com,TikTok,sent,2026-03-02T17:09:41.428391,2026-03-02 15:34:51
+Snap,press@snap.com,Snapchat,sent,2026-03-02T17:12:40.192872,2026-03-02 15:34:51
+Pinterest,press@pinterest.com,Pinterest,sent,2026-03-02T17:12:44.305209,2026-03-02 15:34:51
+Reddit,press@reddit.com,Reddit,sent,2026-03-02T17:12:48.497898,2026-03-02 15:34:51
+Slack,feedback@slack.com,Slack,sent,2026-03-02T17:15:36.781180,2026-03-02 15:34:51
+Zoom,pr@zoom.us,Zoom,sent,2026-03-02T17:15:41.287659,2026-03-02 15:34:51
+Palantir,info@palantir.com,Palantir,sent,2026-03-02T17:15:45.609815,2026-03-02 15:34:51
+SpaceX,press@spacex.com,SpaceX,sent,2026-03-02T17:18:44.877110,2026-03-02 15:34:51
+Blue Origin,info@blueorigin.com,Blue Origin,sent,2026-03-02T17:18:49.000193,2026-03-02 15:34:51
+Alibaba,media@alibabagroup.com,Alibaba,sent,2026-03-02T17:18:53.550344,2026-03-02 15:34:51
+Tencent,pr@tencent.com,Tencent,sent,2026-03-02T17:21:37.194781,2026-03-02 15:34:51
+Baidu,pr@baidu.com,Baidu,sent,2026-03-02T17:21:41.349798,2026-03-02 15:34:51
+Huawei,pr@huawei.com,Huawei,sent,2026-03-02T17:21:45.927288,2026-03-02 15:34:51
+Xiaomi,info@xiaomi.com,Xiaomi,sent,2026-03-02T17:24:40.935572,2026-03-02 15:34:51
+ByteDance,bytedance@bytedance.com,ByteDance,sent,2026-03-02T17:24:45.202882,2026-03-02 15:34:51
+DJI,info@dji.com,DJI,sent,2026-03-02T17:24:49.281965,2026-03-02 15:34:51
+ZTE,zte@zte.com.cn,ZTE,sent,2026-03-02T17:27:35.157567,2026-03-02 15:34:51
+Lenovo,media@lenovo.com,Lenovo,sent,2026-03-02T17:27:39.173455,2026-03-02 15:34:51
+ASML,info@asml.com,ASML,sent,2026-03-02T17:27:43.313516,2026-03-02 15:34:51
+SAP,info@sap.com,SAP,sent,2026-03-02T17:30:41.800445,2026-03-02 15:34:51
+Siemens,press@siemens.com,Siemens,sent,2026-03-02T17:30:45.892553,2026-03-02 15:34:51
+Bosch,info@bosch.com,Bosch,sent,2026-03-02T17:30:49.946743,2026-03-02 15:34:51
+Thomson Reuters,contact@thomsonreuters.com,Thomson Reuters,sent,2026-03-02T17:33:35.605881,2026-03-02 15:34:51
+Nokia,press@nokia.com,Nokia,sent,2026-03-02T17:33:39.763190,2026-03-02 15:34:51
+Ericsson,info@ericsson.com,Ericsson,sent,2026-03-02T17:33:43.880492,2026-03-02 15:34:51
+Spotify,press@spotify.com,Spotify,sent,2026-03-02T17:36:43.829845,2026-03-02 15:34:51
+Klarna,press@klarna.com,Klarna,sent,2026-03-02T17:36:47.971314,2026-03-02 15:34:51
+Adyen,info@adyen.com,Adyen,sent,2026-03-02T17:36:52.257047,2026-03-02 15:34:51
+ARM Holdings,info@arm.com,ARM,sent,2026-03-02T17:39:35.896221,2026-03-02 15:34:51
+DeepMind,press@deepmind.com,DeepMind,sent,2026-03-02T17:39:40.025527,2026-03-02 15:34:51
+ARM,media@arm.com,ARM Holdings,sent,2026-03-02T17:39:44.142545,2026-03-02 15:34:51
+Graphcore,info@graphcore.ai,Graphcore,sent,2026-03-02T17:42:41.369519,2026-03-02 15:34:51
+British Telecom,press@bt.com,BT Group,sent,2026-03-02T17:42:45.704579,2026-03-02 15:34:51
+Sky,press@sky.com,Sky,sent,2026-03-02T17:42:49.633314,2026-03-02 15:34:51
+Sony,sony@sony.com,Sony,sent,2026-03-02T17:45:35.794955,2026-03-02 15:34:51
+SoftBank,contact@softbank.jp,SoftBank,sent,2026-03-02T17:45:39.905928,2026-03-02 15:34:51
+Nintendo,contact@nintendo.com,Nintendo,sent,2026-03-02T17:48:39.908528,2026-03-02 15:34:51
+Toyota,media@toyota.com,Toyota,sent,2026-03-02T17:48:44.058563,2026-03-02 15:34:51
+Panasonic,contact@panasonic.com,Panasonic,sent,2026-03-02T17:48:48.041899,2026-03-02 15:34:51
+NEC,contact@nec.com,NEC,sent,2026-03-02T17:51:37.428545,2026-03-02 15:34:51
+Samsung,samsung@samsung.com,Samsung,sent,2026-03-02T17:51:41.491647,2026-03-02 15:34:51
+LG,lg@lg.com,LG,sent,2026-03-02T17:54:45.754355,2026-03-02 15:34:51
+Infosys,contact@infosys.com,Infosys,sent,2026-03-02T17:57:43.717983,2026-03-02 15:34:51
+TCS,tcs@tcs.com,TCS,sent,2026-03-02T17:57:47.751947,2026-03-02 15:34:51
+Wipro,contact@wipro.com,Wipro,sent,2026-03-02T18:00:41.283855,2026-03-02 15:34:51
+Reliance Jio,jio@jio.com,Reliance Jio,sent,2026-03-02T18:00:45.673299,2026-03-02 15:34:51
+Flipkart,press@flipkart.com,Flipkart,sent,2026-03-02T18:00:50.389412,2026-03-02 15:34:51
+Atlassian,press@atlassian.com,Atlassian,sent,2026-03-02T18:03:56.742026,2026-03-02 15:34:51
+Canva,press@canva.com,Canva,sent,2026-03-02T18:04:00.953011,2026-03-02 15:34:51
+Afterpay,info@afterpay.com,Afterpay,sent,2026-03-02T18:06:50.059273,2026-03-02 15:34:51
+Telstra,media@telstra.com.au,Telstra,sent,2026-03-02T18:06:54.229332,2026-03-02 15:34:51
+Shopify,press@shopify.com,Shopify,sent,2026-03-02T18:06:58.356972,2026-03-02 15:34:51
+BlackBerry,press@blackberry.com,BlackBerry,sent,2026-03-02T18:09:33.280627,2026-03-02 15:34:51
+Nubank,press@nubank.com.br,Nubank,sent,2026-03-02T18:09:41.186300,2026-03-02 15:34:51
+Check Point,info@checkpoint.com,Check Point,sent,2026-03-02T18:12:52.217114,2026-03-02 15:34:51
+Waze,press@waze.com,Waze,sent,2026-03-02T18:12:56.304757,2026-03-02 15:34:51
+NSA,nsa.gov@nsa.gov,US National Security Agency,sent,2026-03-02T18:18:46.072739,2026-03-02 15:35:56
+Centre for Effective Altruism,contact@centreforeffectivealtruism.org,CEA,sent,2026-03-02T19:33:39.921112,2026-03-02 15:38:03
+Giving What We Can,hello@givingwhatwecan.org,Giving What We Can,sent,2026-03-02T19:36:38.702822,2026-03-02 15:38:03
+"80,000 Hours",info@80000hours.org,"80,000 Hours",sent,2026-03-02T19:36:42.718381,2026-03-02 15:38:03
+The Life You Can Save,info@thelifeyoucansave.org,The Life You Can Save,sent,2026-03-02T19:36:46.681066,2026-03-02 15:38:03
+EA Funds,info@ea-funds.com,EA Funds,pending,,2026-03-02 15:38:03
+Charity Entrepreneurship,hello@charityentrepreneurship.com,Charity Entrepreneurship,pending,,2026-03-02 15:38:03
+ImpactMatters,info@impactmatters.org,ImpactMatters,pending,,2026-03-02 15:38:03
+Humanity First,contact@humanityfirst.org,Humanity First,pending,,2026-03-02 15:38:03
+Open Philanthropy,info@openphilanthropy.org,Open Philanthropy,pending,,2026-03-02 15:38:03
+Cavendish Labs,info@cavendishlabs.org,Cavendish Labs,pending,,2026-03-02 15:38:03
+Lightspeed Grants,info@lightgrants.org,Lightspeed Grants,pending,,2026-03-02 15:38:03
+The Stone Foundation,info@stone-foundation.org,Stone Foundation,pending,,2026-03-02 15:38:03
+The Forethought Foundation,info@forethought.org,Forethought Foundation,pending,,2026-03-02 15:38:03
+The Survival and Flourishing Fund,info@survivalandflourishing.org,SFF,pending,,2026-03-02 15:38:03
+The Long-Term Future Fund,info@ltff.org,LTFF,pending,,2026-03-02 15:38:03
+Machine Intelligence Research Institute,info@intelligence.org,MIRI,pending,,2026-03-02 15:38:03
+DeepMind,partnerships@deepmind.com,DeepMind,pending,,2026-03-02 15:38:03
+OpenAI,press@openai.com,OpenAI,pending,,2026-03-02 15:38:03
+Conjecture,info@conjecture.dev,Conjecture,pending,,2026-03-02 15:38:03
+Alignment Research Center,info@alignmentresearchcenter.org,ARC,pending,,2026-03-02 15:38:03
+Redwood Research,info@redwoodresearch.org,Redwood Research,pending,,2026-03-02 15:38:03
+FAR AI,info@far-ai.org,FAR AI,pending,,2026-03-02 15:38:03
+Governance Lab,info@thegovernancelab.org,GovLab,pending,,2026-03-02 15:38:03
+Partnership on AI,info@partnershiponai.org,Partnership on AI,pending,,2026-03-02 15:38:03
+Future of Life Institute,info@futureoflife.org,Future of Life Institute,pending,,2026-03-02 15:38:03
+Center for AI Safety,info@centerforaisafety.org,CAIS,pending,,2026-03-02 15:38:03
+EA London,london@effectivealtruism.org,EA London,pending,,2026-03-02 15:38:03
+EA Berlin,berlin@effectivealtruism.org,EA Berlin,pending,,2026-03-02 15:38:03
+EA New York,nyc@effectivealtruism.org,EA NYC,pending,,2026-03-02 15:38:03
+EA San Francisco,sf@effectivealtruism.org,EA SF,pending,,2026-03-02 15:38:03
+EA Boston,boston@effectivealtruism.org,EA Boston,pending,,2026-03-02 15:38:03
+EA DC,dc@effectivealtruism.org,EA DC,pending,,2026-03-02 15:38:03
+EA Toronto,toronto@effectivealtruism.org,EA Toronto,pending,,2026-03-02 15:38:03
+EA Melbourne,melbourne@effectivealtruism.org,EA Melbourne,pending,,2026-03-02 15:38:03
+EA Sydney,sydney@effectivealtruism.org,EA Sydney,pending,,2026-03-02 15:38:03
+EA Singapore,singapore@effectivealtruism.org,EA Singapore,pending,,2026-03-02 15:38:03
+EA Hong Kong,hk@effectivealtruism.org,EA Hong Kong,pending,,2026-03-02 15:38:03
+EA Oxford,oxford@effectivealtruism.org,EA Oxford,pending,,2026-03-02 15:38:03
+EA Cambridge,cambridge@effectivealtruism.org,EA Cambridge,pending,,2026-03-02 15:38:03
+The Good Food Institute,hello@gfi.org,GFI,pending,,2026-03-02 15:38:03
+Rethink Charity,info@rethinkcharity.org,Rethink Charity,pending,,2026-03-02 15:38:03
+Animal Equality,info@animalequality.org,Animal Equality,pending,,2026-03-02 15:38:03
+The Humane League,info@thehumaneleague.org,The Humane League,pending,,2026-03-02 15:38:03
+Faunalytics,info@faunalytics.org,Faunalytics,pending,,2026-03-02 15:38:03
+Sentience Institute,hello@sentienceinstitute.org,Sentience Institute,pending,,2026-03-02 15:38:03
+Vox Populi,info@voxpopuli.org,Vox Populi,pending,,2026-03-02 15:38:03
+EA Global,eaglobal@effectivealtruism.org,EA Global,pending,,2026-03-02 15:38:03
+Rethink Priorities,info@rethinkpriorities.org,Rethink Priorities,pending,,2026-03-02 15:38:03
+Certas,hello@certas.group,Certas,pending,,2026-03-02 15:38:03
+EA Ventures,info@ea-ventures.com,EA Ventures,pending,,2026-03-02 15:38:03
+UN Human Rights,info@ohchr.org,UN Human Rights Office,pending,,2026-03-02 15:39:19
+UN High Commissioner for Human Rights,ohchr@un.org,UN Human Rights,pending,,2026-03-02 15:39:19
+Human Rights Council,hrc@nohrp.org,UN Human Rights Council,pending,,2026-03-02 15:39:19
+International Court of Human Rights,cour@icc.nl,International Court,pending,,2026-03-02 15:39:19
+International Criminal Court,publicaffairs@icc-cpi.int,ICC,pending,,2026-03-02 15:39:19
+International Commission of Jurists,info@icj.org,ICJ,pending,,2026-03-02 15:39:19
+International Centre for Transitional Justice,info@ictj.org,ICTJ,pending,,2026-03-02 15:39:19
+International PEN,info@pen-international.org,International PEN,pending,,2026-03-02 15:39:19
+European Parliament Human Rights,droi@europarl.europa.eu,EU Parliament,pending,,2026-03-02 15:39:19
+OSCE ODIHR,odihr@odihr.pl,OSCE Human Rights,pending,,2026-03-02 15:39:19
+Council of Europe Human Rights,commissioner@coe.int,CoE Commissioner,pending,,2026-03-02 15:39:19
+Liberty UK,info@liberty-human-rights.org,Liberty UK,pending,,2026-03-02 15:39:19
+British Institute Human Rights,bihr@bihr.org,BIHR,pending,,2026-03-02 15:39:19
+German Institute Human Rights,info@DIMR.de,DIMR,pending,,2026-03-02 15:39:19
+Human Rights Without Frontiers,hrwf@hrwf.org,HRWF,pending,,2026-03-02 15:39:19
+French Human Rights League,ldh@ldh-france.org,LDH,pending,,2026-03-02 15:39:19
+Anti-Defamation League,contact@adl.org,ADL,pending,,2026-03-02 15:39:19
+Human Rights Campaign,hrc@hrc.org,HRC,pending,,2026-03-02 15:39:19
+Southern Poverty Law Center,splc@splcenter.org,SPLC,pending,,2026-03-02 15:39:19
+Human Rights Watch USA,usa@hrw.org,HRW USA,pending,,2026-03-02 15:39:19
+Amnesty USA,aiusa@aiusa.org,Amnesty USA,pending,,2026-03-02 15:39:19
+NAACP,naacp@naacp.org,NAACP,pending,,2026-03-02 15:39:19
+Lambda Legal,lambdalegal@lambdalegal.org,Lambda Legal,pending,,2026-03-02 15:39:19
+Asian American Advancing Justice,info@advancingjustice.org,AAAJ,pending,,2026-03-02 15:39:19
+CorteIDH,corteidh@oas.org,Inter-American Court,pending,,2026-03-02 15:39:19
+PROVIVE,provive@provive.org,PROVIVE Mexico,pending,,2026-03-02 15:39:19
+Justicia,justicia@justicia.org,Justicia Mexico,pending,,2026-03-02 15:39:19
+Kenya Human Rights Commission,khrc@khrc.or.ke,KHRC,pending,,2026-03-02 15:39:19
+Nigerian Human Rights,info@nhrc.org.ng,NHRC,pending,,2026-03-02 15:39:19
+South African Human Rights,info@sahrc.org.za,SAHRC,pending,,2026-03-02 15:39:19
+Human Rights in Myanmar,info@burmacampaign.org,Burma Campaign,pending,,2026-03-02 15:39:19
+Tibetan Centre Human Rights,tchrt@tchr.org,TCHR,pending,,2026-03-02 15:39:19
+Hong Kong Watch,info@hkwatch.org,Hong Kong Watch,pending,,2026-03-02 15:39:19
+PUHR,info@puhr.org,Philippine Human Rights,pending,,2026-03-02 15:39:19
+Al-Marsd,almarsd@almarsd.com,Al-Marsd Saudi,pending,,2026-03-02 15:39:19
+Amnesty MENA,mena@amnesty.org,Amnesty MENA,pending,,2026-03-02 15:39:19
+Iran Human Rights,info@iranhr.com,IHR,pending,,2026-03-02 15:39:19
+Kurdish Human Rights,khrp@khrp.org,KHRP,pending,,2026-03-02 15:39:19
+Human Rights NZ,info@hrc.org.nz,NZ Human Rights,pending,,2026-03-02 15:39:19
