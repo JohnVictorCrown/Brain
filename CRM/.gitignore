@@ -1,8 +1,27 @@
-node_modules/
-build/
-dist/
-coverage/
-.DS_Store
-*.log
-.env*
-!.env.example
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Editor / temp files
+*.exe
+*.terabox.uploading.cfg
+*~
+*.bak
+databases/*.bak
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.exe
+dashboard.exe
+*.exe
+*.exe
+dashboard.exe
+crm.exe

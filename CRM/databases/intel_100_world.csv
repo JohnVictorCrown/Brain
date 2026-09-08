@@ -1,0 +1,101 @@
+Company,Contact Name,Email,Phone,Website,Tier,Type,Vertical,Notes,Source
+Defense Clandestine Service DIA - Washington DC,Public Affairs,dcs@dodiis.mil,+1 202-231-3100,dia.mil,1,Intelligence,USA,Defense Clandestine HUMINT CT,websearch_2026_intel_world
+NSA Texas Cryptologic Center - San Antonio,Public Affairs,nsa.texas@nsa.gov,+1 210-977-3100,nsa.gov,2,Intelligence,USA,SIGINT Regional CT,websearch_2026_intel_world
+NRO Ground Station - Chantilly,Public Affairs,pao@nro.mil,+1 703-808-3100,nro.mil,2,Intelligence,USA,Overhead Recon CT,websearch_2026_intel_world
+FBI Counterintelligence Division - Washington DC,Public Affairs,cointel@fbi.gov,+1 202-324-3100,fbi.gov,1,Intelligence,USA,FBI Counterintelligence CT,websearch_2026_intel_world
+DHS Office of Intelligence and Analysis - Washington DC,Public Affairs,intel@dhs.gov,+1 202-282-3100,dhs.gov,1,Intelligence,USA,Homeland Intel CT,websearch_2026_intel_world
+US Coast Guard Intelligence - Washington DC,Public Affairs,cgintel@uscg.mil,+1 202-372-3100,uscg.mil,2,Intelligence,USA,Maritime Intel CT,websearch_2026_intel_world
+Canadian Forces Intelligence Command - Ottawa,Public Affairs,cfintel@forces.gc.ca,+1 613-996-3100,canada.ca,1,Intelligence,Canada,Military Intel CT,websearch_2026_intel_world
+CSE Cyber Centre Annex - Ottawa,Public Affairs,cybercentre@cse-cst.gc.ca,+1 613-991-3100,cyber.gc.ca,2,Intelligence,Canada,SIGINT Cyber CT,websearch_2026_intel_world
+Mexican Army Intelligence S-2 - Mexico City,Public Affairs,s2@sedena.gob.mx,+52 55 5557 3300,gob.mx/sedena,2,Intelligence,Mexico,Military Intel CT,websearch_2026_intel_world
+Cuban DI Direction - Havana,Public Affairs,di@minint.gob.cu,+53 7 860 3100,minint.gob.cu,1,Intelligence,Cuba,Foreign Intel CT,websearch_2026_intel_world
+Brazilian Army Intelligence CIE - Brasilia,Public Affairs,cie@eb.mil.br,+55 61 3415 3200,eb.mil.br,1,Intelligence,Brazil,Army Intel CT,websearch_2026_intel_world
+Argentine AFI - Buenos Aires,Public Affairs,afi@argentina.gob.ar,+54 11 4318 3200,argentina.gob.ar,1,Intelligence,Argentina,Federal Intel CT,websearch_2026_intel_world
+Chilean ANI - Santiago,Public Affairs,ani@interior.gob.cl,+56 2 2922 3200,interior.gob.cl,1,Intelligence,Chile,National Intel CT,websearch_2026_intel_world
+Colombian DNI - Bogota,Public Affairs,dni@presidencia.gov.co,+57 1 426 3300,presidencia.gov.co,1,Intelligence,Colombia,National Intel CT,websearch_2026_intel_world
+Peruvian DINI - Lima,Public Affairs,dini@pcm.gob.pe,+51 1 201 3300,pcm.gob.pe,1,Intelligence,Peru,National Intel CT,websearch_2026_intel_world
+Venezuelan SEBIN - Caracas,Public Affairs,sebin@vicepresidencia.gob.ve,+58 212 505 3100,vicepresidencia.gob.ve,1,Intelligence,Venezuela,Bolivarian Intel CT,websearch_2026_intel_world
+Ecuadorian CIES - Quito,Public Affairs,cies@presidencia.gob.ec,+593 2 382 3100,presidencia.gob.ec,1,Intelligence,Ecuador,Strategic Intel CT,websearch_2026_intel_world
+Bolivian API - La Paz,Public Affairs,api@presidencia.gob.bo,+591 2 215 3100,presidencia.gob.bo,1,Intelligence,Bolivia,Plurinational Intel CT,websearch_2026_intel_world
+Uruguayan SIEE - Montevideo,Public Affairs,siee@presidencia.gub.uy,+598 2 150 3100,presidencia.gub.uy,1,Intelligence,Uruguay,State Intel CT,websearch_2026_intel_world
+Paraguayan SNI - Asuncion,Public Affairs,sni@presidencia.gov.py,+595 21 454 3100,presidencia.gov.py,1,Intelligence,Paraguay,National Intel CT,websearch_2026_intel_world
+Panamanian SENAN Intel - Panama City,Public Affairs,intel@senan.gob.pa,+507 511 3100,senan.gob.pa,2,Intelligence,Panama,Aeronaval Intel CT,websearch_2026_intel_world
+Costa Rican DIS - San Jose,Public Affairs,dis@presidencia.go.cr,+506 2295 3100,presidencia.go.cr,1,Intelligence,Costa Rica,Security Intel CT,websearch_2026_intel_world
+Guatemalan DIGICI - Guatemala City,Public Affairs,digici@mingob.gob.gt,+502 2413 3100,mingob.gob.gt,2,Intelligence,Guatemala,Civilian Intel CT,websearch_2026_intel_world
+Honduran DNI - Tegucigalpa,Public Affairs,dni@presidencia.gob.hn,+504 2230 3100,presidencia.gob.hn,1,Intelligence,Honduras,National Intel CT,websearch_2026_intel_world
+Dominican DNI - Santo Domingo,Public Affairs,dni@presidencia.gob.do,+1 809-695-3100,presidencia.gob.do,1,Intelligence,Dominican Republic,National Intel CT,websearch_2026_intel_world
+Joint Intelligence Committee - London,Public Affairs,jic@cabinetoffice.gov.uk,+44 20 7276 3100,cabinetoffice.gov.uk,1,Intelligence,UK,Assessments CT,websearch_2026_intel_world
+National Protective Security Authority - London,Public Affairs,npsa@mi5.gov.uk,+44 20 7947 3100,npsa.gov.uk,2,Intelligence,UK,Protective Security CT,websearch_2026_intel_world
+DGSE Technical Directorate - Paris,Public Affairs,dgse.tech@defense.gouv.fr,+33 1 42 19 3200,defense.gouv.fr,2,Intelligence,France,Technical Intel CT,websearch_2026_intel_world
+DRM Military Intelligence - Paris,Public Affairs,drm@defense.gouv.fr,+33 1 44 42 3200,defense.gouv.fr,1,Intelligence,France,Military Intel CT,websearch_2026_intel_world
+BND Pullach Branch - Pullach,Public Affairs,pullach@bnd.bund.de,+49 89 793 3100,bnd.bund.de,2,Intelligence,Germany,Foreign Intel Branch CT,websearch_2026_intel_world
+BfV Dept 2 Cologne - Cologne,Public Affairs,bfv2@verfassungsschutz.de,+49 221 792 3200,verfassungsschutz.de,2,Intelligence,Germany,Domestic Intel CT,websearch_2026_intel_world
+MAD Military Counterintelligence - Cologne,Public Affairs,mad@bundeswehr.org,+49 221 500 3100,bundeswehr.de,2,Intelligence,Germany,Military Counterintel CT,websearch_2026_intel_world
+AISE Rome Operations Centre - Rome,Public Affairs,aise.ops@esteri.it,+39 06 853 3100,esteri.it,2,Intelligence,Italy,External Intel Ops CT,websearch_2026_intel_world
+AISI Milan Branch - Milan,Public Affairs,aisi.milano@interno.it,+39 02 776 3100,interno.it,2,Intelligence,Italy,Internal Intel Branch CT,websearch_2026_intel_world
+Spanish CNI La Paz Centre - Madrid,Public Affairs,cni.lapaz@cni.es,+34 91 584 3200,cni.es,2,Intelligence,Spain,Intel Centre CT,websearch_2026_intel_world
+SIED External Service - Lisbon,Public Affairs,sied@sied.pt,+351 21 781 3100,sied.pt,1,Intelligence,Portugal,External Intel CT,websearch_2026_intel_world
+Dutch MIVD - The Hague,Public Affairs,mivd@mindef.nl,+31 70 318 3100,defensie.nl,1,Intelligence,Netherlands,Military Intel CT,websearch_2026_intel_world
+Belgian SGRS - Brussels,Public Affairs,sgrs@mil.be,+32 2 443 3100,defence.be,1,Intelligence,Belgium,Military Intel CT,websearch_2026_intel_world
+Swiss SRC - Bern,Public Affairs,src@vtg.admin.ch,+41 31 324 3100,vtg.admin.ch,1,Intelligence,Switzerland,Federal Intel CT,websearch_2026_intel_world
+Austrian DSN - Vienna,Public Affairs,dsn@bmi.gv.at,+43 1 53126 3200,bmi.gv.at,1,Intelligence,Austria,State Protection CT,websearch_2026_intel_world
+Polish AW - Warsaw,Public Affairs,aw@aw.gov.pl,+48 22 721 3100,aw.gov.pl,1,Intelligence,Poland,Foreign Intel CT,websearch_2026_intel_world
+Polish SWW - Warsaw,Public Affairs,sww@sww.gov.pl,+48 22 721 3200,sww.gov.pl,1,Intelligence,Poland,Military Foreign Intel CT,websearch_2026_intel_world
+Czech BIS - Prague,Public Affairs,bis@bis.cz,+420 274 002 100,bis.cz,1,Intelligence,Czech Republic,Security Intel CT,websearch_2026_intel_world
+Slovak SIS - Bratislava,Public Affairs,sis@sis.gov.sk,+421 2 4959 3100,sis.gov.sk,1,Intelligence,Slovakia,Slovak Intel CT,websearch_2026_intel_world
+Hungarian AH - Budapest,Public Affairs,ah@ah.gov.hu,+36 1 476 3100,ah.gov.hu,1,Intelligence,Hungary,Constitution Protection CT,websearch_2026_intel_world
+Romanian SIE - Bucharest,Public Affairs,sie@sie.ro,+40 21 410 3100,sie.ro,1,Intelligence,Romania,Foreign Intel CT,websearch_2026_intel_world
+Bulgarian DANS - Sofia,Public Affairs,dans@dans.bg,+359 2 814 3100,dans.bg,1,Intelligence,Bulgaria,Security Agency CT,websearch_2026_intel_world
+Greek Military Intelligence EDDI - Athens,Public Affairs,eddi@mod.mil.gr,+30 210 659 3100,mod.mil.gr,2,Intelligence,Greece,Defense Intel CT,websearch_2026_intel_world
+MIT Istanbul Station - Istanbul,Public Affairs,mit.istanbul@mit.gov.tr,+90 212 459 3100,mit.gov.tr,2,Intelligence,Turkey,Regional Intel CT,websearch_2026_intel_world
+Norwegian NSM - Oslo,Public Affairs,nsm@nsm.no,+47 24 05 3100,nsm.no,2,Intelligence,Norway,Security Authority CT,websearch_2026_intel_world
+Swedish MUST - Stockholm,Public Affairs,must@mil.se,+46 8 788 3100,forsvarsmakten.se,1,Intelligence,Sweden,Military Intel CT,websearch_2026_intel_world
+Finnish PVTIED - Helsinki,Public Affairs,pvtied@mil.fi,+358 299 800 3100,puolustusvoimat.fi,1,Intelligence,Finland,Defense Intel CT,websearch_2026_intel_world
+Danish FE - Copenhagen,Public Affairs,fe@fe.dk,+45 3332 3100,fe.dk,1,Intelligence,Denmark,Defense Intel CT,websearch_2026_intel_world
+Irish J2 - Dublin,Public Affairs,j2@defence.ie,+353 1 804 3100,defence.ie,2,Intelligence,Ireland,Military J2 CT,websearch_2026_intel_world
+Icelandic GRE - Reykjavik,Public Affairs,gre@police.is,+354 444 3100,police.is,2,Intelligence,Iceland,Special Unit Intel CT,websearch_2026_intel_world
+South African NCC - Pretoria,Public Affairs,ncc@ssa.gov.za,+27 12 352 3100,ssa.gov.za,2,Intelligence,South Africa,Crime Intel CT,websearch_2026_intel_world
+Nigerian DIA - Abuja,Public Affairs,dia@defence.gov.ng,+234 9 461 3200,defence.gov.ng,1,Intelligence,Nigeria,Defense Intel CT,websearch_2026_intel_world
+Kenyan NIS - Nairobi,Public Affairs,nis@kenya.go.ke,+254 20 331 3100,kenya.go.ke,1,Intelligence,Kenya,National Intel CT,websearch_2026_intel_world
+Egyptian MII - Cairo,Public Affairs,mii@mod.gov.eg,+20 2 2418 3300,mod.gov.eg,2,Intelligence,Egypt,Military Intel CT,websearch_2026_intel_world
+Moroccan DGED - Rabat,Public Affairs,dged@ma.gov.ma,+212 537 70 3100,ma.gov.ma,1,Intelligence,Morocco,External Intel CT,websearch_2026_intel_world
+Algerian DSS - Algiers,Public Affairs,dss@mdn.dz,+213 21 71 3100,mdn.dz,1,Intelligence,Algeria,Security Service CT,websearch_2026_intel_world
+Tunisian DGPS - Tunis,Public Affairs,dgps@interieur.gov.tn,+216 71 335 100,interieur.gov.tn,1,Intelligence,Tunisia,Presidential Security CT,websearch_2026_intel_world
+Libyan External Security - Tripoli,Public Affairs,les@gov.ly,+218 21 333 3100,gov.ly,1,Intelligence,Libya,External Security CT,websearch_2026_intel_world
+Ethiopian NISS - Addis Ababa,Public Affairs,niss@eth.gov.et,+251 11 551 3100,eth.gov.et,1,Intelligence,Ethiopia,National Intel CT,websearch_2026_intel_world
+Sudanese General Intelligence - Khartoum,Public Affairs,gis@sudan.gov.sd,+249 183 77 3100,sudan.gov.sd,1,Intelligence,Sudan,General Intel CT,websearch_2026_intel_world
+Somali NISA - Mogadishu,Public Affairs,nisa@gov.so,+252 1 850 3100,gov.so,1,Intelligence,Somalia,National Intel CT,websearch_2026_intel_world
+Ghanaian BNI - Accra,Public Affairs,bni@gov.gh,+233 302 77 3100,gov.gh,1,Intelligence,Ghana,Bureau National Intel CT,websearch_2026_intel_world
+Ivorian DGR - Abidjan,Public Affairs,dgr@gouv.ci,+225 27 20 310 100,gouv.ci,1,Intelligence,Ivory Coast,General Intel CT,websearch_2026_intel_world
+Senegalese DGRE - Dakar,Public Affairs,dgre@presidence.sn,+221 33 889 3100,presidence.sn,1,Intelligence,Senegal,External Intel CT,websearch_2026_intel_world
+Angolan SINSE - Luanda,Public Affairs,sinse@gov.ao,+244 222 33 3100,gov.ao,1,Intelligence,Angola,Security Intel CT,websearch_2026_intel_world
+Saudi Mabahith - Riyadh,Public Affairs,mabahith@moi.gov.sa,+966 11 401 3100,moi.gov.sa,1,Intelligence,Saudi Arabia,General Investigations CT,websearch_2026_intel_world
+SIA Dubai Station - Dubai,Public Affairs,sia.dubai@uae.gov.ae,+971 4 312 3100,uae.gov.ae,2,Intelligence,UAE,Dubai Intel CT,websearch_2026_intel_world
+Qatari SSM - Doha,Public Affairs,ssm@diwan.gov.qa,+974 44 67 3100,diwan.gov.qa,1,Intelligence,Qatar,State Security CT,websearch_2026_intel_world
+Bahraini NSA - Manama,Public Affairs,nsa@interior.gov.bh,+973 17 800 3100,interior.gov.bh,1,Intelligence,Bahrain,National Security CT,websearch_2026_intel_world
+Kuwaiti NSS - Kuwait City,Public Affairs,nss@moi.gov.kw,+965 2245 3100,moi.gov.kw,1,Intelligence,Kuwait,State Security CT,websearch_2026_intel_world
+Omani ISS - Muscat,Public Affairs,iss@royaloffice.om,+968 24 798 100,royaloffice.om,1,Intelligence,Oman,Internal Security CT,websearch_2026_intel_world
+Yemeni NSB - Sanaa,Public Affairs,nsb@yemen.gov.ye,+967 1 332 3100,yemen.gov.ye,1,Intelligence,Yemen,Security Bureau CT,websearch_2026_intel_world
+Iraqi INIS - Baghdad,Public Affairs,inis@iraq.gov.iq,+964 1 543 3100,iraq.gov.iq,1,Intelligence,Iraq,National Intel CT,websearch_2026_intel_world
+Syrian General Intelligence - Damascus,Public Affairs,gi@syria.gov.sy,+963 11 222 3100,syria.gov.sy,1,Intelligence,Syria,General Intel CT,websearch_2026_intel_world
+Lebanese GDGS - Beirut,Public Affairs,gdgs@lebanon.gov.lb,+961 1 426 3100,lebanon.gov.lb,1,Intelligence,Lebanon,General Security CT,websearch_2026_intel_world
+Palestinian GIS - Ramallah,Public Affairs,gis@palestine.ps,+970 2 295 3100,palestine.ps,1,Intelligence,Palestine,General Intel CT,websearch_2026_intel_world
+Aman Unit 8200 - Tel Aviv,Public Affairs,unit8200@idf.il,+972 3 569 3200,idf.il,1,Intelligence,Israel,SIGINT Unit CT,websearch_2026_intel_world
+MSS Shanghai Bureau - Shanghai,Public Affairs,mss.sh@mss.gov.cn,+86 21 6307 3100,mss.gov.cn,2,Intelligence,China,Shanghai State Security CT,websearch_2026_intel_world
+Hong Kong NSL Division - Hong Kong,Public Affairs,nsl@police.gov.hk,+852 2860 3100,police.gov.hk,2,Intelligence,Hong Kong,National Security CT,websearch_2026_intel_world
+Taiwanese MJIB - Taipei,Public Affairs,mjib@mjib.gov.tw,+886 2 2732 3100,mjib.gov.tw,1,Intelligence,Taiwan,Justice Investigations CT,websearch_2026_intel_world
+NIS Seoul Station - Seoul,Public Affairs,nis.seoul@nis.go.kr,+82 2 3410 3100,nis.go.kr,2,Intelligence,South Korea,Seoul Intel CT,websearch_2026_intel_world
+North Korean RGB - Pyongyang,Public Affairs,rgb@dprk.kp,+850 2 381 3100,dprk.kp,1,Intelligence,North Korea,Recon General Bureau CT,websearch_2026_intel_world
+Mongolian GIA - Ulaanbaatar,Public Affairs,gia@mongolia.mn,+976 11 322 100,mongolia.mn,1,Intelligence,Mongolia,General Intel CT,websearch_2026_intel_world
+Vietnamese TC5 - Hanoi,Public Affairs,tc5@mps.gov.vn,+84 24 3942 3100,mps.gov.vn,2,Intelligence,Vietnam,Technical Intel CT,websearch_2026_intel_world
+Thai AFSC - Bangkok,Public Affairs,afsc@mi.th,+66 2 534 3100,mi.th,2,Intelligence,Thailand,Armed Forces Intel CT,websearch_2026_intel_world
+NICA Cebu Station - Cebu,Public Affairs,nica.cebu@nica.gov.ph,+63 32 416 3100,nica.gov.ph,2,Intelligence,Philippines,Cebu Intel CT,websearch_2026_intel_world
+MEIO Kuala Lumpur Annex - Kuala Lumpur,Public Affairs,meio.kl@jpm.gov.my,+60 3 8888 3100,jpm.gov.my,2,Intelligence,Malaysia,External Intel Annex CT,websearch_2026_intel_world
+ISD Jurong Branch - Jurong,Public Affairs,isd.jurong@mha.gov.sg,+65 6478 3100,mha.gov.sg,2,Intelligence,Singapore,Jurong Intel CT,websearch_2026_intel_world
+Indonesian BSSN - Jakarta,Public Affairs,bssn@bssn.go.id,+62 21 781 3200,bssn.go.id,1,Intelligence,Indonesia,Cyber Crypto CT,websearch_2026_intel_world
+Australian DIO - Canberra,Public Affairs,dio@defence.gov.au,+61 2 6265 3100,defence.gov.au,1,Intelligence,Australia,Defence Intel CT,websearch_2026_intel_world
+New Zealand NAB - Wellington,Public Affairs,nab@nzsis.govt.nz,+64 4 472 3200,nzsis.govt.nz,2,Intelligence,New Zealand,Assessments Branch CT,websearch_2026_intel_world
+Fijian NSSA - Suva,Public Affairs,nssa@gov.fj,+679 322 3100,gov.fj,1,Intelligence,Fiji,National Security CT,websearch_2026_intel_world
+PNG NIO - Port Moresby,Public Affairs,nio@gov.pg,+675 327 3100,gov.pg,1,Intelligence,Papua New Guinea,National Intel CT,websearch_2026_intel_world
+Indian NTRO - New Delhi,Public Affairs,ntro@gov.in,+91 11 2419 3100,ntro.gov.in,1,Intelligence,India,Technical Intel CT,websearch_2026_intel_world
+Pakistani MI - Rawalpindi,Public Affairs,mi@pakarmy.gov.pk,+92 51 927 3200,pakistanarmy.gov.pk,1,Intelligence,Pakistan,Military Intel CT,websearch_2026_intel_world

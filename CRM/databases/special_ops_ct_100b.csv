@@ -1,0 +1,101 @@
+Company,Contact Name,Email,Phone,Website,Tier,Type,Vertical,Notes,Source
+US Navy SEAL Team 1 - Coronado,Public Affairs,pao.seal1@navy.mil,+1 619-522-3100,nswc.navy.mil,1,Military,USA,US Navy SEALs - NSWG1,websearch_2026_special_ops_ct2
+US Navy SEAL Team 2 - Little Creek,Public Affairs,pao.seal2@navy.mil,+1 757-462-3100,nswc.navy.mil,1,Military,USA,US Navy SEALs - NSWG2,websearch_2026_special_ops_ct2
+US Army 1st Special Forces Group - Fort Lewis,Public Affairs,pao.1sfg@army.mil,+1 253-967-3100,soc.mil,1,Military,USA,Green Berets Pacific,websearch_2026_special_ops_ct2
+US Army 5th Special Forces Group - Fort Campbell,Public Affairs,pao.5sfg@army.mil,+1 270-798-3100,soc.mil,1,Military,USA,Green Berets CENTCOM,websearch_2026_special_ops_ct2
+US Army 7th Special Forces Group - Eglin,Public Affairs,pao.7sfg@army.mil,+1 850-884-3100,soc.mil,1,Military,USA,Green Berets SOUTHCOM,websearch_2026_special_ops_ct2
+US Air Force 1st Special Operations Wing - Hurlburt,Public Affairs,pao.1sow@af.mil,+1 850-884-3200,afsoc.af.mil,1,Military,USA,AFSOC SOF Aviation,websearch_2026_special_ops_ct2
+USMC 1st Marine Raider Battalion - Camp Pendleton,Public Affairs,pao.mrb1@usmc.mil,+1 760-725-3100,marsoc.marines.mil,1,Military,USA,MARSOC Raiders,websearch_2026_special_ops_ct2
+FBI SWAT Los Angeles Field Office,Public Affairs,losangeles@fbi.gov,+1 310-477-3100,fbi.gov,2,Law Enforcement,USA,FBI Tactical CT - LA,websearch_2026_special_ops_ct2
+FBI SWAT New York Field Office,Public Affairs,newyork@fbi.gov,+1 212-384-3100,fbi.gov,2,Law Enforcement,USA,FBI Tactical CT - NY,websearch_2026_special_ops_ct2
+Texas DPS Ranger Special Operations Group - Austin,Public Affairs,rsop@dps.texas.gov,+1 512-424-3100,dps.texas.gov,2,Law Enforcement,USA,Texas Rangers SORT CT,websearch_2026_special_ops_ct2
+California Highway Patrol SWAT - Sacramento,Public Affairs,swat@chp.ca.gov,+1 916-843-3100,chp.ca.gov,2,Law Enforcement,USA,CHP Tactical CT,websearch_2026_special_ops_ct2
+US Park Police SWAT - Washington DC,Public Affairs,uspp@nps.gov,+1 202-619-3100,nps.gov,2,Law Enforcement,USA,USPP Tactical,websearch_2026_special_ops_ct2
+US Diplomatic Security MSAT - Washington DC,Public Affairs,ds_pao@state.gov,+1 571-345-3100,state.gov,2,Law Enforcement,USA,DSS Mobile Security CT,websearch_2026_special_ops_ct2
+US Customs AMO Tactical - Riverside,Public Affairs,amo@cbp.dhs.gov,+1 951-656-3100,cbp.gov,2,Law Enforcement,USA,CBP Air Marine CT,websearch_2026_special_ops_ct2
+US Army 1st Ranger Battalion - Hunter AAF,Public Affairs,pao.1ranger@army.mil,+1 912-315-3100,benning.army.mil,1,Military,USA,75th Ranger Direct Action,websearch_2026_special_ops_ct2
+21 SAS Reserve - London,Public Affairs,pao.21sas@mod.gov.uk,+44 20 7414 3100,army.mod.uk,2,Military,UK,UKSF Reserve SAS,websearch_2026_special_ops_ct2
+23 SAS Reserve - Birmingham,Public Affairs,pao.23sas@mod.gov.uk,+44 121 427 3100,army.mod.uk,2,Military,UK,UKSF Reserve SAS,websearch_2026_special_ops_ct2
+43 Commando Fleet Protection - Faslane,Public Affairs,pao.43cdo@mod.gov.uk,+44 1436 674000,royalnavy.mod.uk,2,Military,UK,Royal Marines Force Protection CT,websearch_2026_special_ops_ct2
+40 Commando Royal Marines - Taunton,Public Affairs,pao.40cdo@mod.gov.uk,+44 1823 725000,royalnavy.mod.uk,2,Military,UK,Royal Marines Commando,websearch_2026_special_ops_ct2
+West Midlands CTSFO - Birmingham,Public Affairs,ctsfo@west-midlands.police.uk,+44 121 626 3100,west-midlands.police.uk,2,Law Enforcement,UK,UK Armed CT Police,websearch_2026_special_ops_ct2
+RAID Bordeaux - Bordeaux,Public Affairs,raid.bordeaux@interieur.gouv.fr,+33 5 56 44 3100,police-nationale.interieur.gouv.fr,2,Law Enforcement,France,Police Nationale CT - RAID Branch,websearch_2026_special_ops_ct2
+GSPR Presidential Security - Paris,Public Affairs,gspr@elysee.fr,+33 1 42 92 3100,elysee.fr,1,Law Enforcement,France,Gendarmerie Presidential CT,websearch_2026_special_ops_ct2
+Commando Kieffer - Lorient,Public Affairs,kieffer@defense.gouv.fr,+33 2 97 12 3100,defense.gouv.fr,1,Military,France,French Navy Special Forces,websearch_2026_special_ops_ct2
+Commando Montfort - Lorient,Public Affairs,montfort@defense.gouv.fr,+33 2 97 12 3200,defense.gouv.fr,1,Military,France,French Navy Special Forces,websearch_2026_special_ops_ct2
+13e RDP - Martignas,Public Affairs,rdp13@armees.gouv.fr,+33 5 57 12 3100,defense.gouv.fr,1,Military,France,Army Special Reconnaissance,websearch_2026_special_ops_ct2
+GCP Parachute Commando Group - Pau,Public Affairs,gcp@armees.gouv.fr,+33 5 59 40 3100,defense.gouv.fr,2,Military,France,Army Pathfinders CT,websearch_2026_special_ops_ct2
+SEK NRW - Cologne,Public Affairs,sek.koeln@polizei.nrw.de,+49 221 229 3100,polizei.nrw.de,2,Law Enforcement,Germany,State Police CT SEK,websearch_2026_special_ops_ct2
+MEK Berlin - Berlin,Public Affairs,mek@polizei.berlin.de,+49 30 4664 3100,polizei.berlin.de,2,Law Enforcement,Germany,Plainclothes CT MEK,websearch_2026_special_ops_ct2
+BFE Plus Bundespolizei - Blumberg,Public Affairs,bfeplus@bundespolizei.de,+49 30 18652 3100,bundespolizei.de,2,Law Enforcement,Germany,Federal Police CT BFE,websearch_2026_special_ops_ct2
+Fallschirmjaeger Regiment 31 - Seedorf,Public Affairs,fschjg31@bundeswehr.org,+49 4284 921 3100,bundeswehr.de,2,Military,Germany,Airborne SOF-Capable,websearch_2026_special_ops_ct2
+Hubschraubergeschwader 64 - Laupheim,Public Affairs,hsg64@bundeswehr.org,+49 7392 97 3100,bundeswehr.de,2,Military,Germany,SOF Aviation Support,websearch_2026_special_ops_ct2
+17 Stormo Incursori - Furbara,Public Affairs,stormo17@aeronautica.difesa.it,+39 06 6191 3100,aeronautica.difesa.it,1,Military,Italy,Italian Air Force Raiders,websearch_2026_special_ops_ct2
+185th RAO Folgore - Livorno,Public Affairs,rao185@esercito.difesa.it,+39 0586 841 3100,esercito.difesa.it,1,Military,Italy,Army Recon Target Acquisition,websearch_2026_special_ops_ct2
+4th Alpini Paracadutisti Ranger - Verona,Public Affairs,ranger4@esercito.difesa.it,+39 045 815 3100,esercito.difesa.it,1,Military,Italy,Army Ranger CT,websearch_2026_special_ops_ct2
+GOM Penitentiary Police - Rome,Public Affairs,gom@giustizia.it,+39 06 66591 3100,polizia-penitenziaria.it,2,Law Enforcement,Italy,Prison Police CT GOM,websearch_2026_special_ops_ct2
+COMFOSE HQ - Livorno,Public Affairs,comfose@esercito.difesa.it,+39 0586 842 3100,esercito.difesa.it,1,Military,Italy,Joint Special Forces Command,websearch_2026_special_ops_ct2
+GAR Guardia Civil - Logrono,Public Affairs,gar@guardiacivil.es,+34 941 229 3100,guardiacivil.es,1,Law Enforcement,Spain,Guardia Civil Rapid Action CT,websearch_2026_special_ops_ct2
+FGNE Naval Special Warfare - Cartagena,Public Affairs,fgne@armada.mde.es,+34 968 12 3100,armada.mde.es,1,Military,Spain,Spanish Navy FGNE,websearch_2026_special_ops_ct2
+EZAPAC Parachute Sappers - Alcantarilla,Public Affairs,ezapac@ea.mde.es,+34 968 17 3100,ejercitodelaire.mde.es,1,Military,Spain,Air Force Special Operations,websearch_2026_special_ops_ct2
+GOE XIX Maderal Oleaga - Alicante,Public Affairs,goe19@et.mde.es,+34 965 68 3100,ejercito.mde.es,1,Military,Spain,Army Special Operations GOE,websearch_2026_special_ops_ct2
+DAE Special Actions Detachment - Lisbon,Public Affairs,dae@marinha.pt,+351 21 304 3100,marinha.pt,1,Military,Portugal,Portuguese Navy DAE CT,websearch_2026_special_ops_ct2
+GOE PSP Special Operations - Lisbon,Public Affairs,goe@psp.pt,+351 21 765 3100,psp.pt,1,Law Enforcement,Portugal,PSP GOE CT,websearch_2026_special_ops_ct2
+GIOE GNR Intervention - Lisbon,Public Affairs,gioe@gnr.pt,+351 21 321 3100,gnr.pt,1,Law Enforcement,Portugal,GNR GIOE CT,websearch_2026_special_ops_ct2
+CTOE Commando Troops Centre - Lamego,Public Affairs,ctoe@exercito.pt,+351 254 613 100,exercito.pt,1,Military,Portugal,Army Commandos CT,websearch_2026_special_ops_ct2
+NLMARSOF - Den Helder,Public Affairs,nlmarsOF@mindef.nl,+31 223 653 100,defensie.nl,1,Military,Netherlands,Maritime Special Operations CT,websearch_2026_special_ops_ct2
+KCT Korps Commandotroepen - Roosendaal,Public Affairs,kct@mindef.nl,+31 165 693 100,defensie.nl,1,Military,Netherlands,Army Commandos CT,websearch_2026_special_ops_ct2
+DSI Special Interventions Service - Woerden,Public Affairs,dsi@politie.nl,+31 88 662 3100,politie.nl,1,Law Enforcement,Netherlands,Police-Military CT DSI,websearch_2026_special_ops_ct2
+BSB Special Security Assignments - Soesterberg,Public Affairs,bsb@marechaussee.nl,+31 346 335 100,marechaussee.nl,2,Law Enforcement,Netherlands,Marechaussee CT BSB,websearch_2026_special_ops_ct2
+SFG Special Forces Group - Marche-en-Famenne,Public Affairs,sfg@mil.be,+32 43 327 100,defence.be,1,Military,Belgium,Belgian SOF CT,websearch_2026_special_ops_ct2
+DSU Special Units Directorate - Brussels,Public Affairs,dsu@police.belgium.eu,+32 2 479 3100,police.be,1,Law Enforcement,Belgium,Federal Police CT DSU,websearch_2026_special_ops_ct2
+2nd Commando Battalion - Flawinne,Public Affairs,commando2@mil.be,+32 81 442 100,defence.be,2,Military,Belgium,Para-Commando CT,websearch_2026_special_ops_ct2
+FSK Special Command - Rena,Public Affairs,fsk@mil.no,+47 62 45 3100,forsvaret.no,1,Military,Norway,Army Special Forces CT,websearch_2026_special_ops_ct2
+MJK Naval Hunter Command - Ramsund,Public Affairs,mjk@mil.no,+47 76 96 3100,forsvaret.no,1,Military,Norway,Navy MJK CT,websearch_2026_special_ops_ct2
+Delta Beredskapstroppen Oslo - Oslo,Public Affairs,delta@politiet.no,+47 22 66 3100,politiet.no,1,Law Enforcement,Norway,Police Delta CT,websearch_2026_special_ops_ct2
+SOG Special Operations Group - Karlsborg,Public Affairs,sog@mil.se,+46 501 65 3100,forsvarsmakten.se,1,Military,Sweden,Swedish SOF CT SOG,websearch_2026_special_ops_ct2
+NI National Task Force Stockholm - Stockholm,Public Affairs,ni@polisen.se,+46 8 401 3100,polisen.se,1,Law Enforcement,Sweden,Police NI CT,websearch_2026_special_ops_ct2
+Piketen Stockholm - Stockholm,Public Affairs,piketen@polisen.se,+46 8 401 3200,polisen.se,2,Law Enforcement,Sweden,Stockholm SWAT Piketen,websearch_2026_special_ops_ct2
+Jaegerkorpset - Aalborg,Public Affairs,jaeger@mil.dk,+45 99 28 3100,forsvaret.dk,1,Military,Denmark,Army Hunter Corps CT,websearch_2026_special_ops_ct2
+Froemandskorpset - Kongsore,Public Affairs,froemand@mil.dk,+45 59 32 3100,forsvaret.dk,1,Military,Denmark,Navy Frogman Corps CT,websearch_2026_special_ops_ct2
+Utti Jaeger ERI - Utti,Public Affairs,utti@mil.fi,+358 299 431 100,puolustusvoimat.fi,1,Military,Finland,Army Special Jaegers CT,websearch_2026_special_ops_ct2
+Karhu Helsinki Police - Helsinki,Public Affairs,karhu@poliisi.fi,+358 295 481 100,poliisi.fi,1,Law Enforcement,Finland,Police Karhu CT,websearch_2026_special_ops_ct2
+Jagdkommando - Wiener Neustadt,Public Affairs,jagdkommando@bmlv.gv.at,+43 50201 203100,bmlv.gv.at,1,Military,Austria,Army Jagdkommando CT,websearch_2026_special_ops_ct2
+EKO Cobra - Wiener Neustadt,Public Affairs,cobra@polizei.gv.at,+43 59133 033100,polizei.gv.at,1,Law Enforcement,Austria,Federal Police Cobra CT,websearch_2026_special_ops_ct2
+AAD 10 Recon Detachment - Monteceneri,Public Affairs,aad10@vtg.admin.ch,+41 91 610 3100,vtg.admin.ch,1,Military,Switzerland,Army AAD 10 CT,websearch_2026_special_ops_ct2
+DARD Geneva - Geneva,Public Affairs,dard@police.ge.ch,+41 22 427 3100,police.ge.ch,2,Law Enforcement,Switzerland,Geneva Police DARD CT,websearch_2026_special_ops_ct2
+601st Special Forces Group - Prostejov,Public Affairs,group601@army.cz,+420 973 313 100,army.cz,1,Military,Czech Republic,Czech SOF CT,websearch_2026_special_ops_ct2
+URNA Rapid Response - Prague,Public Affairs,urna@pcr.cz,+420 974 834 100,pcr.cz,1,Law Enforcement,Czech Republic,Police URNA CT,websearch_2026_special_ops_ct2
+BOA Counterterror Bureau - Warsaw,Public Affairs,boa@policja.pl,+48 22 601 3100,policja.pl,1,Law Enforcement,Poland,Police BOA CT,websearch_2026_special_ops_ct2
+AGAT Military Unit - Gliwice,Public Affairs,agat@mon.gov.pl,+48 32 303 3100,wojsko-polskie.pl,1,Military,Poland,Army AGAT SOF,websearch_2026_special_ops_ct2
+TEK Counter Terrorism Centre - Budapest,Public Affairs,tek@tek.gov.hu,+36 1 390 3100,tek.gov.hu,1,Law Enforcement,Hungary,TEK CT,websearch_2026_special_ops_ct2
+KM 34 Bercesenyi Special Forces - Szolnok,Public Affairs,bercsenyi@hm.gov.hu,+36 56 505 100,honvedelem.hu,1,Military,Hungary,Army Special Forces,websearch_2026_special_ops_ct2
+EKAM Antiterrorist Unit - Athens,Public Affairs,ekam@police.gr,+30 210 575 3100,police.gr,1,Law Enforcement,Greece,Police EKAM CT,websearch_2026_special_ops_ct2
+DYK Underwater Demolition - Skaramagas,Public Affairs,dyk@navy.gr,+30 210 553 3100,navy.gr,1,Military,Greece,Navy OYK CT,websearch_2026_special_ops_ct2
+Alpha SBU - Kyiv,Public Affairs,alpha@ssu.gov.ua,+380 44 255 3100,ssu.gov.ua,1,Law Enforcement,Ukraine,SBU Alpha CT,websearch_2026_special_ops_ct2
+3rd SOF Regiment - Kropyvnytskyi,Public Affairs,sof3@mil.gov.ua,+380 522 373 100,mil.gov.ua,1,Military,Ukraine,Army SOF CT,websearch_2026_special_ops_ct2
+SAS Underwater Defence - Foca,Public Affairs,sas@dzkk.tsk.tr,+90 232 812 3100,dzkk.tsk.tr,1,Military,Turkey,Navy SAS CT Divers,websearch_2026_special_ops_ct2
+BSIJ Intervention Brigade - Bucharest,Public Affairs,bsij@politiaromana.ro,+40 21 318 3100,politiaromana.ro,1,Law Enforcement,Romania,Police BSIJ CT,websearch_2026_special_ops_ct2
+BFEsp Special Forces Battalion - Goiania,Public Affairs,bfesp@eb.mil.br,+55 62 3328 3100,eb.mil.br,1,Military,Brazil,Army BFEsp CT,websearch_2026_special_ops_ct2
+BOPE PMESP - Sao Paulo,Public Affairs,bope@policiamilitar.sp.gov.br,+55 11 3327 3100,policiamilitar.sp.gov.br,1,Law Enforcement,Brazil,BOPE Sao Paulo CT,websearch_2026_special_ops_ct2
+BOPE PMDF - Brasilia,Public Affairs,bope@pmdf.df.gov.br,+55 61 3190 3100,pmdf.df.gov.br,1,Law Enforcement,Brazil,BOPE Brasilia CT,websearch_2026_special_ops_ct2
+GRR Rapid Response Group PF - Brasilia,Public Affairs,grr@dpf.gov.br,+55 61 2024 3100,pf.gov.br,1,Law Enforcement,Brazil,Federal Police GRR CT,websearch_2026_special_ops_ct2
+Tonelero Marine Special Battalion - Rio,Public Affairs,tonelero@marinha.mil.br,+55 21 2126 3100,marinha.mil.br,1,Military,Brazil,Marines Tonelero CT,websearch_2026_special_ops_ct2
+ROTA Ostensive Patrols - Sao Paulo,Public Affairs,rota@policiamilitar.sp.gov.br,+55 11 3327 3200,policiamilitar.sp.gov.br,2,Law Enforcement,Brazil,ROTA Tactical CT,websearch_2026_special_ops_ct2
+COE Special Operations MG - Belo Horizonte,Public Affairs,coe@pmmg.mg.gov.br,+55 31 3250 3100,pmmg.mg.gov.br,2,Law Enforcement,Brazil,COE Minas CT,websearch_2026_special_ops_ct2
+71st CT Battalion - Amman,Public Affairs,ct71@jaf.mil.jo,+962 6 500 3100,jaf.mil.jo,1,Military,Jordan,Jordanian SOF CT,websearch_2026_special_ops_ct2
+Presidential Guard SOF - Abu Dhabi,Public Affairs,pgsof@mod.gov.ae,+971 2 441 3100,mod.gov.ae,1,Military,UAE,UAE SOF CT,websearch_2026_special_ops_ct2
+Emergency Forces - Riyadh,Public Affairs,emergency@moi.gov.sa,+966 11 402 3100,moi.gov.sa,1,Law Enforcement,Saudi Arabia,Saudi Special Emergency CT,websearch_2026_special_ops_ct2
+Kopassus - Jakarta,Public Affairs,kopassus@tni.mil.id,+62 21 781 3100,tni.mil.id,1,Military,Indonesia,Army Kopassus CT,websearch_2026_special_ops_ct2
+VAT69 Commando - Kuala Lumpur,Public Affairs,vat69@rmp.gov.my,+60 3 2266 3100,rmp.gov.my,1,Law Enforcement,Malaysia,VAT69 UTK CT,websearch_2026_special_ops_ct2
+SOF Commando - Singapore,Public Affairs,sof@mindef.gov.sg,+65 6373 3100,mindef.gov.sg,1,Military,Singapore,SAF SOF CT,websearch_2026_special_ops_ct2
+Royal Thai Navy SEALs - Sattahip,Public Affairs,seals@navy.mi.th,+66 38 438 100,navy.mi.th,1,Military,Thailand,Thai Navy SEALs CT,websearch_2026_special_ops_ct2
+Snow Leopard Commando - Beijing,Public Affairs,slc@pap.gov.cn,+86 10 6341 3100,pap.gov.cn,1,Law Enforcement,China,PAP Snow Leopard CT,websearch_2026_special_ops_ct2
+MPSSC Thunder Squad - Taipei,Public Affairs,thunder@mnd.gov.tw,+886 2 2766 3100,mnd.gov.tw,1,Military,Taiwan,Military Police CT,websearch_2026_special_ops_ct2
+Kopaska Frogmen - Jakarta,Public Affairs,kopaska@navy.mil.id,+62 21 721 3100,navy.mil.id,1,Military,Indonesia,Navy Kopaska CT,websearch_2026_special_ops_ct2
+STAR South Australia - Adelaide,Public Affairs,star@police.sa.gov.au,+61 8 7322 3100,police.sa.gov.au,2,Law Enforcement,Australia,SA Police STAR CT,websearch_2026_special_ops_ct2
+NZSAS - Papakura,Public Affairs,nzsas@nzdf.mil.nz,+64 9 239 3100,nzdf.mil.nz,1,Military,New Zealand,NZ SAS CT,websearch_2026_special_ops_ct2
+GRUFE Special Forces - Callao,Public Affairs,grufe@marina.pe,+51 1 201 3100,marina.pe,1,Military,Peru,Navy GRUFE CT,websearch_2026_special_ops_ct2
+GOPE Carabineros - Santiago,Public Affairs,gope@carabineros.cl,+56 2 2922 3100,carabineros.cl,1,Law Enforcement,Chile,Carabineros GOPE CT,websearch_2026_special_ops_ct2
+Albatros Prefectura - Buenos Aires,Public Affairs,albatros@prefecturanaval.gov.ar,+54 11 4318 3100,prefecturanaval.gov.ar,1,Law Enforcement,Argentina,Naval Prefecture Albatros CT,websearch_2026_special_ops_ct2
+13th SMB Decisive Action - Jeungpyeong,Public Affairs,smb13@army.mil.kr,+82 43 214 3100,army.mil.kr,1,Military,South Korea,Army 13th Special Mission CT,websearch_2026_special_ops_ct2
