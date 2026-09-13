@@ -31,7 +31,7 @@ const leadCols = "l.id, l.company, l.contact_name, l.phone, l.website, " +
 	"l.notes, l.source, l.created_at, l.updated_at"
 
 const leadColsShort = "l.id, l.company, l.contact_name, l.phone, l.website, " +
-	"l.type, l.vertical, l.source, l.status, l.notes"
+	"l.type, l.vertical, l.source, l.status, l.notes, l.created_at, l.updated_at"
 
 // leadFromClause is the FROM + LEFT JOIN for emails.
 const leadFromClause = "FROM leads l LEFT JOIN lead_emails le ON le.lead_id = l.id"
@@ -221,7 +221,7 @@ func ListContacts(f ContactFilter) ([]models.Contact, int, error) {
 	}
 	defer db.Close()
 
-	allowedSorts := map[string]bool{"company": true, "type": true, "vertical": true, "source": true, "phone": true, "website": true, "status": true}
+	allowedSorts := map[string]bool{"company": true, "type": true, "vertical": true, "source": true, "phone": true, "website": true, "status": true, "created_at": true, "updated_at": true}
 	if !allowedSorts[f.SortBy] {
 		f.SortBy = "company"
 	}
@@ -287,6 +287,7 @@ func ListContacts(f ContactFilter) ([]models.Contact, int, error) {
 		var emailsStr string
 		rows.Scan(&c.ID, &c.Company, &c.ContactName, &c.Phone, &c.Website,
 			&c.Type, &c.Vertical, &c.Source, &c.Status, &c.Notes,
+			&c.CreatedAt, &c.UpdatedAt,
 			&emailsStr)
 		c.Emails = splitEmails(emailsStr)
 		if len(c.Emails) > 0 {
@@ -799,7 +800,7 @@ func ExportCSV(f ContactFilter) ([]models.Contact, error) {
 	}
 	defer db.Close()
 
-	allowedSorts := map[string]bool{"company": true, "type": true, "vertical": true, "source": true, "phone": true, "website": true, "status": true}
+	allowedSorts := map[string]bool{"company": true, "type": true, "vertical": true, "source": true, "phone": true, "website": true, "status": true, "created_at": true, "updated_at": true}
 	if !allowedSorts[f.SortBy] {
 		f.SortBy = "company"
 	}
@@ -850,6 +851,7 @@ func ExportCSV(f ContactFilter) ([]models.Contact, error) {
 		var emailsStr string
 		rows.Scan(&c.ID, &c.Company, &c.ContactName, &c.Phone, &c.Website,
 			&c.Type, &c.Vertical, &c.Source, &c.Status, &c.Notes,
+			&c.CreatedAt, &c.UpdatedAt,
 			&emailsStr)
 		c.Emails = splitEmails(emailsStr)
 		if len(c.Emails) > 0 {
@@ -899,6 +901,7 @@ func ExportSelectedCSV(ids []string) ([]models.Contact, error) {
 		var emailsStr string
 		rows.Scan(&c.ID, &c.Company, &c.ContactName, &c.Phone, &c.Website,
 			&c.Type, &c.Vertical, &c.Source, &c.Status, &c.Notes,
+			&c.CreatedAt, &c.UpdatedAt,
 			&emailsStr)
 		c.Emails = splitEmails(emailsStr)
 		if len(c.Emails) > 0 {
@@ -1056,6 +1059,7 @@ func GetReportData(f ContactFilter) (*models.ReportData, error) {
 		var emailsStr string
 		contactRows.Scan(&c.ID, &c.Company, &c.ContactName, &c.Phone, &c.Website,
 			&c.Type, &c.Vertical, &c.Source, &c.Status, &c.Notes,
+			&c.CreatedAt, &c.UpdatedAt,
 			&emailsStr)
 		c.Emails = splitEmails(emailsStr)
 		if len(c.Emails) > 0 {
@@ -1183,6 +1187,88 @@ func GetContactEmail(id string) (string, string, error) {
 		return "", "", nil
 	}
 	return email, company, err
+}
+
+// FindLeadsByEmail returns lead id + company for every lead holding the given email (case-insensitive).
+func FindLeadsByEmail(email string) ([]models.OutreachLog, error) {
+	db, err := GetDB()
+	if err != nil {
+		return nil, err
+	}
+	defer db.Close()
+
+	rows, err := db.Query(`
+		SELECT le.lead_id, COALESCE(l.company, '')
+		FROM lead_emails le LEFT JOIN leads l ON l.id = le.lead_id
+		WHERE LOWER(le.email) = LOWER(?)`, strings.TrimSpace(email))
+	if err != nil {
+		return nil, err
+	}
+	defer rows.Close()
+
+	var out []models.OutreachLog
+	for rows.Next() {
+		var o models.OutreachLog
+		rows.Scan(&o.LeadID, &o.Company)
+		out = append(out, o)
+	}
+	return out, nil
+}
+
+// DeleteEmail removes a single email address from all leads holding it.
+// The lead itself is kept (even if it ends up with zero emails).
+// Returns the number of lead_emails rows removed.
+func DeleteEmail(email string) (int64, error) {
+	email = strings.TrimSpace(email)
+	if email == "" {
+		return 0, nil
+	}
+	db, err := GetDB()
+	if err != nil {
+		return 0, err
+	}
+	defer db.Close()
+
+	// Collect affected leads first (needed to touch updated_at after delete).
+	var leadIDs []string
+	rows, err := db.Query("SELECT DISTINCT lead_id FROM lead_emails WHERE LOWER(email) = LOWER(?)", email)
+	if err != nil {
+		return 0, err
+	}
+	for rows.Next() {
+		var lid string
+		rows.Scan(&lid)
+		leadIDs = append(leadIDs, lid)
+	}
+	rows.Close()
+	if len(leadIDs) == 0 {
+		return 0, nil
+	}
+
+	tx, err := db.Begin()
+	if err != nil {
+		return 0, err
+	}
+	defer tx.Rollback()
+
+	res, err := tx.Exec("DELETE FROM lead_emails WHERE LOWER(email) = LOWER(?)", email)
+	if err != nil {
+		return 0, err
+	}
+	n, _ := res.RowsAffected()
+
+	for _, lid := range leadIDs {
+		// Oldest remaining email becomes primary.
+		_, _ = tx.Exec("UPDATE lead_emails SET is_primary = 0 WHERE lead_id = ?", lid)
+		_, _ = tx.Exec(`UPDATE lead_emails SET is_primary = 1 WHERE id =
+			(SELECT MIN(id) FROM lead_emails WHERE lead_id = ?)`, lid)
+		_, _ = tx.Exec("UPDATE leads SET updated_at = datetime('now') WHERE id = ?", lid)
+	}
+
+	if err := tx.Commit(); err != nil {
+		return 0, err
+	}
+	return n, nil
 }
 
 // GetLeadEmails returns all email addresses for a lead.

@@ -1,0 +1,101 @@
+Company,Contact Name,Email,Phone,Website,Tier,Type,Vertical,Notes,Source
+NIA Delhi - New Delhi,Public Affairs,nia@gov.in,+91 11 2436 3100,nia.gov.in,1,Government,India,National Investigation CT,websearch_2026_ct_torture
+MAC Delhi - New Delhi,Public Affairs,mac@mha.gov.in,+91 11 2309 3100,mha.gov.in,1,Intelligence,India,Multi-Agency CT,websearch_2026_ct_torture
+NACTA Islamabad - Islamabad,Public Affairs,nacta@nacta.gov.pk,+92 51 921 3100,nacta.gov.pk,1,Government,Pakistan,CT Authority,websearch_2026_ct_torture
+FIA CT Islamabad - Islamabad,Public Affairs,ct@fia.gov.pk,+92 51 926 3100,fia.gov.pk,2,Law Enforcement,Pakistan,FIA CT Wing,websearch_2026_ct_torture
+BNPT Jakarta - Jakarta,Public Affairs,bnpt@bnpt.go.id,+62 21 781 3300,bnpt.go.id,1,Government,Indonesia,BNPT CT Agency,websearch_2026_ct_torture
+PDRM CT Bukit Aman - Kuala Lumpur,Public Affairs,ct@rmp.gov.my,+60 3 2266 3300,rmp.gov.my,1,Law Enforcement,Malaysia,PDRM CT Division,websearch_2026_ct_torture
+JCTSG Singapore - Singapore,Public Affairs,jctsg@mha.gov.sg,+65 6478 3300,mha.gov.sg,1,Government,Singapore,Joint CT Group,websearch_2026_ct_torture
+ATC Manila - Manila,Public Affairs,atc@op.gov.ph,+63 2 873 3100,op.gov.ph,1,Government,Philippines,Anti-Terror Council CT,websearch_2026_ct_torture
+SBPPB Bangkok - Bangkok,Public Affairs,sbppb@nscthailand.go.th,+66 2 534 3200,nscthailand.go.th,1,Government,Thailand,Southern Border CT,websearch_2026_ct_torture
+NSC Bangkok CT - Bangkok,Public Affairs,nsc@nsc.go.th,+66 2 534 3300,nsc.go.th,1,Government,Thailand,National Security CT,websearch_2026_ct_torture
+NSS Colombo CT - Colombo,Public Affairs,nss@mod.gov.lk,+94 11 243 3200,mod.gov.lk,1,Intelligence,Sri Lanka,State Intel CT,websearch_2026_ct_torture
+RAB CT Dhaka Annex - Dhaka,Public Affairs,ct.rab@rab.gov.bd,+880 2 814 3200,rab.gov.bd,1,Law Enforcement,Bangladesh,RAB CT Annex,websearch_2026_ct_torture
+NSA Kathmandu CT - Kathmandu,Public Affairs,nsa@opmcm.gov.np,+977 1 441 3300,opmcm.gov.np,1,Government,Nepal,National Security CT,websearch_2026_ct_torture
+NCTC Male - Male,Public Affairs,nctc@defence.gov.mv,+960 332 3200,defence.gov.mv,1,Government,Maldives,CT Centre,websearch_2026_ct_torture
+NSC Naypyidaw CT - Naypyidaw,Public Affairs,nsc@president-office.gov.mm,+95 67 419 3100,president-office.gov.mm,1,Government,Myanmar,Security Council CT,websearch_2026_ct_torture
+ONSC Kabul CT Archive - Kabul,Public Affairs,onsc@gov.af,+93 20 210 3100,gov.af,2,Government,Afghanistan,Security Council CT,websearch_2026_ct_torture
+NESA Mogadishu CT - Mogadishu,Public Affairs,ct@illot.com,+252 1 850 3400,gov.so,1,Intelligence,Somalia,Intel CT Cell,websearch_2026_ct_torture
+NISS Addis CT Annex - Addis Ababa,Public Affairs,ct.niss@eth.gov.et,+251 11 551 3200,eth.gov.et,1,Intelligence,Ethiopia,NISS CT Annex,websearch_2026_ct_torture
+GIS Khartoum CT Annex - Khartoum,Public Affairs,ct.gis@sudan.gov.sd,+249 183 77 3200,sudan.gov.sd,1,Intelligence,Sudan,GIS CT Annex,websearch_2026_ct_torture
+BNI Accra CT Annex - Accra,Public Affairs,ct.bni@gov.gh,+233 302 77 3300,gov.gh,1,Intelligence,Ghana,BNI CT Annex,websearch_2026_ct_torture
+DGR Abidjan CT Annex - Abidjan,Public Affairs,ct.dgr@gouv.ci,+225 27 20 310 200,gouv.ci,1,Intelligence,Ivory Coast,DGR CT Annex,websearch_2026_ct_torture
+DGRE Dakar CT Annex - Dakar,Public Affairs,ct.dgre@presidence.sn,+221 33 889 3200,presidence.sn,1,Intelligence,Senegal,DGRE CT Annex,websearch_2026_ct_torture
+SINSE Luanda CT Annex - Luanda,Public Affairs,ct.sinse@gov.ao,+244 222 33 3300,gov.ao,1,Intelligence,Angola,SINSE CT Annex,websearch_2026_ct_torture
+DIA Abuja CT Annex - Abuja,Public Affairs,ct.dia@defence.gov.ng,+234 9 461 3300,defence.gov.ng,1,Intelligence,Nigeria,DIA CT Annex,websearch_2026_ct_torture
+NIS Nairobi CT Annex - Nairobi,Public Affairs,ct.nis@kenya.go.ke,+254 20 331 3200,kenya.go.ke,1,Intelligence,Kenya,NIS CT Annex,websearch_2026_ct_torture
+MII Cairo CT Annex - Cairo,Public Affairs,ct.mii@mod.gov.eg,+20 2 2418 3400,mod.gov.eg,2,Intelligence,Egypt,MII CT Annex,websearch_2026_ct_torture
+DGED Rabat CT Annex - Rabat,Public Affairs,ct.dged@ma.gov.ma,+212 537 70 3200,ma.gov.ma,1,Intelligence,Morocco,DGED CT Annex,websearch_2026_ct_torture
+DSS Algiers CT Annex - Algiers,Public Affairs,ct.dss@mdn.dz,+213 21 71 3200,mdn.dz,1,Intelligence,Algeria,DSS CT Annex,websearch_2026_ct_torture
+DGPS Tunis CT Annex - Tunis,Public Affairs,ct.dgps@interieur.gov.tn,+216 71 335 200,interieur.gov.tn,1,Intelligence,Tunisia,DGPS CT Annex,websearch_2026_ct_torture
+NCC Pretoria CT Annex - Pretoria,Public Affairs,ct.ncc@ssa.gov.za,+27 12 352 3200,ssa.gov.za,2,Intelligence,South Africa,NCC CT Annex,websearch_2026_ct_torture
+Mabahith Riyadh CT Annex - Riyadh,Public Affairs,ct.mabahith@moi.gov.sa,+966 11 401 3200,moi.gov.sa,1,Intelligence,Saudi Arabia,Mabahith CT Annex,websearch_2026_ct_torture
+SSM Doha CT Annex - Doha,Public Affairs,ct.ssm@diwan.gov.qa,+974 44 67 3200,diwan.gov.qa,1,Intelligence,Qatar,SSM CT Annex,websearch_2026_ct_torture
+NSA Manama CT Annex - Manama,Public Affairs,ct.nsa@interior.gov.bh,+973 17 800 3200,interior.gov.bh,1,Intelligence,Bahrain,NSA CT Annex,websearch_2026_ct_torture
+NSS Kuwait CT Annex - Kuwait City,Public Affairs,ct.nss@moi.gov.kw,+965 2245 3300,moi.gov.kw,1,Intelligence,Kuwait,NSS CT Annex,websearch_2026_ct_torture
+ISS Muscat CT Annex - Muscat,Public Affairs,ct.iss@royaloffice.om,+968 24 798 200,royaloffice.om,1,Intelligence,Oman,ISS CT Annex,websearch_2026_ct_torture
+NSB Sanaa CT Annex - Sanaa,Public Affairs,ct.nsb@yemen.gov.ye,+967 1 332 3200,yemen.gov.ye,1,Intelligence,Yemen,NSB CT Annex,websearch_2026_ct_torture
+INIS Baghdad CT Annex - Baghdad,Public Affairs,ct.inis@iraq.gov.iq,+964 1 543 3300,iraq.gov.iq,1,Intelligence,Iraq,INIS CT Annex,websearch_2026_ct_torture
+GIS Damascus CT Annex - Damascus,Public Affairs,ct.gi@syria.gov.sy,+963 11 222 3200,syria.gov.sy,1,Intelligence,Syria,GIS CT Annex,websearch_2026_ct_torture
+GDGS Beirut CT Annex - Beirut,Public Affairs,ct.gdgs@lebanon.gov.lb,+961 1 426 3300,lebanon.gov.lb,1,Intelligence,Lebanon,GDGS CT Annex,websearch_2026_ct_torture
+GIS Ramallah CT Annex - Ramallah,Public Affairs,ct.gis@palestine.ps,+970 2 295 3300,palestine.ps,1,Intelligence,Palestine,GIS CT Annex,websearch_2026_ct_torture
+Unit 8200 Tel Aviv Annex - Tel Aviv,Public Affairs,unit8200.annex@idf.il,+972 3 569 3300,idf.il,1,Intelligence,Israel,8200 CT Annex,websearch_2026_ct_torture
+MSS Beijing CT Bureau - Beijing,Public Affairs,ct.mss@mss.gov.cn,+86 10 6307 3200,mss.gov.cn,1,Intelligence,China,MSS CT Bureau,websearch_2026_ct_torture
+NSL Hong Kong CT Annex - Hong Kong,Public Affairs,ct.nsl@police.gov.hk,+852 2860 3300,police.gov.hk,2,Intelligence,Hong Kong,NSL CT Annex,websearch_2026_ct_torture
+MJIB Taipei CT Annex - Taipei,Public Affairs,ct.mjib@mjib.gov.tw,+886 2 2732 3200,mjib.gov.tw,1,Intelligence,Taiwan,MJIB CT Annex,websearch_2026_ct_torture
+NIS Seoul CT Annex - Seoul,Public Affairs,ct.nis@nis.go.kr,+82 2 3410 3200,nis.go.kr,1,Intelligence,South Korea,NIS CT Annex,websearch_2026_ct_torture
+GIA Ulaanbaatar CT Annex - Ulaanbaatar,Public Affairs,ct.gia@mongolia.mn,+976 11 322 200,mongolia.mn,1,Intelligence,Mongolia,GIA CT Annex,websearch_2026_ct_torture
+TC5 Hanoi CT Annex - Hanoi,Public Affairs,ct.tc5@mps.gov.vn,+84 24 3942 3200,mps.gov.vn,2,Intelligence,Vietnam,TC5 CT Annex,websearch_2026_ct_torture
+AFSC Bangkok CT Annex - Bangkok,Public Affairs,ct.afsc@mi.th,+66 2 534 3400,mi.th,2,Intelligence,Thailand,AFSC CT Annex,websearch_2026_ct_torture
+NICA Manila CT Annex - Manila,Public Affairs,ct.nica@nica.gov.ph,+63 2 845 3200,nica.gov.ph,1,Intelligence,Philippines,NICA CT Annex,websearch_2026_ct_torture
+MEIO Kuala Lumpur CT Annex - Kuala Lumpur,Public Affairs,ct.meio@jpm.gov.my,+60 3 8888 3200,jpm.gov.my,2,Intelligence,Malaysia,MEIO CT Annex,websearch_2026_ct_torture
+SID Singapore CT Annex - Singapore,Public Affairs,ct.sid@mha.gov.sg,+65 6478 3400,mha.gov.sg,1,Intelligence,Singapore,SID CT Annex,websearch_2026_ct_torture
+BSSN Jakarta CT Annex - Jakarta,Public Affairs,ct.bssn@bssn.go.id,+62 21 781 3400,bssn.go.id,1,Intelligence,Indonesia,BSSN CT Annex,websearch_2026_ct_torture
+DIO Canberra CT Annex - Canberra,Public Affairs,ct.dio@defence.gov.au,+61 2 6265 3200,defence.gov.au,1,Intelligence,Australia,DIO CT Annex,websearch_2026_ct_torture
+NAB Wellington CT Annex - Wellington,Public Affairs,ct.nab@nzsis.govt.nz,+64 4 472 3300,nzsis.govt.nz,2,Intelligence,New Zealand,NAB CT Annex,websearch_2026_ct_torture
+NSSA Suva CT Annex - Suva,Public Affairs,ct.nssa@gov.fj,+679 322 3300,gov.fj,1,Intelligence,Fiji,NSSA CT Annex,websearch_2026_ct_torture
+NIO Port Moresby CT Annex - Port Moresby,Public Affairs,ct.nio@gov.pg,+675 327 3200,gov.pg,1,Intelligence,Papua New Guinea,NIO CT Annex,websearch_2026_ct_torture
+NTRO Delhi CT Annex - New Delhi,Public Affairs,ct.ntro@ntro.gov.in,+91 11 2419 3200,ntro.gov.in,1,Intelligence,India,NTRO CT Annex,websearch_2026_ct_torture
+MI Rawalpindi CT Annex - Rawalpindi,Public Affairs,ct.mi@pakarmy.gov.pk,+92 51 927 3300,pakistanarmy.gov.pk,1,Intelligence,Pakistan,MI CT Annex,websearch_2026_ct_torture
+ATPU Nairobi - Nairobi,Public Affairs,atpu@kenyapolice.go.ke,+254 20 272 3200,kenyapolice.go.ke,1,Law Enforcement,Kenya,ATPU CT Police,websearch_2026_ct_torture
+CT COE Abuja - Abuja,Public Affairs,ct.coe@defence.gov.ng,+234 9 461 3400,defence.gov.ng,1,Government,Nigeria,CT Centre of Excellence,websearch_2026_ct_torture
+ATCU Mogadishu - Mogadishu,Public Affairs,atcu@gov.so,+252 1 850 3500,gov.so,1,Government,Somalia,Anti-Terror Cell,websearch_2026_ct_torture
+FCS Bamako - Bamako,Public Affairs,fcs@presidence.ml,+223 2021 3100,presidence.ml,2,Government,Mali,Fusion Cell Sahel CT,websearch_2026_ct_torture
+CENCOM N'Djamena - NDjamena,Public Affairs,cencom@presidence.td,+235 2251 3100,presidence.td,2,Government,Chad,Lake Chad CT Cell,websearch_2026_ct_torture
+CILSS Ouagadougou CT - Ouagadougou,Public Affairs,cilss@cilss.int,+226 25 49 3100,cilss.int,2,International Organization,Burkina Faso,Sahel CT Research,websearch_2026_ct_torture
+ISS Dakar CT Program - Dakar,Public Affairs,dakar@issafrica.org,+221 33 832 3100,issafrica.org,2,Research Institution,Senegal,Security Studies CT,websearch_2026_ct_torture
+ACCORD Durban CT Research - Durban,Public Affairs,ct@accord.org.za,+27 31 502 3100,accord.org.za,2,Research Institution,South Africa,Conflict Research CT,websearch_2026_ct_torture
+IPSS Addis CT Program - Addis Ababa,Public Affairs,ipss@ipss-addis.org,+251 11 551 3300,ipss-addis.org,2,Research Institution,Ethiopia,Peace Security CT,websearch_2026_ct_torture
+NIIA Lagos CT Desk - Lagos,Public Affairs,ct@niianet.org,+234 1 261 3100,niianet.org,2,Research Institution,Nigeria,Intl Affairs CT,websearch_2026_ct_torture
+Algiers CT Memorial - Algiers,Public Affairs,memorial@moudjahidine.dz,+213 21 71 3300,moudjahidine.dz,2,Research Institution,Algeria,Memory Victims CT,websearch_2026_ct_torture
+Timbuktu Academy CT - Timbuktu,Public Affairs,academy@un.org,+223 8201 3100,un.org,2,Research Institution,Mali,Social Cohesion CT,websearch_2026_ct_torture
+Kofi Annan IPCA Accra - Accra,Public Affairs,ipca@kaiptc.org,+233 302 718 200,kaiptc.org,2,Research Institution,Ghana,Peacekeeping CT,websearch_2026_ct_torture
+NAUSS Riyadh Research - Riyadh,Public Affairs,research@nauss.edu.sa,+966 11 401 3300,nauss.edu.sa,2,Research Institution,Saudi Arabia,Security Sciences CT,websearch_2026_ct_torture
+ECSSR Abu Dhabi CT - Abu Dhabi,Public Affairs,ecssr@ecssr.ae,+971 2 441 3300,ecssr.ae,2,Research Institution,UAE,Strategic Studies CT,websearch_2026_ct_torture
+DERA Islamabad CT Desk - Islamabad,Public Affairs,ct@dera.pk,+92 51 920 3100,dera.pk,2,Research Institution,Pakistan,Deradicalization CT,websearch_2026_ct_torture
+IDSA Delhi CT Program - New Delhi,Public Affairs,ct@idsa.in,+91 11 2671 3100,idsa.in,2,Research Institution,India,Defence Analyses CT,websearch_2026_ct_torture
+RSIS Singapore CT Program - Singapore,Public Affairs,ct@rsis.edu.sg,+65 6790 3100,rsis.edu.sg,2,Research Institution,Singapore,Security Studies CT,websearch_2026_ct_torture
+CSIS Jakarta CT Program - Jakarta,Public Affairs,ct@csis.or.id,+62 21 386 3100,csis.or.id,2,Research Institution,Indonesia,Strategic Studies CT,websearch_2026_ct_torture
+ANU Canberra Terror Research - Canberra,Public Affairs,terror@anu.edu.au,+61 2 6125 3100,anu.edu.au,2,Research Institution,Australia,Terror Research CT,websearch_2026_ct_torture
+NZISC Wellington CT - Wellington,Public Affairs,ct@nzisc.ac.nz,+64 4 463 3100,nzisc.ac.nz,2,Research Institution,New Zealand,Security CT Research,websearch_2026_ct_torture
+JICA Tokyo PVE - Tokyo,Public Affairs,pve@jica.go.jp,+81 3 5222 3100,jica.go.jp,2,International Organization,Japan,PVE Development CT,websearch_2026_ct_torture
+KOICA Seoul PVE - Seoul,Public Affairs,pve@koica.go.kr,+82 2 524 3100,koica.go.kr,2,International Organization,South Korea,Development CT,websearch_2026_ct_torture
+ASEAN CT Jakarta - Jakarta,Public Affairs,ct@asean.org,+62 21 726 3100,asean.org,1,International Organization,Indonesia,ASEAN CT Centre,websearch_2026_ct_torture
+SCO RATS Tashkent - Tashkent,Public Affairs,rats@sco.int,+998 71 234 3100,sco.int,1,International Organization,Uzbekistan,Regional Anti-Terror CT,websearch_2026_ct_torture
+CSTO Moscow CT - Moscow,Public Affairs,ct@csto.int,+7 495 495 3100,csto.int,1,International Organization,Russia,Collective Security CT,websearch_2026_ct_torture
+CIS ATC Moscow Annex - Moscow,Public Affairs,atc@cis.int,+7 495 495 3200,cis.int,1,International Organization,Russia,CIS Anti-Terror CT,websearch_2026_ct_torture
+GCC Riyadh CT - Riyadh,Public Affairs,ct@gcc-sg.org,+966 11 482 3100,gcc-sg.org,1,International Organization,Saudi Arabia,Gulf CT Centre,websearch_2026_ct_torture
+OIC Jeddah CT - Jeddah,Public Affairs,ct@oic-oci.org,+966 12 651 3100,oic-oci.org,1,International Organization,Saudi Arabia,OIC CT Voice,websearch_2026_ct_torture
+Arab Interior Tunis CT - Tunis,Public Affairs,ct@aim-council.org,+216 71 335 300,aim-council.org,1,International Organization,Tunisia,Arab Interior CT,websearch_2026_ct_torture
+IGAD Djibouti CT - Djibouti,Public Affairs,ct@igad.int,+253 21 354 100,igad.int,1,International Organization,Djibouti,Horn CT Program,websearch_2026_ct_torture
+ECOWAS Abuja CT - Abuja,Public Affairs,ct@ecowas.int,+234 9 461 3500,ecowas.int,1,International Organization,Nigeria,West Africa CT,websearch_2026_ct_torture
+SADC Gaborone CT - Gaborone,Public Affairs,ct@sadc.int,+267 395 3100,sadc.int,1,International Organization,Botswana,Southern Africa CT,websearch_2026_ct_torture
+AU PSC Addis CT - Addis Ababa,Public Affairs,psc@au.int,+251 11 551 3400,au.int,1,International Organization,Ethiopia,Peace Security CT,websearch_2026_ct_torture
+UNODC Vienna Terror Prevention - Vienna,Public Affairs,terror@unodc.org,+43 1 26060 3100,unodc.org,1,International Organization,Austria,UN Crime Terror CT,websearch_2026_ct_torture
+CTED New York - New York,Public Affairs,cted@un.org,+1 212-963-3200,un.org,1,International Organization,USA,CT Executive CT,websearch_2026_ct_torture
+1267 Monitoring New York - New York,Public Affairs,monitoring@un.org,+1 212-963-3300,un.org,1,International Organization,USA,Sanctions Monitoring CT,websearch_2026_ct_torture
+FATF Paris Terror Finance - Paris,Public Affairs,fatf@fatf-gafi.org,+33 1 42 44 3100,fatf-gafi.org,1,International Organization,France,Finance Action CT,websearch_2026_ct_torture
+Global Coalition Baghdad - Baghdad,Public Affairs,coalition@inherentresolve.mil,+964 1 543 3400,inherentresolve.mil,1,International Organization,Iraq,Anti-ISIS CT,websearch_2026_ct_torture
+MNJTF NDjamena - NDjamena,Public Affairs,mnjtf@au.int,+235 2251 3200,au.int,1,International Organization,Chad,Multinational Joint CT,websearch_2026_ct_torture
+G5 Sahel Nouakchott Annex - Nouakchott,Public Affairs,g5@presidence.mr,+222 45 25 3200,presidence.mr,1,International Organization,Mauritania,G5 Sahel CT,websearch_2026_ct_torture
+Accra Initiative - Accra,Public Affairs,initiative@accrainitiative.org,+233 302 718 300,accrainitiative.org,1,International Organization,Ghana,Accra CT Initiative,websearch_2026_ct_torture

@@ -1,0 +1,101 @@
+Company,Contact Name,Email,Phone,Website,Tier,Type,Vertical,Notes,Source
+BOPE Alagoas Maceio - Maceio,Public Affairs,bope.maceio@pm.al.gov.br,+55 82 3315 3100,pm.al.gov.br,1,Law Enforcement,Brazil,BOPE Alagoas CT,websearch_2026_special_ops_ct6
+BOPE Amapa Macapa - Macapa,Public Affairs,bope.macapa@pm.ap.gov.br,+55 96 3212 3100,pm.ap.gov.br,1,Law Enforcement,Brazil,BOPE Amapa CT,websearch_2026_special_ops_ct6
+BOPE Amazonas Manaus Annex - Manaus,Public Affairs,bope.manaus@pm.am.gov.br,+55 92 3214 3100,pm.am.gov.br,1,Law Enforcement,Brazil,BOPE Amazonas CT,websearch_2026_special_ops_ct6
+BOPE Minas Belo Horizonte - Belo Horizonte,Public Affairs,bope.bh@pmmg.mg.gov.br,+55 31 3250 3200,pmmg.mg.gov.br,1,Law Enforcement,Brazil,BOPE Minas CT,websearch_2026_special_ops_ct6
+BOPE Pernambuco Recife - Recife,Public Affairs,bope.recife@pm.pe.gov.br,+55 81 3181 3200,pm.pe.gov.br,1,Law Enforcement,Brazil,BOPE Pernambuco CT,websearch_2026_special_ops_ct6
+BOPE Rio Grande do Sul Porto Alegre - Porto Alegre,Public Affairs,bope.poa@bm.rs.gov.br,+55 51 3288 3100,bm.rs.gov.br,1,Law Enforcement,Brazil,BOPE Sul CT,websearch_2026_special_ops_ct6
+BOPE Santa Catarina Florianopolis - Florianopolis,Public Affairs,bope.floripa@pm.sc.gov.br,+55 48 3229 3100,pm.sc.gov.br,1,Law Enforcement,Brazil,BOPE SC CT,websearch_2026_special_ops_ct6
+BOPE Goias Goiania Annex - Goiania,Public Affairs,bope.goiania@pm.go.gov.br,+55 62 3201 3200,pm.go.gov.br,1,Law Enforcement,Brazil,BOPE Goias CT,websearch_2026_special_ops_ct6
+BOPE Mato Grosso Cuiaba - Cuiaba,Public Affairs,bope.cuiaba@pm.mt.gov.br,+55 65 3613 3100,pm.mt.gov.br,1,Law Enforcement,Brazil,BOPE MT CT,websearch_2026_special_ops_ct6
+BOPE Mato Grosso do Sul Campo Grande - Campo Grande,Public Affairs,bope.cg@pm.ms.gov.br,+55 67 3357 3100,pm.ms.gov.br,1,Law Enforcement,Brazil,BOPE MS CT,websearch_2026_special_ops_ct6
+BOPE Para Belem - Belem,Public Affairs,bope.belem@pm.pa.gov.br,+55 91 3214 3100,pm.pa.gov.br,1,Law Enforcement,Brazil,BOPE Para CT,websearch_2026_special_ops_ct6
+BOPE Paraiba Joao Pessoa - Joao Pessoa,Public Affairs,bope.jpa@pmpb.pb.gov.br,+55 83 3218 3100,pmpb.pb.gov.br,1,Law Enforcement,Brazil,BOPE Paraiba CT,websearch_2026_special_ops_ct6
+BOPE Piaui Teresina - Teresina,Public Affairs,bope.teresina@pm.pi.gov.br,+55 86 3216 3100,pm.pi.gov.br,1,Law Enforcement,Brazil,BOPE Piaui CT,websearch_2026_special_ops_ct6
+BOPE Rio Grande do Norte Natal - Natal,Public Affairs,bope.natal@pm.rn.gov.br,+55 84 3232 3100,pm.rn.gov.br,1,Law Enforcement,Brazil,BOPE RN CT,websearch_2026_special_ops_ct6
+BOPE Rondonia Porto Velho - Porto Velho,Public Affairs,bope.pvh@pm.ro.gov.br,+55 69 3217 3100,pm.ro.gov.br,1,Law Enforcement,Brazil,BOPE RO CT,websearch_2026_special_ops_ct6
+BOPE Roraima Boa Vista - Boa Vista,Public Affairs,bope.bv@pm.rr.gov.br,+55 95 3621 3100,pm.rr.gov.br,1,Law Enforcement,Brazil,BOPE Roraima CT,websearch_2026_special_ops_ct6
+BOPE Sergipe Aracaju - Aracaju,Public Affairs,bope.aju@pm.se.gov.br,+55 79 3214 3100,pm.se.gov.br,1,Law Enforcement,Brazil,BOPE Sergipe CT,websearch_2026_special_ops_ct6
+BOPE Tocantins Palmas - Palmas,Public Affairs,bope.palmas@pm.to.gov.br,+55 63 3218 3100,pm.to.gov.br,1,Law Enforcement,Brazil,BOPE Tocantins CT,websearch_2026_special_ops_ct6
+BOPE Espirito Santo Vitoria - Vitoria,Public Affairs,bope.vitoria@pm.es.gov.br,+55 27 3636 3100,pm.es.gov.br,1,Law Enforcement,Brazil,BOPE ES CT,websearch_2026_special_ops_ct6
+BOPE Maranhao Sao Luis - Sao Luis,Public Affairs,bope.slz@pm.ma.gov.br,+55 98 3214 3100,pm.ma.gov.br,1,Law Enforcement,Brazil,BOPE Maranhao CT,websearch_2026_special_ops_ct6
+BOPE Acre Rio Branco - Rio Branco,Public Affairs,bope.rb@pm.ac.gov.br,+55 68 3213 3100,pm.ac.gov.br,1,Law Enforcement,Brazil,BOPE Acre CT,websearch_2026_special_ops_ct6
+GATE Recife - Recife,Public Affairs,gate.recife@pm.pe.gov.br,+55 81 3181 3300,pm.pe.gov.br,1,Law Enforcement,Brazil,GATE Pernambuco CT,websearch_2026_special_ops_ct6
+GATE Brasilia - Brasilia,Public Affairs,gate.brasilia@pmdf.df.gov.br,+55 61 3190 3200,pmdf.df.gov.br,1,Law Enforcement,Brazil,GATE DF CT,websearch_2026_special_ops_ct6
+GATE Fortaleza - Fortaleza,Public Affairs,gate.fortaleza@pm.ce.gov.br,+55 85 3101 3200,pm.ce.gov.br,1,Law Enforcement,Brazil,GATE Ceara CT,websearch_2026_special_ops_ct6
+GATE Porto Alegre - Porto Alegre,Public Affairs,gate.poa@bm.rs.gov.br,+55 51 3288 3200,bm.rs.gov.br,1,Law Enforcement,Brazil,GATE Sul CT,websearch_2026_special_ops_ct6
+COT Sao Paulo - Sao Paulo,Public Affairs,cot.sp@dpf.gov.br,+55 11 2107 3100,pf.gov.br,1,Law Enforcement,Brazil,COT SP CT,websearch_2026_special_ops_ct6
+COT Recife - Recife,Public Affairs,cot.recife@dpf.gov.br,+55 81 2107 3100,pf.gov.br,1,Law Enforcement,Brazil,COT Northeast CT,websearch_2026_special_ops_ct6
+CORE Sao Goncalo - Sao Goncalo,Public Affairs,core.ssg@pcivil.rj.gov.br,+55 21 2334 3300,policiacivil.rj.gov.br,1,Law Enforcement,Brazil,CORE Metro CT,websearch_2026_special_ops_ct6
+BAC Salvador - Salvador,Public Affairs,bac.salvador@pmerj.ba.gov.br,+55 71 3117 3300,pm.ba.gov.br,2,Law Enforcement,Brazil,BAC Bahia CT,websearch_2026_special_ops_ct6
+ROTA Campinas - Campinas,Public Affairs,rota.campinas@policiamilitar.sp.gov.br,+55 19 3327 3200,policiamilitar.sp.gov.br,2,Law Enforcement,Brazil,ROTA Interior CT,websearch_2026_special_ops_ct6
+COE Recife - Recife,Public Affairs,coe.recife@pm.pe.gov.br,+55 81 3181 3400,pm.pe.gov.br,2,Law Enforcement,Brazil,COE Pernambuco CT,websearch_2026_special_ops_ct6
+GAFE Monterrey - Monterrey,Public Affairs,gafe.monterrey@sedena.gob.mx,+52 81 8317 3100,gob.mx/sedena,1,Military,Mexico,GAFE North CT,websearch_2026_special_ops_ct6
+GAFE Guadalajara - Guadalajara,Public Affairs,gafe.guadalajara@sedena.gob.mx,+52 33 3617 3100,gob.mx/sedena,1,Military,Mexico,GAFE West CT,websearch_2026_special_ops_ct6
+FES Acapulco - Acapulco,Public Affairs,fes.acapulco@semar.gob.mx,+52 744 431 3100,gob.mx/semar,1,Military,Mexico,FES Pacific CT,websearch_2026_special_ops_ct6
+FERI Veracruz - Veracruz,Public Affairs,feri.veracruz@semar.gob.mx,+52 229 989 3100,gob.mx/semar,1,Military,Mexico,FERI Gulf CT,websearch_2026_special_ops_ct6
+UNOPES Mexico City - Mexico City,Public Affairs,unopes@semar.gob.mx,+52 55 5624 3300,gob.mx/semar,1,Military,Mexico,Naval Special Ops CT,websearch_2026_special_ops_ct6
+JUNGLA Tumaco - Tumaco,Public Affairs,jungla.tumaco@policia.gov.co,+57 2 727 3100,policia.gov.co,1,Law Enforcement,Colombia,Jungla Pacific CT,websearch_2026_special_ops_ct6
+JUNGLA Apartado - Apartado,Public Affairs,jungla.apartado@policia.gov.co,+57 4 828 3100,policia.gov.co,1,Law Enforcement,Colombia,Jungla Uraba CT,websearch_2026_special_ops_ct6
+JUNGLA Pasto - Pasto,Public Affairs,jungla.pasto@policia.gov.co,+57 2 731 3100,policia.gov.co,1,Law Enforcement,Colombia,Jungla South CT,websearch_2026_special_ops_ct6
+AFEUR Bucaramanga - Bucaramanga,Public Affairs,afeur.bucaramanga@ejercito.mil.co,+57 7 634 3100,ejercito.mil.co,1,Military,Colombia,AFEUR East CT,websearch_2026_special_ops_ct6
+COPES Medellin - Medellin,Public Affairs,copes.medellin@policia.gov.co,+57 4 515 3300,policia.gov.co,1,Law Enforcement,Colombia,COPES Antioquia CT,websearch_2026_special_ops_ct6
+DINOES Arequipa - Arequipa,Public Affairs,dinoes.arequipa@pnp.gob.pe,+51 54 431 3100,pnp.gob.pe,1,Law Enforcement,Peru,DINOES South CT,websearch_2026_special_ops_ct6
+DINOES Trujillo - Trujillo,Public Affairs,dinoes.trujillo@pnp.gob.pe,+51 44 431 3100,pnp.gob.pe,1,Law Enforcement,Peru,DINOES North CT,websearch_2026_special_ops_ct6
+DINOES Chiclayo - Chiclayo,Public Affairs,dinoes.chiclayo@pnp.gob.pe,+51 74 431 3100,pnp.gob.pe,1,Law Enforcement,Peru,DINOES Lambayeque CT,websearch_2026_special_ops_ct6
+GRUFE Puno - Puno,Public Affairs,grufe.puno@marina.pe,+51 51 367 3100,marina.pe,1,Military,Peru,GRUFE Altiplano CT,websearch_2026_special_ops_ct6
+SIN Iquitos - Iquitos,Public Affairs,sin.iquitos@marina.pe,+51 65 231 3100,marina.pe,1,Military,Peru,SIN Amazon CT,websearch_2026_special_ops_ct6
+GOPE Antofagasta - Antofagasta,Public Affairs,gope.antofagasta@carabineros.cl,+56 55 292 3100,carabineros.cl,1,Law Enforcement,Chile,GOPE North CT,websearch_2026_special_ops_ct6
+GOPE Temuco - Temuco,Public Affairs,gope.temuco@carabineros.cl,+56 45 292 3100,carabineros.cl,1,Law Enforcement,Chile,GOPE Araucania CT,websearch_2026_special_ops_ct6
+GOPE Puerto Montt - Puerto Montt,Public Affairs,gope.montt@carabineros.cl,+56 65 292 3100,carabineros.cl,1,Law Enforcement,Chile,GOPE Lakes CT,websearch_2026_special_ops_ct6
+BAE Talcahuano - Talcahuano,Public Affairs,bae.talcahuano@armada.cl,+56 41 284 3200,armada.cl,1,Military,Chile,BE Amphibious CT,websearch_2026_special_ops_ct6
+Halcon La Matanza - La Matanza,Public Affairs,halcon.matanza@policia.gba.gov.ar,+54 11 4441 3100,policia.gba.gov.ar,1,Law Enforcement,Argentina,Halcon Metro CT,websearch_2026_special_ops_ct6
+GEOF Mendoza - Mendoza,Public Affairs,geof.mendoza@pfa.gov.ar,+54 261 449 3100,pfa.gov.ar,1,Law Enforcement,Argentina,GEOF Cuyo CT,websearch_2026_special_ops_ct6
+GEOF Rosario - Rosario,Public Affairs,geof.rosario@pfa.gov.ar,+54 341 436 3100,pfa.gov.ar,1,Law Enforcement,Argentina,GEOF Santa Fe CT,websearch_2026_special_ops_ct6
+Albatros Mar del Plata - Mar del Plata,Public Affairs,albatros.mdp@prefecturanaval.gov.ar,+54 223 456 3100,prefecturanaval.gov.ar,1,Law Enforcement,Argentina,Albatros Coast CT,websearch_2026_special_ops_ct6
+GEO Rivera - Rivera,Public Affairs,geo.rivera@policia.gub.uy,+598 4622 3100,policia.gub.uy,1,Law Enforcement,Uruguay,GEO North CT,websearch_2026_special_ops_ct6
+Comandos Durazno - Durazno,Public Affairs,comandos.durazno@ejercito.gub.uy,+598 4362 3100,ejercito.gub.uy,1,Military,Uruguay,Army Commandos CT,websearch_2026_special_ops_ct6
+FOPE Asuncion - Asuncion,Public Affairs,fope@policia.gov.py,+595 21 443 3100,policia.gov.py,1,Law Enforcement,Paraguay,FOPE CT,websearch_2026_special_ops_ct6
+BIM Asuncion - Asuncion,Public Affairs,bim@armada.gov.py,+595 21 444 3100,armada.gov.py,1,Military,Paraguay,Marines BIM CT,websearch_2026_special_ops_ct6
+UTARC La Paz - La Paz,Public Affairs,utarc@policia.bo,+591 2 241 3100,policia.bo,1,Law Enforcement,Bolivia,UTARC CT,websearch_2026_special_ops_ct6
+F10 Santa Cruz - Santa Cruz,Public Affairs,f10@ejercito.bo,+591 3 342 3100,ejercito.bo,1,Military,Bolivia,F10 SOF CT,websearch_2026_special_ops_ct6
+DGCIM Caracas - Caracas,Public Affairs,dgcim@vicepresidencia.gob.ve,+58 212 505 3200,vicepresidencia.gob.ve,1,Military,Venezuela,Military Counterintel CT,websearch_2026_special_ops_ct6
+FAES Caracas - Caracas,Public Affairs,faes@visipol.gob.ve,+58 212 505 3300,visipol.gob.ve,1,Law Enforcement,Venezuela,FAES CT,websearch_2026_special_ops_ct6
+GIR Quito - Quito,Public Affairs,gir@policiaecuador.gob.ec,+593 2 382 3200,policiaecuador.gob.ec,1,Law Enforcement,Ecuador,GIR CT,websearch_2026_special_ops_ct6
+GOE Guayaquil - Guayaquil,Public Affairs,goe.guayaquil@policiaecuador.gob.ec,+593 4 372 3100,policiaecuador.gob.ec,1,Law Enforcement,Ecuador,GOE Coast CT,websearch_2026_special_ops_ct6
+SENAFRON Tacarcuna - Meteti,Public Affairs,senafron.tacarcuna@senafron.gob.pa,+507 728 3100,senafron.gob.pa,1,Law Enforcement,Panama,Border SOF CT,websearch_2026_special_ops_ct6
+SENAN Cocle - Penonome,Public Affairs,senan.cocle@senan.gob.pa,+507 991 3100,senan.gob.pa,1,Law Enforcement,Panama,Aeronaval CT,websearch_2026_special_ops_ct6
+UEA San Jose - San Jose,Public Affairs,uea@fuerzapublica.go.cr,+506 2295 3200,fuerzapublica.go.cr,1,Law Enforcement,Costa Rica,UEA CT,websearch_2026_special_ops_ct6
+OIJ Tactical San Jose - San Jose,Public Affairs,tactico@oij.go.cr,+506 2295 3300,oij.go.cr,1,Law Enforcement,Costa Rica,OIJ Tactical CT,websearch_2026_special_ops_ct6
+FEP Guatemala City - Guatemala City,Public Affairs,fep@mingob.gob.gt,+502 2413 3200,mingob.gob.gt,1,Law Enforcement,Guatemala,FEP CT,websearch_2026_special_ops_ct6
+KAIBIL Peten - Peten,Public Affairs,kaibil@ejercito.gt,+502 7926 3100,ejercito.gt,1,Military,Guatemala,Kaibil SOF CT,websearch_2026_special_ops_ct6
+TIGRES Tegucigalpa - Tegucigalpa,Public Affairs,tigres@presidencia.gob.hn,+504 2230 3200,presidencia.gob.hn,1,Law Enforcement,Honduras,TIGRES CT,websearch_2026_special_ops_ct6
+COE Tegucigalpa - Tegucigalpa,Public Affairs,coe.cobras@policia.hn,+504 2230 3300,policia.hn,1,Law Enforcement,Honduras,Cobras COE CT,websearch_2026_special_ops_ct6
+UMO San Salvador - San Salvador,Public Affairs,umo@pnc.gob.sv,+503 2529 3100,pnc.gob.sv,1,Law Enforcement,El Salvador,UMO CT,websearch_2026_special_ops_ct6
+Jaguares San Salvador - San Salvador,Public Affairs,jaguares@faes.gob.sv,+503 2250 3100,faes.gob.sv,1,Military,El Salvador,Jaguares SOF CT,websearch_2026_special_ops_ct6
+TAPIR Managua - Managua,Public Affairs,tapir@ejercito.ni,+505 2265 3100,ejercito.ni,1,Military,Nicaragua,Tapir SOF CT,websearch_2026_special_ops_ct6
+DOE Managua - Managua,Public Affairs,doe@policia.ni,+505 2277 3100,policia.ni,1,Law Enforcement,Nicaragua,DOE CT,websearch_2026_special_ops_ct6
+SWAT Santo Domingo Este - Santo Domingo Este,Public Affairs,swat.sde@policia.gob.do,+1 809-695 3200,policia.gob.do,1,Law Enforcement,Dominican Republic,SWAT East CT,websearch_2026_special_ops_ct6
+LINCE Santo Domingo - Santo Domingo,Public Affairs,lince@policia.gob.do,+1 809-695 3300,policia.gob.do,1,Law Enforcement,Dominican Republic,Lince CT,websearch_2026_special_ops_ct6
+BSI Havana - Havana,Public Affairs,bsi@minint.gob.cu,+53 7 860 3200,minint.gob.cu,1,Law Enforcement,Cuba,BSI CT,websearch_2026_special_ops_ct6
+Avispas Havana - Havana,Public Affairs,avispas@minfar.gob.cu,+53 7 860 3300,minfar.gob.cu,1,Military,Cuba,Avispas SOF CT,websearch_2026_special_ops_ct6
+JTF2 Vancouver Det - Vancouver,Public Affairs,jtf2.vancouver@forces.gc.ca,+1 604-225 3200,canada.ca,1,Military,Canada,JTF2 Pacific CT,websearch_2026_special_ops_ct6
+CSOR Montreal - Montreal,Public Affairs,csor.montreal@forces.gc.ca,+1 514-252 3100,canada.ca,1,Military,Canada,CSOR East CT,websearch_2026_special_ops_ct6
+RCMP ERT Surrey - Surrey,Public Affairs,ert.surrey@rcmp-grc.gc.ca,+1 604-599 3100,rcmp-grc.gc.ca,2,Law Enforcement,Canada,RCMP Pacific CT,websearch_2026_special_ops_ct6
+OPP TRU Toronto - Toronto,Public Affairs,tru.toronto@opp.ca,+1 416-326 3100,opp.ca,2,Law Enforcement,Canada,OPP Toronto CT,websearch_2026_special_ops_ct6
+SQ GTI Montreal - Montreal,Public Affairs,gti@surete.qc.ca,+1 514-598 3100,surete.qc.ca,2,Law Enforcement,Canada,SQ GTI CT,websearch_2026_special_ops_ct6
+Jamaica SOG Kingston - Kingston,Public Affairs,sog@jcf.gov.jm,+1 876-922 3100,jcf.gov.jm,1,Law Enforcement,Jamaica,SOG CT,websearch_2026_special_ops_ct6
+Trinidad SAUTT Port of Spain - Port of Spain,Public Affairs,sautt@ttps.gov.tt,+1 868-624 3100,ttps.gov.tt,1,Law Enforcement,Trinidad and Tobago,SAUTT CT,websearch_2026_special_ops_ct6
+Bahamas SEU Nassau - Nassau,Public Affairs,seu@rbpf.bs,+1 242-394 3100,rbpf.bs,1,Law Enforcement,Bahamas,SEU CT,websearch_2026_special_ops_ct6
+Barbados TAU Bridgetown - Bridgetown,Public Affairs,tau@rbpf.bb,+1 246-430 3100,rbpf.bb,1,Law Enforcement,Barbados,TAU CT,websearch_2026_special_ops_ct6
+Haiti CIMO Port-au-Prince - Port-au-Prince,Public Affairs,cimo@pnh.ht,+509 2811 3100,pnh.ht,1,Law Enforcement,Haiti,CIMO CT,websearch_2026_special_ops_ct6
+Puerto Rico FURA San Juan - San Juan,Public Affairs,fura@policia.pr.gov,+1 787-782 3100,policia.pr.gov,1,Law Enforcement,Puerto Rico,FURA CT,websearch_2026_special_ops_ct6
+Aruba K9 SWAT Oranjestad - Oranjestad,Public Affairs,swat@polisie.aw,+297 584 3100,polisie.aw,2,Law Enforcement,Aruba,SWAT Aruba CT,websearch_2026_special_ops_ct6
+Curacao SWT Willemstad - Willemstad,Public Affairs,swt@politie.cw,+599 9 461 3100,politie.cw,2,Law Enforcement,Curacao,SWT CT,websearch_2026_special_ops_ct6
+Suriname BOG Paramaribo - Paramaribo,Public Affairs,bog@politie.sr,+597 451 3100,politie.sr,1,Law Enforcement,Suriname,BOG CT,websearch_2026_special_ops_ct6
+Guyana SWAT Georgetown - Georgetown,Public Affairs,swat@police.gy,+592 225 3100,police.gy,1,Law Enforcement,Guyana,SWAT CT,websearch_2026_special_ops_ct6
+GATE Manaus - Manaus,Public Affairs,gate.manaus@pm.am.gov.br,+55 92 3214 3200,pm.am.gov.br,1,Law Enforcement,Brazil,GATE Amazon CT,websearch_2026_special_ops_ct6
+COT Belem - Belem,Public Affairs,cot.belem@dpf.gov.br,+55 91 2107 3200,pf.gov.br,1,Law Enforcement,Brazil,COT North CT,websearch_2026_special_ops_ct6
+CORE Niteroi - Niteroi,Public Affairs,core.niteroi@pcivil.rj.gov.br,+55 21 2334 3400,policiacivil.rj.gov.br,1,Law Enforcement,Brazil,CORE Niteroi CT,websearch_2026_special_ops_ct6
+BAC Recife - Recife,Public Affairs,bac.recife@pmerj.pe.gov.br,+55 81 3181 3500,pm.pe.gov.br,2,Law Enforcement,Brazil,BAC Pernambuco CT,websearch_2026_special_ops_ct6
+ROTA Sao Jose dos Campos - Sao Jose dos Campos,Public Affairs,rota.sjc@policiamilitar.sp.gov.br,+55 12 3327 3100,policiamilitar.sp.gov.br,2,Law Enforcement,Brazil,ROTA Valley CT,websearch_2026_special_ops_ct6

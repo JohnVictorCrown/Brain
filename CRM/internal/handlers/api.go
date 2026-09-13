@@ -277,6 +277,83 @@ func SendBulkEmail(c *fiber.Ctx) error {
 	})
 }
 
+func CheckBounces(c *fiber.Ctx) error {
+	var req struct {
+		Limit int  `json:"limit"`
+		Apply bool `json:"apply"`
+	}
+	_ = c.BodyParser(&req)
+	if req.Limit <= 0 || req.Limit > 500 {
+		req.Limit = 100
+	}
+
+	bounces, err := mail.FetchBounces(req.Limit)
+	if err != nil {
+		return c.Status(500).JSON(fiber.Map{"error": err.Error()})
+	}
+
+	type item struct {
+		Email   string `json:"email"`
+		Verdict string `json:"verdict"`
+		Reason  string `json:"reason"`
+		InDB    bool   `json:"in_db"`
+		Leads   string `json:"leads,omitempty"`
+		Action  string `json:"action"`
+		Deleted bool   `json:"deleted,omitempty"`
+	}
+	var items []item
+	var deleted int
+	for _, b := range bounces {
+		found, _ := db.FindLeadsByEmail(b.Email)
+		inDB := len(found) > 0
+		var names []string
+		var ids []string
+		for _, f := range found {
+			ids = append(ids, f.LeadID)
+			if f.Company != "" {
+				names = append(names, f.Company)
+			}
+		}
+		leadStr := strings.Join(names, ", ")
+		action := ""
+		switch b.Verdict {
+		case mail.VerdictInvalid:
+			if inDB {
+				action = "DELETE email"
+			} else {
+				action = "not in DB"
+			}
+		case mail.VerdictBlocked:
+			action = "KEEP (blocked)"
+		default:
+			action = "KEEP (unclear)"
+		}
+		it := item{Email: b.Email, Verdict: string(b.Verdict), Reason: b.Reason, InDB: inDB, Leads: leadStr, Action: action}
+		if req.Apply && b.Verdict == mail.VerdictInvalid && inDB {
+			if _, err := db.DeleteEmail(b.Email); err == nil {
+				it.Deleted = true
+				it.Action = "deleted"
+				deleted++
+				for _, id := range ids {
+					db.LogOutreach(id, "note", fmt.Sprintf("Bounced email removed: %s (%s)", b.Email, b.Reason), "bounced-removed")
+				}
+			} else {
+				it.Action = "delete failed: " + err.Error()
+			}
+		}
+		items = append(items, it)
+	}
+	if items == nil {
+		items = []item{}
+	}
+	return c.JSON(fiber.Map{
+		"success": true,
+		"apply":   req.Apply,
+		"deleted": deleted,
+		"bounces": items,
+	})
+}
+
 func formatID() string {
 	return uuid.New().String()
 }

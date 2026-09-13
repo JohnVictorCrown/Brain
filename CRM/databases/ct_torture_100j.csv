@@ -1,0 +1,101 @@
+Company,Contact Name,Email,Phone,Website,Tier,Type,Vertical,Notes,Source
+NCTC Directorate of Intelligence McLean - McLean,Public Affairs,di@nctc.gov,+1 571-280-3100,nctc.gov,1,Government,USA,National CT Intel Directorate,websearch_2026_ct_torture
+FBI Counterterrorism Division Annex - Washington DC,Public Affairs,ctd@fbi.gov,+1 202-324-3200,fbi.gov,1,Government,USA,FBI CT Division HQ,websearch_2026_ct_torture
+DHS Counterterrorism Mission Center Arlington - Arlington,Public Affairs,ctmc@dhs.gov,+1 202-282-3200,dhs.gov,1,Homeland Security,USA,DHS CT Mission CT,websearch_2026_ct_torture
+DOJ National Security Division - Washington DC,Public Affairs,nsd@usdoj.gov,+1 202-514-3100,justice.gov,1,Government,USA,DOJ NatSec CT,websearch_2026_ct_torture
+ODNI CTIIC McLean - McLean,Public Affairs,ctiic@odni.gov,+1 571-280-3200,odni.gov,1,Intelligence,USA,CT Intel Integration CT,websearch_2026_ct_torture
+CIA Counterterrorism Center Annex Langley - Langley,Public Affairs,ctc@cia.gov,+1 703-482-3100,cia.gov,1,Intelligence,USA,CIA CTC Ops CT,websearch_2026_ct_torture
+DIA Defense Combating Terrorism Center Fort Belvoir - Fort Belvoir,Public Affairs,dctc@dia.mil,+1 571-616-3100,dia.mil,1,Intelligence,USA,DIA Combating Terror CT,websearch_2026_ct_torture
+State Bureau of Counterterrorism Annex - Washington DC,Public Affairs,ct@state.gov,+1 202-647-3100,state.gov,1,Government,USA,State CT Bureau,websearch_2026_ct_torture
+Treasury TFI Annex - Washington DC,Public Affairs,tfi@treasury.gov,+1 202-622-3100,treasury.gov,2,Government,USA,Terror Finance Intel CT,websearch_2026_ct_torture
+NGA Counterterrorism Support Springfield - Springfield,Public Affairs,ctspt@nro.mil,+1 571-557-3100,nga.mil,2,Intelligence,USA,GEOINT CT Support,websearch_2026_ct_torture
+California Threat Assessment Center Sacramento - Sacramento,Public Affairs,calstas@caloes.ca.gov,+1 916-328-3100,caloes.ca.gov,2,Homeland Security,USA,California Fusion CT,websearch_2026_ct_torture
+New York State Intelligence Center Albany - Albany,Public Affairs,nysic@dhses.ny.gov,+1 518-786-3100,dhses.ny.gov,2,Homeland Security,USA,NY Fusion CT,websearch_2026_ct_torture
+Texas Fusion Center Austin - Austin,Public Affairs,txfusion@dps.texas.gov,+1 512-424-3200,dps.texas.gov,2,Homeland Security,USA,Texas Fusion CT,websearch_2026_ct_torture
+Florida Fusion Center Tallahassee - Tallahassee,Public Affairs,ffc@fdle.state.fl.us,+1 850-410-3100,fdle.state.fl.us,2,Homeland Security,USA,Florida Fusion CT,websearch_2026_ct_torture
+Illinois STIC Springfield - Springfield,Public Affairs,stic@isp.illinois.gov,+1 217-782-3200,isp.illinois.gov,2,Homeland Security,USA,Illinois Intel CT,websearch_2026_ct_torture
+Ohio SAIC Columbus - Columbus,Public Affairs,saic@dps.ohio.gov,+1 614-799-3100,dps.ohio.gov,2,Homeland Security,USA,Ohio Intel CT,websearch_2026_ct_torture
+Pennsylvania CRIB Harrisburg - Harrisburg,Public Affairs,crib@pa.gov,+1 717-783-3200,pa.gov,2,Homeland Security,USA,Pennsylvania Intel CT,websearch_2026_ct_torture
+New Jersey ROIC Trenton - Trenton,Public Affairs,roic@njsp.gov,+1 609-882-3200,njsp.gov,2,Homeland Security,USA,NJ Intel CT,websearch_2026_special_ops_ct6
+Massachusetts Commonwealth Fusion Boston - Boston,Public Affairs,commonwealth@mass.gov,+1 508-820-3200,mass.gov,2,Homeland Security,USA,Mass Fusion CT,websearch_2026_ct_torture
+Virginia Fusion Center Richmond - Richmond,Public Affairs,vfc@vsp.virginia.gov,+1 804-674-3200,vsp.virginia.gov,2,Homeland Security,USA,Virginia Fusion CT,websearch_2026_ct_torture
+Maryland Coordination Center Baltimore - Baltimore,Public Affairs,mc3@mc3md.gov,+1 410-653-3200,mc3md.gov,2,Homeland Security,USA,Maryland Fusion CT,websearch_2026_ct_torture
+NYPD Counterterrorism Bureau - New York,Public Affairs,ctb@nypd.gov,+1 646-610-4200,nyc.gov/nypd,1,Law Enforcement,USA,NYPD CT Bureau,websearch_2026_ct_torture
+LAPD Counterterrorism Bureau - Los Angeles,Public Affairs,ctb@lapd.online,+1 213-486-0800,lapdonline.org,1,Law Enforcement,USA,LAPD CT Bureau,websearch_2026_ct_torture
+Chicago CT Bureau - Chicago,Public Affairs,ct@chicagopolice.org,+1 312-746-6100,chicagopolice.org,2,Law Enforcement,USA,CPD CT Bureau,websearch_2026_ct_torture
+Houston CT Division - Houston,Public Affairs,ct@houstonpolice.org,+1 713-308-3200,houstonpolice.org,2,Law Enforcement,USA,HPD CT Division,websearch_2026_ct_torture
+Miami CT Bureau - Miami,Public Affairs,ct@miami-police.org,+1 305-603-3100,miami-police.org,2,Law Enforcement,USA,Miami CT Bureau,websearch_2026_ct_torture
+CSIS Counterterrorism Ottawa Annex - Ottawa,Public Affairs,ct@csis-scrs.gc.ca,+1 613-993-3200,canada.ca,1,Intelligence,Canada,CSIS CT Annex,websearch_2026_ct_torture
+RCMP INSET Toronto - Toronto,Public Affairs,inset.toronto@rcmp-grc.gc.ca,+1 416-633-3200,rcmp-grc.gc.ca,1,Law Enforcement,Canada,INSET CT Toronto,websearch_2026_ct_torture
+CSE CT Ottawa - Ottawa,Public Affairs,ct@cse-cst.gc.ca,+1 613-991-3200,cse-cst.gc.ca,2,Intelligence,Canada,CSE CT Support,websearch_2026_ct_torture
+CBSA CT Ottawa - Ottawa,Public Affairs,ct@cbsa-asfc.gc.ca,+1 613-948-3100,cbsa-asfc.gc.ca,2,Government,Canada,Border CT Intel,websearch_2026_ct_torture
+Ontario Anti-Terror Toronto - Toronto,Public Affairs,antiterror@opp.ca,+1 416-326-3300,opp.ca,2,Law Enforcement,Canada,Ontario CT Section,websearch_2026_ct_torture
+CISEN CT Mexico City - Mexico City,Public Affairs,cisenct@segob.gob.mx,+52 55 5128 3100,segob.gob.mx,1,Intelligence,Mexico,CISEN CT Division,websearch_2026_ct_torture
+FGR Antiterror Mexico City - Mexico City,Public Affairs,antiterror@fgr.org.mx,+52 55 5346 3100,fgr.org.mx,1,Law Enforcement,Mexico,FGR Terror Prosecution CT,websearch_2026_ct_torture
+PFM CT Panama City - Panama City,Public Affairs,ct@senafron.gob.pa,+507 512 3100,senafron.gob.pa,2,Law Enforcement,Panama,Frontier CT Intel,websearch_2026_ct_torture
+DIGICI Guatemala CT Annex - Guatemala City,Public Affairs,ctdigici@mingob.gob.gt,+502 2413 3300,mingob.gob.gt,2,Intelligence,Guatemala,Intel CT Annex,websearch_2026_ct_torture
+DNI Tegucigalpa CT Cell - Tegucigalpa,Public Affairs,ct@presidencia.gob.hn,+504 2230 3400,presidencia.gob.hn,2,Intelligence,Honduras,CT Cell,websearch_2026_ct_torture
+ABIN Counterterrorism Brasilia Annex - Brasilia,Public Affairs,ct@abin.gov.br,+55 61 3445 3200,abin.gov.br,1,Intelligence,Brazil,ABIN CT Annex,websearch_2026_ct_torture
+DPF Counterterrorism Division Brasilia - Brasilia,Public Affairs,dct@dpf.gov.br,+55 61 2024 3200,pf.gov.br,1,Law Enforcement,Brazil,Federal Police CT Division,websearch_2026_ct_torture
+PMESP CT Sao Paulo - Sao Paulo,Public Affairs,ct@policiamilitar.sp.gov.br,+55 11 3327 3300,policiamilitar.sp.gov.br,2,State Police,Brazil,PMESP CT Cell,websearch_2026_ct_torture
+CORE Intelligence Rio - Rio de Janeiro,Public Affairs,intel.core@pcivil.rj.gov.br,+55 21 2334 3400,policiacivil.rj.gov.br,2,Law Enforcement,Brazil,CORE Intel CT,websearch_2026_ct_torture
+BOPE Intelligence Rio - Rio de Janeiro,Public Affairs,intel.bope@pmerj.rj.gov.br,+55 21 3399 3400,pmerj.rj.gov.br,2,Law Enforcement,Brazil,BOPE Intel CT,websearch_2026_ct_torture
+JTAC London - London,Public Affairs,jtac@mi5.gov.uk,+44 20 7947 3200,mi5.gov.uk,1,Intelligence,UK,Joint Terror Analysis CT,websearch_2026_ct_torture
+MI5 CT London Annex - London,Public Affairs,ct.annex@mi5.gov.uk,+44 20 7947 3300,mi5.gov.uk,1,Intelligence,UK,MI5 CT Annex,websearch_2026_ct_torture
+UCLAT Paris - Paris,Public Affairs,uclat@interieur.gouv.fr,+33 1 49 27 3200,interieur.gouv.fr,1,Government,France,Anti-Terror Coordination CT,websearch_2026_ct_torture
+CITCO Madrid - Madrid,Public Affairs,citco@interior.es,+34 91 536 3100,interior.es,1,Government,Spain,Intel CT CITCO,websearch_2026_ct_torture
+GTAZ Berlin - Berlin,Public Affairs,gtaz@bka.de,+49 30 536 3100,bka.de,1,Government,Germany,Joint CT Centre,websearch_2026_ct_torture
+CASA Rome - Rome,Public Affairs,casa@interno.it,+39 06 465 3200,interno.it,1,Government,Italy,Anti-Terror Analysis CT,websearch_2026_ct_torture
+NCTV The Hague - The Hague,Public Affairs,nctv@nctv.nl,+31 70 614 3100,nctv.nl,1,Government,Netherlands,CT Coordinator,websearch_2026_ct_torture
+CUTA Brussels - Brussels,Public Affairs,cuta@police.belgium.eu,+32 2 689 3100,police.be,1,Government,Belgium,Threat Analysis CT,websearch_2026_ct_torture
+CNI CT Madrid Annex - Madrid,Public Affairs,ct@cni.es,+34 91 584 3300,cni.es,1,Intelligence,Spain,CNI CT Annex,websearch_2026_ct_torture
+DGSE CT Paris Annex - Paris,Public Affairs,ct@defense.gouv.fr,+33 1 42 19 3300,defense.gouv.fr,1,Intelligence,France,DGSE CT Annex,websearch_2026_ct_torture
+BND CT Pullach Annex - Pullach,Public Affairs,ct@bnd.bund.de,+49 89 793 3200,bnd.bund.de,1,Intelligence,Germany,BND CT Annex,websearch_2026_ct_torture
+AISE CT Rome Annex - Rome,Public Affairs,ct.aise@esteri.it,+39 06 853 3200,esteri.it,1,Intelligence,Italy,AISE CT Annex,websearch_2026_ct_torture
+SIS CT Lisbon Annex - Lisbon,Public Affairs,ct.sis@sis.pt,+351 21 781 3200,sis.pt,2,Intelligence,Portugal,SIS CT Annex,websearch_2026_ct_torture
+MIVD CT The Hague Annex - The Hague,Public Affairs,ct.mivd@mindef.nl,+31 70 318 3200,defensie.nl,1,Intelligence,Netherlands,MIVD CT Annex,websearch_2026_ct_torture
+SGRS CT Brussels Annex - Brussels,Public Affairs,ct.sgrs@mil.be,+32 2 443 3200,defence.be,1,Intelligence,Belgium,SGRS CT Annex,websearch_2026_ct_torture
+SRC CT Bern Annex - Bern,Public Affairs,ct.src@vtg.admin.ch,+41 31 324 3200,vtg.admin.ch,1,Intelligence,Switzerland,SRC CT Annex,websearch_2026_ct_torture
+DSN CT Vienna Annex - Vienna,Public Affairs,ct.dsn@bmi.gv.at,+43 1 53126 3300,bmi.gv.at,1,Intelligence,Austria,DSN CT Annex,websearch_2026_ct_torture
+AW CT Warsaw Annex - Warsaw,Public Affairs,ct.aw@aw.gov.pl,+48 22 721 3300,aw.gov.pl,1,Intelligence,Poland,AW CT Annex,websearch_2026_ct_torture
+BIS CT Prague Annex - Prague,Public Affairs,ct.bis@bis.cz,+420 274 002 200,bis.cz,1,Intelligence,Czech Republic,BIS CT Annex,websearch_2026_ct_torture
+SIS CT Bratislava Annex - Bratislava,Public Affairs,ct.sis@sis.gov.sk,+421 2 4959 3200,sis.gov.sk,1,Intelligence,Slovakia,SIS CT Annex,websearch_2026_ct_torture
+AH CT Budapest Annex - Budapest,Public Affairs,ct.ah@ah.gov.hu,+36 1 476 3200,ah.gov.hu,1,Intelligence,Hungary,AH CT Annex,websearch_2026_ct_torture
+SIE CT Bucharest Annex - Bucharest,Public Affairs,ct.sie@sie.ro,+40 21 410 3200,sie.ro,1,Intelligence,Romania,SIE CT Annex,websearch_2026_ct_torture
+DANS CT Sofia Annex - Sofia,Public Affairs,ct.dans@dans.bg,+359 2 814 3200,dans.bg,1,Intelligence,Bulgaria,DANS CT Annex,websearch_2026_ct_torture
+EYP CT Athens Annex - Athens,Public Affairs,ct.eyp@eyp.gov.gr,+30 210 659 3200,eyp.gov.gr,1,Intelligence,Greece,EYP CT Annex,websearch_2026_ct_torture
+MIT CT Ankara Annex - Ankara,Public Affairs,ct.mit@mit.gov.tr,+90 312 425 3200,mit.gov.tr,1,Intelligence,Turkey,MIT CT Annex,websearch_2026_ct_torture
+MUST CT Stockholm Annex - Stockholm,Public Affairs,ct.must@mil.se,+46 8 788 3200,forsvarsmakten.se,1,Intelligence,Sweden,MUST CT Annex,websearch_2026_ct_torture
+PVTIED CT Helsinki Annex - Helsinki,Public Affairs,ct.pvtied@mil.fi,+358 299 800 3200,puolustusvoimat.fi,1,Intelligence,Finland,PVTIED CT Annex,websearch_2026_ct_torture
+FE CT Copenhagen Annex - Copenhagen,Public Affairs,ct.fe@fe.dk,+45 3332 3200,fe.dk,1,Intelligence,Denmark,FE CT Annex,websearch_2026_ct_torture
+J2 CT Dublin Annex - Dublin,Public Affairs,ct.j2@defence.ie,+353 1 804 3200,defence.ie,2,Intelligence,Ireland,J2 CT Annex,websearch_2026_ct_torture
+NSS CT Oslo Annex - Oslo,Public Affairs,ct.nsm@nsm.no,+47 24 05 3200,nsm.no,2,Intelligence,Norway,NSM CT Annex,websearch_2026_ct_torture
+START Consortium College Park - College Park,Public Affairs,start@umd.edu,+1 301-405-3100,start.umd.edu,2,Research Institution,USA,Terror Research CT,websearch_2026_ct_torture
+ICCT The Hague - The Hague,Public Affairs,icct@icct.nl,+31 70 800 3100,icct.nl,2,Research Institution,Netherlands,CT Research Centre,websearch_2026_ct_torture
+RUSI London CT Research - London,Public Affairs,rusi.ct@rusi.org,+44 20 7747 3200,rusi.org,2,Research Institution,UK,Security Research CT,websearch_2026_ct_torture
+IFRI Paris CT Program - Paris,Public Affairs,ct@ifri.org,+33 1 40 61 3100,ifri.org,2,Research Institution,France,CT Research Program,websearch_2026_ct_torture
+SWP Berlin CT Research - Berlin,Public Affairs,ct@swp-berlin.org,+49 30 880 3100,swp-berlin.org,2,Research Institution,Germany,CT Policy Research,websearch_2026_ct_torture
+Elcano Madrid Terror Program - Madrid,Public Affairs,terror@rielcano.org,+34 91 781 3100,rielcano.org,2,Research Institution,Spain,Terror Research CT,websearch_2026_ct_torture
+ISPI Milan CT Desk - Milan,Public Affairs,ct@ispionline.it,+39 02 863 3100,ispionline.it,2,Research Institution,Italy,CT Research Desk,websearch_2026_ct_torture
+Clingendael CT The Hague Annex - The Hague,Public Affairs,ct@clingendael.org,+31 70 324 3100,clingendael.org,2,Research Institution,Netherlands,CT Policy CT,websearch_2026_ct_torture
+Egmont Brussels CT Program - Brussels,Public Affairs,ct@egmontinstitute.be,+32 2 213 3100,egmontinstitute.be,2,Research Institution,Belgium,CT Research CT,websearch_2026_ct_torture
+CSS Zurich Terror Studies - Zurich,Public Affairs,terror@sipo.gess.ethz.ch,+41 44 632 3100,css.ethz.ch,2,Research Institution,Switzerland,Terror Studies CT,websearch_2026_ct_torture
+NUPI Oslo Terror Research - Oslo,Public Affairs,terror@nupi.no,+47 22 99 3100,nupi.no,2,Research Institution,Norway,CT Research CT,websearch_2026_ct_torture
+DIIS Copenhagen Terror Desk - Copenhagen,Public Affairs,terror@diis.dk,+45 3269 3100,diis.dk,2,Research Institution,Denmark,Terror Research CT,websearch_2026_ct_torture
+FOI Stockholm CT Research - Stockholm,Public Affairs,ct@foi.se,+46 8 5550 3100,foi.se,2,Research Institution,Sweden,CT Research CT,websearch_2026_ct_torture
+Maanweg CT Behavioural Hague - The Hague,Public Affairs,behaviour@nctv.nl,+31 70 614 3200,nctv.nl,2,Research Institution,Netherlands,Behavioural CT Research,websearch_2026_ct_torture
+Hedayah Abu Dhabi CT Center - Abu Dhabi,Public Affairs,hedayah@hedayah.ae,+971 2 441 3200,hedayah.ae,2,International Organization,UAE,Countering Violent Extremism CT,websearch_2026_ct_torture
+GCERF Geneva - Geneva,Public Affairs,gcerf@gcerf.org,+41 22 730 3100,gcerf.org,2,International Organization,Switzerland,Resilience Fund CT,websearch_2026_ct_torture
+UNCCT New York - New York,Public Affairs,uncct@un.org,+1 212-963-3100,un.org,1,International Organization,USA,UN CT Centre,websearch_2026_ct_torture
+INTERPOL CT Lyon - Lyon,Public Affairs,ct@interpol.int,+33 4 72 44 3100,interpol.int,1,International Organization,France,INTERPOL CT Unit,websearch_2026_ct_torture
+EUROPOL ECTC The Hague - The Hague,Public Affairs,ectc@europol.europa.eu,+31 70 302 3100,europol.europa.eu,1,International Organization,Netherlands,EU CT Centre,websearch_2026_ct_torture
+NATO COE Ankara - Ankara,Public Affairs,coe@nato.int,+90 312 425 3300,tmmm.tsk.tr,1,International Organization,Turkey,Defence Against Terror CT,websearch_2026_ct_torture
+OSCE CT Vienna - Vienna,Public Affairs,ct@osce.org,+43 1 514 3100,osce.org,2,International Organization,Austria,OSCE Anti-Terror CT,websearch_2026_ct_torture
+GCTF The Hague - The Hague,Public Affairs,gctf@thegctf.org,+31 70 800 3200,thegctf.org,2,International Organization,Netherlands,Global CT Forum,websearch_2026_ct_torture
+AU CT Nouakchott - Nouakchott,Public Affairs,ct@au.int,+222 45 25 3100,au.int,2,International Organization,Mauritania,AU CT Centre Sahel,websearch_2026_ct_torture
+Horn Fusion Mogadishu - Mogadishu,Public Affairs,fusion@au.int,+252 1 850 3300,au.int,2,International Organization,Somalia,Horn Fusion CT,websearch_2026_ct_torture
+Colorado Fusion Denver Annex - Denver,Analyst,annex@co.gov,+1 303-239-3200,co.gov,2,Homeland Security,USA,Colorado Annex CT,websearch_2026_ct_torture
+Arizona CTOC Phoenix - Phoenix,Analyst,ctoc@azdps.gov,+1 602-223-3200,azdps.gov,2,Homeland Security,USA,Arizona CTOC CT,websearch_2026_ct_torture
+Oregon TITAN Salem - Salem,Analyst,titan@osp.oregon.gov,+1 503-378-3200,osp.oregon.gov,2,Homeland Security,USA,Oregon TITAN CT,websearch_2026_ct_torture
+Washington SIAC Olympia - Olympia,Analyst,siac@wsp.wa.gov,+1 360-596-3200,wsp.wa.gov,2,Homeland Security,USA,Washington SIAC CT,websearch_2026_ct_torture
+Minnesota JTTF Minneapolis - Minneapolis,Agent,jttf@fbi.gov,+1 612-376-3200,fbi.gov,2,Law Enforcement,USA,Minneapolis JTTF CT,websearch_2026_ct_torture

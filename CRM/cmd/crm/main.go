@@ -68,6 +68,8 @@ func main() {
 		runSendMail(args)
 	case "campaign":
 		runCampaign(args)
+	case "check-bounces":
+		runCheckBounces(args)
 	case "help", "--help", "-h":
 		printUsage()
 	default:
@@ -105,6 +107,9 @@ Usage:
     crm campaign                  Send segmented campaign to leads
     crm campaign --tier 1 --subject "Hi" --body "Hello"
     crm campaign --type "Intelligence" --vertical "USA" --dry-run
+    crm check-bounces             Scan Mailer-Daemon inbox for bounces (preview)
+    crm check-bounces --apply --confirm   Delete invalid bounced emails (keeps blocked)
+    crm check-bounces --all --apply       Full-inbox sweep in batches (resumable via --offset/--max)
 	`)
 }
 
@@ -964,6 +969,207 @@ func sortedKeys(m map[string]int) []string {
 	}
 	sort.Strings(keys)
 	return keys
+}
+
+// ─── Check Bounces ────────────────────────────────────────────────────────
+
+func runCheckBounces(args []string) {
+	fs := newFlagSet("check-bounces")
+	limit := fs.Int("limit", 100, "Max Mailer-Daemon messages to scan (ignored with --all)")
+	apply := fs.Bool("apply", false, "Actually delete invalid emails (default: preview only)")
+	confirm := fs.Bool("confirm", false, "Ask for confirmation before deleting")
+	aggressive := fs.Bool("include-ambiguous", false, "Also delete unclear/generic rejections (5.1.0, 5.4.1); blocked policy mail is still always kept")
+	all := fs.Bool("all", false, "Scan the whole inbox in batches (full sweep)")
+	batch := fs.Int("batch", 200, "Messages per batch for --all")
+	offset := fs.Int("offset", 0, "Skip first N daemon messages (oldest first, for resuming --all)")
+	max := fs.Int("max", 0, "Stop after N daemon messages (0 = no cap, for chunking --all)")
+	fs.Parse(args)
+
+	fmt.Println()
+	fmt.Println(strings.Repeat("═", 58))
+	fmt.Println("  📮 BOUNCE CHECK — Mailer-Daemon inbox scan")
+	fmt.Println(strings.Repeat("═", 58))
+
+	var bounces []mail.Bounce
+	if *all {
+		uids, err := mail.DaemonUIDs()
+		if err != nil {
+			fmt.Fprintf(os.Stderr, "❌ %v\n", err)
+			os.Exit(1)
+		}
+		fmt.Printf("  Inbox %s holds %d Mailer-Daemon message(s). Sweeping in batches of %d (offset %d)...\n\n",
+			db.GmailAddr, len(uids), *batch, *offset)
+		if *offset > len(uids) {
+			*offset = len(uids)
+		}
+		uids = uids[*offset:]
+		if *max > 0 && len(uids) > *max {
+			uids = uids[:*max]
+		}
+		if len(uids) == 0 {
+			fmt.Println("✅ No Mailer-Daemon bounces found.")
+			return
+		}
+		if *batch < 1 {
+			*batch = 200
+		}
+		for i := 0; i < len(uids); i += *batch {
+			end := i + *batch
+			if end > len(uids) {
+				end = len(uids)
+			}
+			fmt.Printf("  … batch %d/%d (messages %d–%d of %d)\n",
+				i/(*batch)+1, (len(uids)+(*batch)-1)/(*batch), i+1, end, len(uids))
+			part, err := mail.FetchBouncesByUIDs(uids[i:end])
+			if err != nil {
+				fmt.Fprintf(os.Stderr, "❌ batch failed: %v\n", err)
+				os.Exit(1)
+			}
+			bounces = append(bounces, part...)
+		}
+		bounces = mail.DedupeBounces(bounces)
+		fmt.Println()
+	} else {
+		fmt.Printf("  Scanning inbox %s for Mailer-Daemon bounces (limit %d)...\n\n", db.GmailAddr, *limit)
+
+		var err error
+		bounces, err = mail.FetchBounces(*limit)
+		if err != nil {
+			fmt.Fprintf(os.Stderr, "❌ %v\n", err)
+			os.Exit(1)
+		}
+	}
+	if len(bounces) == 0 {
+		fmt.Println("✅ No Mailer-Daemon bounces found.")
+		return
+	}
+
+	var nInvalid, nBlocked, nOther int
+	type row struct {
+		b         mail.Bounce
+		inDB      bool
+		leads     string
+		action    string
+		deletable bool
+	}
+	var rows []row
+	for _, b := range bounces {
+		found, _ := db.FindLeadsByEmail(b.Email)
+		inDB := len(found) > 0
+		var names []string
+		for _, f := range found {
+			if f.Company != "" {
+				names = append(names, f.Company)
+			}
+		}
+		leadStr := strings.Join(names, ", ")
+		if leadStr == "" && inDB {
+			leadStr = fmt.Sprintf("%d lead(s)", len(found))
+		}
+		action := ""
+		deletable := b.Verdict == mail.VerdictInvalid ||
+			(*aggressive && b.Verdict == mail.VerdictOther)
+		switch b.Verdict {
+		case mail.VerdictInvalid:
+			nInvalid++
+			if inDB {
+				action = "DELETE email"
+			} else {
+				action = "not in DB"
+			}
+		case mail.VerdictBlocked:
+			nBlocked++
+			action = "KEEP (blocked)"
+		default:
+			nOther++
+			if inDB && *aggressive {
+				action = "DELETE email (ambiguous)"
+			} else {
+				action = "KEEP (unclear)"
+			}
+		}
+		rows = append(rows, row{b: b, inDB: inDB, leads: leadStr, action: action, deletable: deletable && inDB})
+	}
+
+	fmt.Printf("  Found %d bounced address(es): %d invalid, %d blocked, %d unclear\n\n",
+		len(rows), nInvalid, nBlocked, nOther)
+	for _, r := range rows {
+		dbMark := "not in DB"
+		if r.inDB {
+			dbMark = "in DB: " + r.leads
+		}
+		fmt.Printf("    • %-35s [%s] %s\n      %s | %s\n",
+			r.b.Email, r.b.Verdict, r.b.Reason, dbMark, r.action)
+	}
+	fmt.Println()
+
+	if !*apply {
+		deletable := 0
+		for _, r := range rows {
+			if r.b.Verdict == mail.VerdictInvalid && r.inDB {
+				deletable++
+			}
+		}
+		fmt.Printf("🔍 PREVIEW — nothing deleted. %d invalid email(s) in DB would be removed.\n", deletable)
+		fmt.Println("   Re-run with --apply to delete (blocked + unclear are always kept).")
+		fmt.Println("   Tip: --apply --confirm asks before deleting.")
+		return
+	}
+
+	// Collect deletable: invalid verdict AND present in DB
+	// (plus unclear ones only with --include-ambiguous; blocked never).
+	var targets []row
+	for _, r := range rows {
+		if r.deletable {
+			targets = append(targets, r)
+		}
+	}
+	if len(targets) == 0 {
+		fmt.Println("✅ Nothing to delete (no invalid bounces matched DB emails).")
+		return
+	}
+
+	if *confirm {
+		fmt.Printf("⚠️  About to delete %d invalid email(s) from the database.\n", len(targets))
+		fmt.Printf("   Blocked (%d) and unclear (%d) are kept. Leads themselves are kept.\n", nBlocked, nOther)
+		reader := bufio.NewReader(os.Stdin)
+		fmt.Print("   Proceed? (y/N): ")
+		ans, _ := reader.ReadString('\n')
+		if strings.TrimSpace(strings.ToLower(ans)) != "y" {
+			fmt.Println("❌ Cancelled.")
+			return
+		}
+		fmt.Println()
+	}
+
+	var deleted, failed int
+	for _, t := range targets {
+		n, err := db.DeleteEmail(t.b.Email)
+		if err != nil {
+			fmt.Printf("  ❌ %s: %v\n", t.b.Email, err)
+			failed++
+			continue
+		}
+		fmt.Printf("  🗑️  %s removed (%d row(s)) — was: %s\n", t.b.Email, n, t.leads)
+		for _, f := range mustFindLeads(t.b.Email) {
+			db.LogOutreach(f, "note", fmt.Sprintf("Bounced email removed: %s (%s)", t.b.Email, t.b.Reason), "bounced-removed")
+		}
+		deleted++
+	}
+	fmt.Println()
+	fmt.Printf("✅ Done: %d deleted, %d failed. Blocked + unclear kept, leads kept.\n", deleted, failed)
+}
+
+func mustFindLeads(email string) []string {
+	found, err := db.FindLeadsByEmail(email)
+	if err != nil {
+		return nil
+	}
+	var ids []string
+	for _, f := range found {
+		ids = append(ids, f.LeadID)
+	}
+	return ids
 }
 
 // ─── Store Password ────────────────────────────────────────────────────────

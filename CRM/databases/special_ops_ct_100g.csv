@@ -1,0 +1,101 @@
+Company,Contact Name,Email,Phone,Website,Tier,Type,Vertical,Notes,Source
+Avon Somerset CTSFO Bristol - Bristol,Public Affairs,ctsfo.bristol@avonandsomerset.police.uk,+44 117 927 3100,avonandsomerset.police.uk,2,Law Enforcement,UK,Avon Armed CT,websearch_2026_special_ops_ct6
+Devon Cornwall CTSFO Exeter - Exeter,Public Affairs,ctsfo.exeter@devon-cornwall.police.uk,+44 1392 451 100,devon-cornwall.police.uk,2,Law Enforcement,UK,Devon Armed CT,websearch_2026_special_ops_ct6
+West Yorkshire CTSFO Leeds - Leeds,Public Affairs,ctsfo.leeds@westyorkshire.police.uk,+44 113 303 3100,westyorkshire.police.uk,2,Law Enforcement,UK,WYorks Armed CT,websearch_2026_special_ops_ct6
+Merseyside CTSFO Liverpool - Liverpool,Public Affairs,ctsfo.liverpool@merseyside.police.uk,+44 151 709 3100,merseyside.police.uk,2,Law Enforcement,UK,Merseyside Armed CT,websearch_2026_special_ops_ct6
+Northumbria CTSFO Newcastle - Newcastle,Public Affairs,ctsfo.newcastle@northumbria.police.uk,+44 191 437 3100,northumbria.police.uk,2,Law Enforcement,UK,Northumbria Armed CT,websearch_2026_special_ops_ct6
+Wales CTSFO Cardiff - Cardiff,Public Affairs,ctsfo.cardiff@south-wales.police.uk,+44 29 2077 3100,south-wales.police.uk,2,Law Enforcement,UK,Wales Armed CT,websearch_2026_special_ops_ct6
+Kent CTSFO Maidstone - Maidstone,Public Affairs,ctsfo.maidstone@kent.police.uk,+44 1622 653 100,kent.police.uk,2,Law Enforcement,UK,Kent Armed CT,websearch_2026_special_ops_ct6
+Essex CTSFO Chelmsford - Chelmsford,Public Affairs,ctsfo.chelmsford@essex.police.uk,+44 1245 491 100,essex.police.uk,2,Law Enforcement,UK,Essex Armed CT,websearch_2026_special_ops_ct6
+Hampshire CTSFO Southampton - Southampton,Public Affairs,ctsfo.southampton@hampshire.police.uk,+44 2380 893 100,hampshire.police.uk,2,Law Enforcement,UK,Hampshire Armed CT,websearch_2026_special_ops_ct6
+East Midlands CTSFO Nottingham - Nottingham,Public Affairs,ctsfo.nottingham@nottinghamshire.police.uk,+44 115 967 3100,nottinghamshire.police.uk,2,Law Enforcement,UK,EastMids Armed CT,websearch_2026_special_ops_ct6
+RAID Montpellier - Montpellier,Public Affairs,raid.montpellier@interieur.gouv.fr,+33 4 67 12 3100,police-nationale.interieur.gouv.fr,2,Law Enforcement,France,RAID South CT,websearch_2026_special_ops_ct6
+RAID Nantes - Nantes,Public Affairs,raid.nantes@interieur.gouv.fr,+33 2 40 12 3100,police-nationale.interieur.gouv.fr,2,Law Enforcement,France,RAID West CT,websearch_2026_special_ops_ct6
+RAID Rennes - Rennes,Public Affairs,raid.rennes@interieur.gouv.fr,+33 2 99 12 3100,police-nationale.interieur.gouv.fr,2,Law Enforcement,France,RAID Brittany CT,websearch_2026_special_ops_ct6
+RAID Dijon - Dijon,Public Affairs,raid.dijon@interieur.gouv.fr,+33 3 80 44 3200,police-nationale.interieur.gouv.fr,2,Law Enforcement,France,RAID Burgundy CT,websearch_2026_special_ops_ct6
+BRI Marseille - Marseille,Public Affairs,bri.marseille@interieur.gouv.fr,+33 4 91 39 3200,police-nationale.interieur.gouv.fr,2,Law Enforcement,France,BRI South CT,websearch_2026_special_ops_ct6
+BRI Toulouse - Toulouse,Public Affairs,bri.toulouse@interieur.gouv.fr,+33 5 61 12 3200,police-nationale.interieur.gouv.fr,2,Law Enforcement,France,BRI Southwest CT,websearch_2026_special_ops_ct6
+BRI Nice - Nice,Public Affairs,bri.nice@interieur.gouv.fr,+33 4 93 18 3200,police-nationale.interieur.gouv.fr,2,Law Enforcement,France,BRI Riviera CT,websearch_2026_special_ops_ct6
+GIGN Lyon - Lyon,Public Affairs,gign.lyon@gendarmerie.interieur.gouv.fr,+33 4 78 12 3300,gendarmerie.interieur.gouv.fr,1,Law Enforcement,France,GIGN Central CT,websearch_2026_special_ops_ct6
+GIGN Marseille - Marseille,Public Affairs,gign.marseille@gendarmerie.interieur.gouv.fr,+33 4 91 39 3300,gendarmerie.interieur.gouv.fr,1,Law Enforcement,France,GIGN Med CT,websearch_2026_special_ops_ct6
+GIGN Bordeaux - Bordeaux,Public Affairs,gign.bordeaux@gendarmerie.interieur.gouv.fr,+33 5 56 44 3300,gendarmerie.interieur.gouv.fr,1,Law Enforcement,France,GIGN Southwest CT,websearch_2026_special_ops_ct6
+SEK Kiel - Kiel,Public Affairs,sek.kiel@polizei.schleswig-holstein.de,+49 431 160 3100,polizei.schleswig-holstein.de,2,Law Enforcement,Germany,Kiel SEK CT,websearch_2026_special_ops_ct6
+SEK Schwerin - Schwerin,Public Affairs,sek.schwerin@polizei.mv.de,+49 385 760 3100,polizei.mv.de,2,Law Enforcement,Germany,Schwerin SEK CT,websearch_2026_special_ops_ct6
+SEK Potsdam - Potsdam,Public Affairs,sek.potsdam@polizei.brandenburg.de,+49 331 962 3100,polizei.brandenburg.de,2,Law Enforcement,Germany,Potsdam SEK CT,websearch_2026_special_ops_ct6
+SEK Magdeburg - Magdeburg,Public Affairs,sek.magdeburg@polizei.sachsen-anhalt.de,+49 391 546 3100,polizei.sachsen-anhalt.de,2,Law Enforcement,Germany,Magdeburg SEK CT,websearch_2026_special_ops_ct6
+SEK Erfurt - Erfurt,Public Affairs,sek.erfurt@polizei.thueringen.de,+49 361 662 3100,polizei.thueringen.de,2,Law Enforcement,Germany,Erfurt SEK CT,websearch_2026_special_ops_ct6
+SEK Saarbrucken - Saarbrucken,Public Affairs,sek.saarbruecken@polizei.saarland.de,+49 681 962 3100,polizei.saarland.de,2,Law Enforcement,Germany,Saar SEK CT,websearch_2026_special_ops_ct6
+SEK Wiesbaden - Wiesbaden,Public Affairs,sek.wiesbaden@polizei.hessen.de,+49 611 326 3100,polizei.hessen.de,2,Law Enforcement,Germany,Wiesbaden SEK CT,websearch_2026_special_ops_ct6
+MEK Hamburg - Hamburg,Public Affairs,mek.hamburg@polizei.hamburg.de,+49 40 4286 3200,polizei.hamburg.de,2,Law Enforcement,Germany,Hamburg MEK CT,websearch_2026_special_ops_ct6
+MEK Dusseldorf - Dusseldorf,Public Affairs,mek.duesseldorf@polizei.nrw.de,+49 211 832 3100,polizei.nrw.de,2,Law Enforcement,Germany,Dusseldorf MEK CT,websearch_2026_special_ops_ct6
+BFE Bayreuth - Bayreuth,Public Affairs,bfe.bayreuth@bundespolizei.de,+49 921 506 3100,bundespolizei.de,2,Law Enforcement,Germany,BFE South CT,websearch_2026_special_ops_ct6
+GIS Turin - Turin,Public Affairs,gis.torino@carabinieri.it,+39 011 576 3100,carabinieri.it,1,Law Enforcement,Italy,GIS Piedmont CT,websearch_2026_special_ops_ct6
+GIS Florence - Florence,Public Affairs,gis.firenze@carabinieri.it,+39 055 724 3100,carabinieri.it,1,Law Enforcement,Italy,GIS Tuscany CT,websearch_2026_special_ops_ct6
+NOCS Naples - Naples,Public Affairs,nocs.napoli@poliziadistato.it,+39 081 548 3200,poliziadistato.it,1,Law Enforcement,Italy,NOCS Campania CT,websearch_2026_special_ops_ct6
+ATPI Genoa - Genoa,Public Affairs,atpi.genova@poliziadistato.it,+39 010 536 3100,poliziadistato.it,2,Law Enforcement,Italy,ATPI Liguria CT,websearch_2026_special_ops_ct6
+ATPI Bologna - Bologna,Public Affairs,atpi.bologna@poliziadistato.it,+39 051 640 3100,poliziadistato.it,2,Law Enforcement,Italy,ATPI Emilia CT,websearch_2026_special_ops_ct6
+Tuscania Pisa Det - Pisa,Public Affairs,tuscania.pisa@carabinieri.it,+39 050 933 100,carabinieri.it,1,Military,Italy,Tuscania Pisa CT,websearch_2026_special_ops_ct6
+GOI Taranto - Taranto,Public Affairs,goi.taranto@marina.difesa.it,+39 099 775 3100,marina.difesa.it,1,Military,Italy,GOI South CT,websearch_2026_special_ops_ct6
+COMSUBIN Varignano Annex - Varignano,Public Affairs,varignano@marina.difesa.it,+39 0187 785 3100,marina.difesa.it,1,Military,Italy,COMSUBIN Annex CT,websearch_2026_special_ops_ct6
+185th Verona Det - Verona,Public Affairs,rao.verona@esercito.difesa.it,+39 045 815 3200,esercito.difesa.it,1,Military,Italy,RAO Veneto CT,websearch_2026_special_ops_ct6
+GOM Milan - Milan,Public Affairs,gom.milano@giustizia.it,+39 02 699 3100,giustizia.it,2,Law Enforcement,Italy,GOM Lombardy CT,websearch_2026_special_ops_ct6
+GEO Zaragoza - Zaragoza,Public Affairs,geo.zaragoza@policia.es,+34 976 469 100,policia.es,1,Law Enforcement,Spain,GEO Aragon CT,websearch_2026_special_ops_ct6
+GEO Valencia - Valencia,Public Affairs,geo.valencia@policia.es,+34 963 169 100,policia.es,1,Law Enforcement,Spain,GEO Levant CT,websearch_2026_special_ops_ct6
+UEI Malaga - Malaga,Public Affairs,uei.malaga@guardiacivil.es,+34 952 471 100,guardiacivil.es,1,Law Enforcement,Spain,UEI Costa CT,websearch_2026_special_ops_ct6
+UEI Tenerife - Tenerife,Public Affairs,uei.tenerife@guardiacivil.es,+34 922 471 100,guardiacivil.es,1,Law Enforcement,Spain,UEI Canaries CT,websearch_2026_special_ops_ct6
+GOE VI Burgos - Burgos,Public Affairs,goe6@et.mde.es,+34 947 282 100,ejercito.mde.es,1,Military,Spain,GOE Castile CT,websearch_2026_special_ops_ct6
+CAE Huesca - Huesca,Public Affairs,cae.huesca@et.mde.es,+34 974 298 100,ejercito.mde.es,1,Military,Spain,CAE Pyrenees CT,websearch_2026_special_ops_ct6
+FGNE Rota - Rota,Public Affairs,fgne.rota@armada.mde.es,+34 956 824 100,armada.mde.es,1,Military,Spain,FGNE Cadiz CT,websearch_2026_special_ops_ct6
+EZAPAC Murcia Det - Murcia,Public Affairs,ezapac.murcia@ea.mde.es,+34 968 172 100,ejercitodelaire.mde.es,1,Military,Spain,EZAPAC Southeast CT,websearch_2026_special_ops_ct6
+GAR Zaragoza - Zaragoza,Public Affairs,gar.zaragoza@guardiacivil.es,+34 976 469 200,guardiacivil.es,1,Law Enforcement,Spain,GAR Aragon CT,websearch_2026_special_ops_ct6
+GAR Seville - Seville,Public Affairs,gar.sevilla@guardiacivil.es,+34 954 289 200,guardiacivil.es,1,Law Enforcement,Spain,GAR Andalusia CT,websearch_2026_special_ops_ct6
+GOE Coimbra - Coimbra,Public Affairs,goe.coimbra@psp.pt,+351 239 851 100,psp.pt,2,Law Enforcement,Portugal,GOE Central CT,websearch_2026_special_ops_ct6
+GOE Braga - Braga,Public Affairs,goe.braga@psp.pt,+351 253 613 100,psp.pt,2,Law Enforcement,Portugal,GOE North CT,websearch_2026_special_ops_ct6
+UEP Lisbon - Lisbon,Public Affairs,uep@psp.pt,+351 21 765 3200,psp.pt,2,Law Enforcement,Portugal,UEP Capital CT,websearch_2026_special_ops_ct6
+DAE Troia - Troia,Public Affairs,dae.troia@marinha.pt,+351 265 494 100,marinha.pt,1,Military,Portugal,DAE South CT,websearch_2026_special_ops_ct6
+DSI Eindhoven - Eindhoven,Public Affairs,dsi.eindhoven@politie.nl,+31 88 169 3400,politie.nl,1,Law Enforcement,Netherlands,DSI South CT,websearch_2026_special_ops_ct6
+AT Utrecht - Utrecht,Public Affairs,at.utrecht@politie.nl,+31 88 169 3500,politie.nl,2,Law Enforcement,Netherlands,AT Central CT,websearch_2026_special_ops_ct6
+104 Commando Assen Det - Assen,Public Affairs,coy104.assen@mindef.nl,+31 592 357 100,defensie.nl,1,Military,Netherlands,Commando North CT,websearch_2026_special_ops_ct6
+BSB Amsterdam - Amsterdam,Public Affairs,bsb.amsterdam@marechaussee.nl,+31 20 603 3100,marechaussee.nl,2,Law Enforcement,Netherlands,BSB Capital CT,websearch_2026_special_ops_ct6
+DSU Antwerp - Antwerp,Public Affairs,dsu.antwerpen@police.belgium.eu,+32 3 340 3100,police.be,1,Law Enforcement,Belgium,DSU Flanders CT,websearch_2026_special_ops_ct6
+DSU Liege - Liege,Public Affairs,dsu.liege@police.belgium.eu,+32 4 224 3100,police.be,1,Law Enforcement,Belgium,DSU Wallonia CT,websearch_2026_special_ops_ct6
+1st Para Diest - Diest,Public Affairs,para1@mil.be,+32 13 359 100,defence.be,2,Military,Belgium,Para CT,websearch_2026_special_ops_ct6
+FSK Stavanger - Stavanger,Public Affairs,fsk.stavanger@mil.no,+47 51 50 3100,forsvaret.no,1,Military,Norway,FSK West CT,websearch_2026_special_ops_ct6
+MJK Sortland - Sortland,Public Affairs,mjk.sortland@mil.no,+47 76 11 3100,forsvaret.no,1,Military,Norway,MJK North CT,websearch_2026_special_ops_ct6
+NI Uppsala - Uppsala,Public Affairs,ni.uppsala@polisen.se,+46 18 168 100,polisen.se,1,Law Enforcement,Sweden,NI Central CT,websearch_2026_special_ops_ct6
+Delta Trondheim - Trondheim,Public Affairs,delta.trondheim@politiet.no,+47 73 89 3200,politiet.no,1,Law Enforcement,Norway,Delta Central CT,websearch_2026_special_ops_ct6
+Jaeger Borris - Borris,Public Affairs,jaeger.borris@mil.dk,+45 9927 3200,forsvaret.dk,1,Military,Denmark,Jaeger West CT,websearch_2026_special_ops_ct6
+Karhu Tampere - Tampere,Public Affairs,karhu.tampere@poliisi.fi,+358 295 544 100,poliisi.fi,1,Law Enforcement,Finland,Karhu West CT,websearch_2026_special_ops_ct6
+WEGA Graz - Graz,Public Affairs,wega.graz@polizei.gv.at,+43 316 808 3100,polizei.gv.at,2,Law Enforcement,Austria,WEGA South CT,websearch_2026_special_ops_ct6
+Argus Bern - Bern,Public Affairs,argus.bern@polizei.be.ch,+41 31 638 3100,polizei.be.ch,2,Law Enforcement,Switzerland,Bern Argus CT,websearch_2026_special_ops_ct6
+ERU Cork - Cork,Public Affairs,eru.cork@garda.ie,+353 21 451 3100,garda.ie,1,Law Enforcement,Ireland,ERU South CT,websearch_2026_special_ops_ct6
+ARW Galway - Galway,Public Affairs,arw.galway@defence.ie,+353 91 767 100,defence.ie,1,Military,Ireland,ARW West CT,websearch_2026_special_ops_ct6
+BOA Poznan - Poznan,Public Affairs,boa.poznan@policja.pl,+48 61 841 3100,policja.pl,2,Law Enforcement,Poland,BOA West CT,websearch_2026_special_ops_ct6
+BOA Katowice - Katowice,Public Affairs,boa.katowice@policja.pl,+48 32 200 3100,policja.pl,2,Law Enforcement,Poland,BOA Silesia CT,websearch_2026_special_ops_ct6
+AGAT Krakow - Krakow,Public Affairs,agat.krakow@mon.gov.pl,+48 12 683 3100,wojsko-polskie.pl,1,Military,Poland,AGAT South CT,websearch_2026_special_ops_ct6
+ARAS Siauliai - Siauliai,Public Affairs,aras.siauliai@policija.lt,+370 41 393 100,policija.lt,1,Law Enforcement,Lithuania,ARAS North CT,websearch_2026_special_ops_ct6
+K Parnu - Parnu,Public Affairs,k.parnu@politsei.ee,+372 444 3100,politsei.ee,1,Law Enforcement,Estonia,K South CT,websearch_2026_special_ops_ct6
+URNA Plzen - Plzen,Public Affairs,urna.plzen@pcr.cz,+420 974 326 100,pcr.cz,1,Law Enforcement,Czech Republic,URNA West CT,websearch_2026_special_ops_ct6
+43rd Airborne Chrudim Det - Chrudim Annex,Public Affairs,airborne43.annex@army.cz,+420 973 341 200,army.cz,2,Military,Czech Republic,Airborne Annex CT,websearch_2026_special_ops_ct6
+Lynx Zilina - Zilina,Public Affairs,lynx.zilina@minv.sk,+421 41 511 3100,minv.sk,1,Law Enforcement,Slovakia,Lynx Central CT,websearch_2026_special_ops_ct6
+5th SOF Nitra - Nitra,Public Affairs,sof5.nitra@mil.sk,+421 37 641 3100,mil.sk,1,Military,Slovakia,SOF West CT,websearch_2026_special_ops_ct6
+EST Koper - Koper,Public Affairs,est.koper@policija.si,+386 5 664 3100,policija.si,1,Law Enforcement,Slovenia,EST Coast CT,websearch_2026_special_ops_ct6
+ATJ Rijeka - Rijeka,Public Affairs,atj.rijeka@mup.hr,+385 51 659 3100,mup.hr,1,Law Enforcement,Croatia,ATJ Coast CT,websearch_2026_special_ops_ct6
+SAJ Kragujevac - Kragujevac,Public Affairs,saj.kragujevac@mup.gov.rs,+381 34 336 3100,mup.gov.rs,1,Law Enforcement,Serbia,SAJ Central CT,websearch_2026_special_ops_ct6
+SIPA Mostar - Mostar,Public Affairs,sipa.mostar@sipa.gov.ba,+387 36 551 100,sipa.gov.ba,2,Law Enforcement,Bosnia,SIPA South CT,websearch_2026_special_ops_ct6
+SAJ Niksic - Niksic,Public Affairs,saj.niksic@policija.me,+382 40 213 100,policija.me,2,Law Enforcement,Montenegro,SAJ North CT,websearch_2026_special_ops_ct6
+Tigers Tetovo - Tetovo,Public Affairs,tigers.tetovo@moi.gov.mk,+389 44 356 100,moi.gov.mk,1,Law Enforcement,North Macedonia,Tigers West CT,websearch_2026_special_ops_ct6
+RENEA Shkoder - Shkoder,Public Affairs,renea.shkoder@policia.al,+355 22 242 100,policia.al,1,Law Enforcement,Albania,RENEA North CT,websearch_2026_special_ops_ct6
+SOBT Burgas - Burgas,Public Affairs,sobt.burgas@mvr.bg,+359 56 852 100,mvr.bg,1,Law Enforcement,Bulgaria,SOBT Coast CT,websearch_2026_special_ops_ct6
+SRI Iasi - Iasi,Public Affairs,sri.iasi@sri.ro,+40 232 302 100,sri.ro,1,Law Enforcement,Romania,SRI East CT,websearch_2026_special_ops_ct6
+TEK Pecs - Pecs,Public Affairs,tek.pecs@tek.gov.hu,+36 72 504 100,tek.gov.hu,1,Law Enforcement,Hungary,TEK South CT,websearch_2026_special_ops_ct6
+EKAM Heraklion - Heraklion,Public Affairs,ekam.heraklion@police.gr,+30 2810 531 100,police.gr,1,Law Enforcement,Greece,EKAM Crete CT,websearch_2026_special_ops_ct6
+BSIJ Constanta - Constanta,Public Affairs,bsij.constanta@politiaromana.ro,+40 241 502 100,politiaromana.ro,1,Law Enforcement,Romania,BSIJ Coast CT,websearch_2026_special_ops_ct6
+Alpha Lviv - Lviv,Public Affairs,alpha.lviv@ssu.gov.ua,+380 32 295 3100,ssu.gov.ua,1,Law Enforcement,Ukraine,Alpha West CT,websearch_2026_special_ops_ct6
+JOAK Izmir - Izmir,Public Affairs,joak.izmir@jandarma.gov.tr,+90 232 484 3100,jandarma.gov.tr,1,Law Enforcement,Turkey,JOAK Aegean CT,websearch_2026_special_ops_ct6
+SAS Anamur - Anamur,Public Affairs,sas.anamur@dzkk.tsk.tr,+90 324 681 3100,dzkk.tsk.tr,1,Military,Turkey,SAS Med CT,websearch_2026_special_ops_ct6
+SBU Kharkiv - Kharkiv,Public Affairs,sbu.kharkiv@ssu.gov.ua,+380 57 700 3100,ssu.gov.ua,1,Law Enforcement,Ukraine,SBU East CT,websearch_2026_special_ops_ct6
+Cobra Klagenfurt - Klagenfurt,Public Affairs,cobra.klagenfurt@polizei.gv.at,+43 463 808 100,polizei.gv.at,1,Law Enforcement,Austria,Cobra South CT,websearch_2026_special_ops_ct6
+DARD Neuchatel - Neuchatel,Public Affairs,dard@police.ne.ch,+41 32 889 3100,police.ne.ch,2,Law Enforcement,Switzerland,Neuchatel DARD CT,websearch_2026_special_ops_ct6
+BOA Szczecin - Szczecin,Public Affairs,boa.szczecin@policja.pl,+48 91 460 3200,policja.pl,2,Law Enforcement,Poland,BOA Pomerania CT,websearch_2026_special_ops_ct6
+AGAT Bytom - Bytom,Public Affairs,agat.bytom@mon.gov.pl,+48 32 730 3100,wojsko-polskie.pl,1,Military,Poland,AGAT Silesia CT,websearch_2026_special_ops_ct6

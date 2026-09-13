@@ -52,6 +52,7 @@ func main() {
 	api.Post("/send-email", handlers.SendEmail)
 	api.Post("/send-bulk-email", handlers.SendBulkEmail)
 	api.Get("/email-log", handlers.GetEmailLog)
+	api.Post("/check-bounces", handlers.CheckBounces)
 
 	// Pages
 	app.Get("/report", handlers.GetReport)
